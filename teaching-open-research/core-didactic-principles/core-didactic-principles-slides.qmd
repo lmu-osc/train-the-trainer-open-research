@@ -343,7 +343,7 @@ At the end of this session, you will...
 - **Remember** basic didactic concepts as the foundation for learning success
 - **Explain** and **compare** how knowledge can be organized depending on the level of expertise
 - **Evaluate** the alignment between learning objectives, assessment types and teaching activities
-- **Formulate** concrete learning objectives according to specific learning domains for real-world content
+- **Formulate** concrete learning objectives according to specific learning domains for real-world content - *time-dependent*
 :::
 
 ::: {.notes}
@@ -401,7 +401,7 @@ Today, this definition has expanded a little, as we will see next.
 :::
 
 ::: {.notes}
-**Presenter Notes**: Within the realm of school pedagogics, didactics consists in planning and organizing successful processes of students’ learning. According to Dolch’s (1967) seminal definition, didactics is the science of learning and teaching in general. This definition was later expanded to speficially include teaching and learning strategies connnected to the design adnd formulation of learning contents. 
+**Presenter Notes**: Within the realm of school pedagogics, didactics consists in planning and organizing successful processes of students’ learning. According to Dolch’s (1967) seminal definition, didactics is the science of learning and teaching in general. This definition was later expanded to specifically include teaching and learning strategies connnected to the design and formulation of learning contents. 
 :::
 
 ---
@@ -475,28 +475,28 @@ Overall, this aligns with what in educational sciences is known as constructivis
 
 ---
 
-## What *is* learning?
+<!-- ## What *is* learning? -->
 
-:::incremental
-> As a **process** (*not a product*), learning ...
+<!-- :::incremental -->
+<!-- > As a **process** (*not a product*), learning ... -->
 
-- is **learner-centered** and something that learners themselves **"do"**
-- is **active** and **self-controlled**
-- is **integrated** in a broader context and a positive learning environment
-- is **shaped** by prior knowledge
+<!-- - is **learner-centered** and something that learners themselves **"do"** -->
+<!-- - is **active** and **self-controlled** -->
+<!-- - is **integrated** in a broader context and a positive learning environment -->
+<!-- - is **shaped** by prior knowledge -->
 
-:::
+<!-- ::: -->
 
-:::footer
-@efgiviaAnalysisConstructivismLearning2021, @lovettHowLearningWorks2023. Slide adapted from Laura Carter: "Evidence-based Training" [https://zenodo.org/records/18905547](https://zenodo.org/records/18905547). Slide originally licensed under CC BY 4.0: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)  
-:::
+<!-- :::footer -->
+<!-- @efgiviaAnalysisConstructivismLearning2021, @lovettHowLearningWorks2023. Slide adapted from Laura Carter: "Evidence-based Training" [https://zenodo.org/records/18905547](https://zenodo.org/records/18905547). Slide originally licensed under CC BY 4.0: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)   -->
+<!-- ::: -->
 
-::: {.notes}
-**Presenter Notes**: Let us look at "learning" even more in detail.
-As described in Efgivia et al,  learning is an active, learner-centered process, where learners build knowledge internally rather than just simply receiving it from their teachers or instructors. It emphasizes instructors and the active creators of the learning environment in which learning is embedded instead of just being the providers of information. Importantly, what learners bring with them matters, and learning will be influenced by this prior knowledge.
-:::
+<!-- ::: {.notes} -->
+<!-- **Presenter Notes**: Let us look at "learning" even more in detail. -->
+<!-- As described in Efgivia et al,  learning is an active, learner-centered process, where learners build knowledge internally rather than just simply receiving it from their teachers or instructors. It emphasizes instructors and the active creators of the learning environment in which learning is embedded instead of just being the providers of information. Importantly, what learners bring with them matters, and learning will be influenced by this prior knowledge. -->
+<!-- ::: -->
 
----
+<!-- --- -->
 
 ## What *is* learning?
 
@@ -505,7 +505,7 @@ As described in Efgivia et al,  learning is an active, learner-centered process,
 - Learning does **not happen in a vacuum**. <br>
 The **learning context matters**!  
   - New ideas **are interpreted** through the lens of **what learners already know**
-  - Learners are **not empty "vessels"** to be filled
+  - Learners are **not** empty "vessels" to be filled
   
 :::
 
@@ -529,7 +529,7 @@ What this means in practice is that learners are not “empty vessels” waiting
 - Learning does **not happen in a vacuum**. <br>
 The **learning context matters**!  
   - New ideas **are interpreted** through the lens of **what learners already know**
-  - Learners are **not empty "vessels"** to be filled
+  - Learners are **not** empty "vessels" to be filled
   
 
 
@@ -1186,8 +1186,11 @@ Finally, the assessment task is a reflection essay. Here, learners summarize the
 **Presenter Notes**: Let's recap: Bloom’s taxonomy is a hierarchical model used for classifying learning objectives by levels of complexity and specificity. Bloom’s taxonomy was created to outline and clarify how learners acquire new knowledge and skills. Though the original intention of the taxonomy was to serve as an assessment tool, Bloom’s taxonomy is effective in helping instructors identify clear learning objectives as well as create purposeful learning activities and instructional materials.
 
 There are three learning domains:
+
 - Cognitive: knowledge or thinking
+
 - Affective: growth in feelings or emotional areas (attitude or self)
+
 - Psychomotor: manual or physical skills
 
 Learning objectives can be assigned to different taxonomy levels. Taxonomies serve to organize learning objectives. The most-used taxonomy is the one for the cognitive learning domain. 
@@ -1234,8 +1237,6 @@ Take 10 minutes for this task.
 ---
 
 ## Bonus activity: Formulating learning objectives and assessment methods
-
-<br>
 
 1. **Navigate** to the following online tutorial: [https://lmu-osc.github.io/introduction-to-zotero/](https://lmu-osc.github.io/introduction-to-zotero/).
 
@@ -1381,14 +1382,14 @@ What do we see in the results?
 
 ---
 
-## Learning objectives - recap
+## Learning objectives - looking back
 
 At the end of this session, you now...
 
 - **Remember** basic didactic concepts as the foundation for learning success✅
 - **Explain** and **compare** how knowledge can be organized depending on the level of expertise✅
 - **Evaluate** the alignment between learning objectives, assessment types and teaching activities✅
-- **Formulate** concrete learning objectives according to specific learning domains for real-world content✅
+- **Formulate** concrete learning objectives according to specific learning domains for real-world content - *time-dependent*
 
 ::: {.notes}
 **Presenter Notes**: Looking back at the learning objectives, this is what we achieved today. Great work! What are your questions?
@@ -1400,10 +1401,6 @@ At the end of this session, you now...
 
 ::: {#refs}
 :::
-
----
-
-# Thanks!
 
 ---
 
@@ -1453,13 +1450,3 @@ At the end of this session, you now...
 <!-- ::: -->
 
 <!-- --- -->
-
-
-## TODO
-
-- [x] Add wordcloud and QR codes
-- [x] Add alt text to all figures
-- [x] Sort out all references
-- [ ] Check slide size content in full screen
-
-
