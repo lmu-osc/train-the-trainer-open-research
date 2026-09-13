@@ -77,8 +77,8 @@ Before completing this submodule, please carefully read about the prerequisites.
 <div style="font-size: 0.8em;">
 | Prerequisite   |  Description  | Link/Where to find it   |
 |------------|------------|------------|
-| Basic familiarity with Open Science concepts and practices | Examples: Replication crisis, open access, R, version control, preregistration, etc.| [Click here to get familiar with Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
-| Core didactic principles | A firm grasp on didactic tools | [ADD Link](https://quarto.org) |
+| Basic familiarity with Open Science concepts and practices | Examples: Replication crisis, open access, R, version control, preregistration, etc.| [OSC Website](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
+| Core didactic principles | A firm grasp on didactic tools | [OSC Website](https://lmu-osc.github.io/train-the-trainer-student-track-pedagogy/teaching-open-research/core-didactic-principles/) |
 </div>
 
 ::: {.notes}
@@ -153,16 +153,13 @@ Finally, constructive feedback is information given to help someone improve thei
 - **Tips** for a **successful** OR event
 
 ::: {.notes}
-**Presenter Notes**: This session focuses on both the practical and pedagogical aspects of organizing and delivering an Open Research event.
-
-
-**Presenter Notes**: This session covers both the practical and pedagogical aspects of organizing an Open Research event.
+**Presenter Notes**: This session focuses on both the practical and pedagogical aspects of organizing and delivering an Open Research event. When I say Open Research event, I really mean anything from a one-off lecture, to a workshop, seminar, seminar series, lunch talk or full course.
 
 We will begin with the practical and logistical considerations, including what to think about when planning, organizing, and delivering an OR event.
 
 We will then focus on designing and structuring the event. We will introduce the ARIPE+ scheme as a framework for structuring the content of an OR event, and consider how to foster learner motivation and active participation to help with the learning process. We will also look at ways to assess learners’ prior or existing knowledge, so that activities can be adapted to their needs, and discuss how to provide useful, timely, and constructive feedback.
 
-Finally, we will go over some tips on how to make your Open Research even successful.
+Finally, we will go over some tips on how to make your Open Research even more successful for your learners.
 :::
 
 ---
@@ -172,7 +169,7 @@ Finally, we will go over some tips on how to make your Open Research even succes
 At the end of this session, you will be able to:
 
 - **Consider** practical and logistical challenges of organizing an Open Research event
-- **Design** an Open Research event according to the five phases of the ARIPE+ scheme [@stadeli2013aviva] to facilitate the learning process
+- **Structure** an Open Research event according to the five phases of the ARIPE+ scheme [@stadeli2013aviva] to facilitate the learning process
 - **Apply** techniques to **enhance** motivation in your learners
 - **Understand** key elements of constructive feedback
 
@@ -251,8 +248,7 @@ f. None of the above
 :::
 
 ::: {.notes}
-**Instructor Notes**: The pre-submodule survey serves to examine learners' prior knowledge about the submodule's topic.
-- Use free survey software such as particify or formR to establish the following questions (shown on separate slides).
+**Instructor Notes**: The pre-submodule survey serves to examine learners' prior knowledge about the submodule's topic. Use free survey software such as particify or formR to establish the following questions (shown on separate slides).
 :::
 
 ---
@@ -305,20 +301,20 @@ What do we see in the results?
 
 ## Your turn! What to consider for planning an Open Research event?
 
-<br>
-
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
 What do you think are some initial **points to consider** when you **plan** an **Open Research event**? (3 minutes)
 <br>
 *(event = workshop, course, lecture, seminar, talk etc.)*
 </div>
 
+<br>
 *Go to Section 1 of the Open Science Workshop workbook and navigate to exercise B1. Write down your thoughts. Take 3 minutes for this exercise.*
 
 ::: {.notes}
 **Presenter Notes**: Next question when planning an event on Open Research: what do you think are some initial **points to consider** when you **plan** an **event on Open Research**? An event could be a workshop, course, lecture, seminar, talk etc. Take three minutes to collect your thoughts.
 
 **Instructor Notes**: Answers that instructor might be looking for are: 
+
 - What is a suitable topic?
 - Who is my audience? How much experience do they have with Open Research topic X?
 - What is the event format? 
@@ -347,6 +343,8 @@ Made with generative AI.
 
 Things to consider **when organizing an event**:
 
+<div style="font-size: 0.75em;">
+
 :::incremental
 - **Who** could the target audience be?
 - What are suitable **dates and times**?
@@ -357,28 +355,31 @@ Things to consider **when organizing an event**:
 - What are the **administrative procedures** (catering, room booking..)?
 - How can I **advertise** my event?
 - **Check your working conditions**: What is expected from *me*? How much time do I have?
+- ...
 :::
+</div>
+
 
 <!-- https://docs.google.com/document/d/1vh34ziAVGYErtco_8tNhfyOJo29x_BBk7g9UH08kzZU/edit?tab=t.0#heading=h.lw4i2wvq5ump -->
 
 ::: {.notes}
 **Presenter Notes**: Before focusing on the learning design itself, it is important to consider the practical aspects of organizing an Open Research event. Good planning helps create an environment in which learners can fully engage with the learning activities.
 
-The first question is who the target audience is. Are you designing the event for undergraduate students, doctoral researchers, professional staff, or a mixed audience? 
+The first question is who the target audience is. Are you designing the Open Research event for undergraduate students, doctoral researchers, professional staff, or a mixed audience? 
 
-You should also think carefully about dates and times. Consider learners’ schedules, competing commitments, and time zones if the event includes online attendees. Choosing an appropriate time can have a significant impact on attendance and engagement. For example, if learners have to travel for your course, you might consider avoiding periods where there are large festivities in town happening at the same time.
+You should also think carefully about dates and times. Consider learners’ schedules, competing commitments, and time zones if the event includes online attendees. For example, if learners have to travel for your course, you might consider avoiding periods where there are large festivities in town happening at the same time.
 
-Another important consideration is accessibility and learners needs. Think about whether learners may require accessible rooms, captioning, alternative formats for materials, or flexible participation options. This ties in with creating an inclusive learning environment.
+Another important consideration is accessibility and learners needs. Think about whether learners may require accessible rooms, captioning, alternative formats for materials, or flexible participation options. This ties in with creating an inclusive learning environment, which we will discuss in the next session.
 
-Next, consider the most suitable modality. Depending on the goals and audience, an event may work best in person, online, or in a hybrid format. Each option offers different opportunities and challenges in terms of interaction, logistics, and resource requirements.
+Next, consider the most suitable modality. Depending on the Open Research topic, the goals and audience, an event may work best in person, online, or in a hybrid format. Each option offers different opportunities and challenges in terms of interaction, logistics, and resource requirements.
 
-You will also need to identify any equipment, materials, or software required. This could include presentation equipment, laptops, workshop materials, collaboration tools, or specialized research software.
+You will also need to identify any equipment, materials, or software required. This is particularly relevant for Open Research events on computational reproducibility, for example, where learners might need to work on their own laptops with specific open software such as RStudio or on GitHub.
 
 Related to this is understanding how to book rooms and equipment. Institutional procedures often require advance planning, and popular spaces or resources may need to be reserved well ahead of time.
 
-In addition, familiarize yourself with any administrative procedures that may apply, such as room bookings, catering requests, registration systems, or approval processes. These practical details can have a significant impact on the smooth running of the event.
+In addition, familiarize yourself with any administrative procedures that may apply, such as room bookings, catering options, attendee registration systems etc.
 
-Then, consider how you will advertise the event. Effective communication helps ensure that the intended audience is aware of the opportunity and understands its value. This might include email lists, institutional websites, newsletters, social media channels, or personal networks.
+Then, consider how you will advertise the event. This helps ensure that the intended audience is aware of the opportunity and understands its value. This might include email lists, institutional websites, newsletters, social media channels, or personal networks.
 
 Finally, check your own working conditions: how much time do you have? What is expected of you from your department? What do you need to achieve with your learners? Being clear about these constraints helps ensure that your plans are realistic and focused.
 :::
@@ -455,7 +456,6 @@ In practice, you move back and forth between the phases and do not necessarily f
   - Clarify your **expectations** to the learners (*attendance, homework, criteria for obtaining a certificate, assessments, general conduct...*)
   - Let your learners find **common goals** and shared interests
 
-  
 :::
 
 :::
@@ -550,7 +550,6 @@ In the second example, "Learners will create a reproducible research document us
 - **Milestones to achieve during the workshop**:
 - **Expectations**: 
 
-<br>
 *Go to Section 1 of the Open Science Workshop workbook and navigate to exercise B2. Work in pairs. Take 5 minutes for this exercise.*
 
 ::: {.notes}
@@ -586,11 +585,11 @@ Icon from [https://icons8.com/](https://icons8.com/).
 :::
 
 ::: {.notes}
-**Presenter Notes**: Motivation is a critical element in the learning process. It matters because even the best-designed learning activities are less effective if learners do not see the value in participating or do not feel engaged. You can have excellent content and well-planned exercises on open research topics, but if learners are disengaged, learning becomes much harder. Motivation is especially important in the context of open research, because some of its practices are difficult to implement in different contexts, learners may face obstacles or challenges within their research groups etc. 
+**Presenter Notes**: Motivation is a critical element in the learning process. It matters because you can have excellent content and well-planned exercises on open research topics, but if learners are disengaged, learning becomes much harder. Motivation is especially important in the context of open research, because some of its practices are difficult to implement in different contexts, learners may face obstacles or challenges within their research groups etc. 
 
-When learners are curious, engaged, and willing to participate, that positive energy often encourages others to join in. The opposite is also true, if frustration or disengagement spreads, it can affect the whole learning environment. This can come from both the other learners, or the instructor.
+Motivation is contagious! When learners are curious, engaged, and willing to participate, that energy often encourages others to join in. The opposite is also true, if frustration or disengagement spreads, it can affect the whole learning environment. This can come from both the other learners, or the instructor.
 
-The good news is that instructors can influence motivation. You can't control every learner's level of interest, but you can create conditions that support motivation and make it a key element of the design process. Explaining why the topic matters, connecting it to learners' goals, providing achievable challenges, creating opportunities for success, and fostering a respectful and inclusive atmosphere can all make a real difference.
+The good news is that instructors can influence motivation. You can't control every learner's level of interest, but you can create conditions that support motivation. We will talk about some concrete strategies for boosting motivation next.
 :::
 
 ---
@@ -611,11 +610,11 @@ Think back to **open research courses**, workshops or seminars you attended in t
 <br>
 <br>
 
-<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
+:::footer
 [https://zenodo.org/records/18905547](https://zenodo.org/records/18905547)
 <br>
 [https://carpentries.github.io/instructor-training/08-motivation.html#brainstorming-motivational-impacts](https://carpentries.github.io/instructor-training/08-motivation.html#brainstorming-motivational-impacts)
-</div>
+:::
 
 ::: {.notes}
 **Presenter Notes**: How would you know if your learners are motivated? And what could you do to motivate them in the first place?
@@ -1183,31 +1182,41 @@ Activation methods are especially useful in this stage. They support learners in
 
 ### Providing feedback to learners to enhance learning
 
-![](images/feedback.png){fig-align="center" fig-alt="icon representing feedback bubbles"}
+
+::: columns
+
+::: {.column width="40%"}
+
+![](images/feedback.png){width=50% fig-align="center" fig-alt="icon representing feedback bubbles"}
+
+:::
+
+::: {.column width="60%"}
 
 :::incremental
-- Actively **initiate** feedback exchanges
 - Provide **targeted** feedback **early on** in the process so that learners can adapt
 - Be **constructive** in your feedback: What is a next step from here?
   - **Connect** it to the learning objectives
-  - **Balance** positive and negative feedback ("*feedback sandwich)
+  - **Balance** positive and negative feedback ("*feedback sandwich*")
   
 <!-- - Include **peer feedback** to increase engagement and shared learning -->
 :::
 
+:::
+::::
+
 :::footer
-@obrienProvidingPositiveConstructive2022, @wuPassiveActiveConstructive2023; 
+@obrienProvidingPositiveConstructive2022, @prochazkaSandwichFeedbackEmpirical2020, @wuPassiveActiveConstructive2023; 
 [https://zenodo.org/records/18905547](https://zenodo.org/records/18905547)
 :::
 
 ::: {.notes}
 **Presenter Notes**: Some strategies where you can use feedback to enhance the learning process:
 
-- Actively **initiate** feedback exchanges rather than waiting for learners to request them
 - Provide **targeted feedback early** so learners can adjust during the learning process
 - Make feedback **constructive** by focusing on **clear next steps**
   - **Link** feedback explicitly to the learning objectives
-  - **Balance** positive and corrective feedback to support learning and motivation (*"feedback sandwich"*)
+  - **Balance** positive and corrective feedback to support learning and motivation (*"feedback sandwich"*: *positive - constructive criticism - positive*)
 
 :::
 
@@ -1215,27 +1224,37 @@ Activation methods are especially useful in this stage. They support learners in
 
 ### Constructive feedback considerations
 
-![](images/empathy.png){fig-align="center" fig-alt="icon representing feedback bubbles"}
+
+::: columns
+
+::: {.column width="40%"}
+
+![](images/empathy.png){fig-align="center" fig-alt="icon representing feedback bubbles" width=40%}
+
+:::
+
+::: {.column width="60%"}
 
 :::incremental
-- Your **words matter**
+- Your **words matter**!
 - Giving and receiving feedback can be **hard**
-- Lead the feedback conversation with **empathy**
+  - Lead the feedback conversation with **empathy**
 - Consider the **cultural context**
 :::
+
+:::
+::::
 
 :::footer
 [https://zenodo.org/records/18905547](https://zenodo.org/records/18905547). See also this [article](https://erinmeyer.com/wp-content/uploads/2023/10/When-Diversity-Meets-Feedback.pdf) by Erin Meyer, author of *The Culture Map*.
 :::
 
 ::: {.notes}
-**Presenter Notes**: Giving and receiving feedback can be challenging, especially when it involves uncertainty or differing perspectives.
+**Presenter Notes**: The main take-home from providing feedback is that your words matter, so it is important to choose them wisely.
 
-The choice of words matters, as feedback can influence how learners understand their progress and how they approach future learning.
+Giving and receiving feedback can be challenging, especially when it involves uncertainty or differing perspectives, as is often the case for Open Research. Here, it can help to lead feedback conversations with empathy, and to pay attention to how messages may be received and creating space for dialogue.
 
-It can help to lead feedback conversations with empathy, by paying attention to how messages may be received and creating space for dialogue.
-
-Finally, adapting your language and delivery to the norms of the person receiving the feedback can help prevent misunderstandings and make the feedback more effective.
+Finally, consider the cultural context in which the other person is in can help preventing misunderstandings. We will talk about this more in the last session.
 :::
 
 ---
@@ -1277,9 +1296,9 @@ Finally, adapting your language and delivery to the norms of the person receivin
 - Reiterate the **learning objectives**
 - Highlight important **take-home** messages
 - Small **check-in assessment** to see where your learners are at
-- Clearly communicate **expectations** and timeframe for **homework**
+- Clearly communicate **expectations** and timeframe for **homework** (*if applicable*)
 - Provide an **outlook** on the following sessions
-- Open the floor for questions
+- Open the floor for **questions**
   - "**What are your questions?**" instead of "*Do you have any questions?*"
   
 :::
@@ -1379,7 +1398,7 @@ Finally, adapting your language and delivery to the norms of the person receivin
 At the end of this session, you are now able to:
 
 - **Consider** practical and logistical challenges of organizing an Open Research event ✅ 
-- **Design** an Open Research event according to the five phases of the ARIPE+ scheme [@stadeli2013aviva] to facilitate the learning process ✅ 
+- **Structure** an Open Research event according to the five phases of the ARIPE+ scheme [@stadeli2013aviva] to facilitate the learning process ✅ 
 - **Apply** techniques to **enhance** motivation in your learners ✅ 
 - **Understand** key elements of constructive feedback ✅ 
 
@@ -1506,10 +1525,6 @@ Check out [PROFiL](https://www.lmu.de/profil/de/) and their courses on slide des
 
 ---
 
-# Thanks!
-
----
-
 <!-- # For instructors -->
 
 <!-- --- -->
@@ -1569,12 +1584,3 @@ Check out [PROFiL](https://www.lmu.de/profil/de/) and their courses on slide des
 <!-- ::: -->
 
 <!-- --- -->
-
-## TODO
-
-- [x ] Sort out all alt text fir figures
-- [x ] Sort out QR codes for surveys
-- [ ] Check slide size content in full screen
-
-
----
