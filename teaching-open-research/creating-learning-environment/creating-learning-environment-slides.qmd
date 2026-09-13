@@ -65,27 +65,27 @@ This current work by Sarah von Grebmer zu Wolfsthurn, Sara Lil Middleton and Mal
 **Accessibility Tips**: Where applicable, this is a space to add any tips you may have to facilitate the accessibility of your slides and activities. 
 :::
 
----
+<!-- ## Prerequisites
 
-<!-- ## Prerequisites - EDIT -->
+::: {.callout-important}
+Before completing this submodule, please carefully read about the prerequisites.
+:::
 
-<!-- ::: {.callout-important} -->
-<!-- Before completing this session, please carefully read about the prerequisites. -->
-<!-- ::: -->
+<div style="font-size: 0.8em;">
+| Prerequisite   |  Description  | Link/Where to find it   |
+|------------|------------|------------|
+| Basic familiarity with Open Science concepts and practices | Examples: Replication crisis, open access, R, version control, preregistration, etc.| [OSC Website](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
+| Core didactic principles | A firm grasp on didactic tools | [OSC Website](https://lmu-osc.github.io/train-the-trainer-student-track-pedagogy/teaching-open-research/core-didactic-principles/) |
+| Concept planning | Familiarity with techniques to plan and structure an Open Research event | [OSC Website](https://lmu-osc.github.io/train-the-trainer-student-track-pedagogy/teaching-open-research/core-didactic-principles/) |
+</div>
 
-<!-- <div style="font-size: 0.6em;"> -->
-<!-- | Prerequisite   |  Description  | Link/Where to find it   | -->
-<!-- |------------|------------|------------| -->
-<!-- | Basic familiarity with Open Science concepts and practices | Examples: Replication crisis, open access, R, version control, preregistration, etc.| [Click here to get familiar with Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) | -->
-<!-- | Core didactic principles | A firm grasp on important didactic tools and elements | [Download Link](https://quarto.org) | -->
-<!-- | Knowledge about designing teaching events | Tools and strategies to create a learning experience to convey content and skills | [Download Link](https://quarto.org) | -->
-<!-- </div> -->
+::: {.notes}
+**Presenter Notes**: For this session, it is important that you have previously thought about didactics and incorporating pedagogical elements in your teaching. You should be familiar with the basics of what learning means, the framework of constructivism, constructive alignment and how to set and formulate learning objectives. You should also be familiar with evidence-based methods to plan and structure your open research event. If you are not yet familiar with these concepts, please see the previous session on "Core didactic principles" and "Concept planning" when teaching about Open Research or Open Science.  
 
-<!-- ::: {.notes} -->
-<!-- **Presenter Notes**: For this session, it is important that you have previously thought about didactics and incorporating pedagogical elements in your teaching. You should be familiar with the basics of what learning means, the framework of constructivism, constructive alignment and how to set and formulate learning objectives If you are not yet familiar with these concepts, please see the previous session on "Core didactic principles" when teaching about Open Research or Open Science.  -->
+**Instructor Notes**: These are the prerequisites for this session. Before you get started on this session with your audience, you need to ensure that the audience fulfills these criteria.
+:::
 
-<!-- **Instructor Notes**: These are the prerequisites for this session. Before you get started on this session with your audience, you need to ensure that the audience fulfills these criteria. -->
-<!-- ::: -->
+-->
 
 <!-- --- -->
 
@@ -156,7 +156,6 @@ Finally, inclusive language means recognising and respecting diversity while avo
 - Universal Design for Learning (UDL)
 - Inclusive language
 - Perspective-taking and being a role model
-
 :::
 
 ---
@@ -169,7 +168,6 @@ At the end of this session, you will be able to:
 - **Characterize** strategies for creating a positive learning environment, including the roles of verbal strategies, body language, growth mindset, interaction norms, perspective-taking, role modelling and inclusive language
 - **Describe** the impact of a growth mindset and interaction norms on the learning environment
 - **Reflect** which strategies for creating a positive learning environment apply in the Open Research context
-
 
 <!-- UNCOMMENT if exercises are included- **Apply** evidence-informed teaching strategies such as active listening and inclusive language to foster a positive learning environment in Open Research training -->
 
@@ -203,7 +201,7 @@ Link to survey: [https://partici.fi/47416756](https://partici.fi/47416756)
 
 ### Question 1
 
-**What is your experience with actively creating a positive learning environment for your learners in Open Open Research events?**
+**What is your experience with actively creating a positive learning environment for your learners in OR events?**
 
 a. I have never organized an Open Research event, so this does not apply
 
@@ -242,7 +240,6 @@ d. Establishing norms for interaction
 e. Using inclusive language
 
 f. None of the above/does not apply
-
 :::
 
 ---
@@ -264,8 +261,6 @@ What do we see in the results?
 
 **Accessibility Tip**: Have people work in pairs if someone did not bring their phone/does not have a phone. This survey also cannot be completed in an asynchronous setting. 
 :::
-
----
 
 <!-- ## The "learning environment" -->
 
@@ -310,28 +305,24 @@ Research suggests that a positive learning environment can support learner engag
 ## Why the learning environment matters
 
 :::: {.columns}
-
 ::: {.column width="50%"}
 
 ![](images/01-when-a-flower-doesnt-bloom.jpg){width="100%" fig-alt="Quote by Alexander den Heijer that says When a flower does not bloom, you fix the environment in which it grows, not the flower"}
 
 :::
-
 ::: {.column width="50%"}
 
 :::incremental
-<br>
 
 - Influences **motivation**
 - Influences **performance**
-- Influences **emotional well-being**
+- Influences **well-being** (psychological and physical)
 
 <br>
 
 :::
 
 :::
-
 ::::
 
 ::: footer
@@ -341,11 +332,7 @@ Research suggests that a positive learning environment can support learner engag
 ::: {.notes}
 **Presenter Notes**: Research shows that the learning environment has a meaningful impact on learning outcomes. It can influence learners' motivation to engage with a topic, seminar or course and their overall performance.
 
-The learning environment also affects emotional well-being. When learners feel supported, respected, and psychologically safe, they are generally better able to participate and learn.
-
-Its impact can extend beyond the event or course itself. Positive learning environments are associated with better long-term knowledge retention and the development of competencies that learners can apply in their professional roles.
-
-In brief: it matters where and how you teach your learners, perhaps more than you might think.
+The learning environment also affects well-being, in the physical and the psychological sense. When learners feel supported, respected, and safe, they are generally better able to participate and learn.
 :::
 
 ---
@@ -353,27 +340,22 @@ In brief: it matters where and how you teach your learners, perhaps more than yo
 ## Why the learning environment matters
 
 :::: {.columns}
-
 ::: {.column width="50%"}
 
 ![](images/01-when-a-flower-doesnt-bloom.jpg){width=100% fig-alt="Quote by Alexander den Heijer that says When a flower does not bloom, you fix the environment in which it grows, not the flower"}
 
 :::
-
 ::: {.column width="50%"}
-
-<br>
 
 - Influences **motivation**
 - Influences **performance**
-- Influences **emotional well-being**
+- Influences **well-being** (psychological and physical)
 
 <br>
 
-All linked to long-term **knowledge retention** and increased **job competencies**.
+All linked to **long-term knowledge retention** and increased **job competencies**.
 
 :::
-
 ::::
 
 ::: footer
@@ -381,11 +363,7 @@ All linked to long-term **knowledge retention** and increased **job competencies
 :::
 
 ::: {.notes}
-**Presenter Notes**: Research shows that the learning environment has a meaningful impact on learning outcomes. It can influence learners' motivation to engage with a topic, seminar or course and their overall performance.
-
-The learning environment also affects emotional well-being. When learners feel supported, respected, and psychologically safe, they are generally better able to participate and learn.
-
-Its impact can extend beyond the event or course itself. Positive learning environments are associated with better long-term knowledge retention and the development of competencies that learners can apply in their professional roles.
+**Presenter Notes**: Its impact can extend beyond the event or course itself. Positive learning environments are associated with better long-term knowledge retention and the development of competencies that learners can apply in their professional roles.
 
 In brief: it matters where and how you teach your learners, perhaps more than you might think.
 :::
@@ -402,12 +380,13 @@ Activity:
 **What is a *positive* learning environment?**
 </div>
 
+<br>
 *Go to Section 1 of the Open Science Workshop workbook and navigate to exercise C1. Take 5 minutes for this exercise.*
 
 ::: {.notes}
-**Presenter Notes**: Time for an activity! What is a positive learning environment to you? What elements are in there? Write a few bullet points on your thoughts and what you connect with this concept. Save this as part of your developing teaching philosophy for future reference in the workbook. Keep this in mind as we go along.
+**Presenter Notes**: Time for an activity! What is a positive learning environment to you? What elements are in there? Write a few bullet points on your thoughts and what you connect with this concept.
 
-**Instructor Notes**: Plan about 5 minutes for this activity. Some possible elements of a positive learning environment, see for example three dimensions of  Rusticus et al., 2023 from a learners perspective: personal development (active learning in class, practical applications of their learning, visuals, realistic expectations); relationships (faculty support, peer interaction, group work); and institutional setting (physical structure, expectations and culture of environment, community, smaller class sizes).
+**Instructor Notes**: Plan about 5 minutes for this activity. Some possible elements of a positive learning environment, see for example the three dimensions of  Rusticus et al., 2023 from a learners perspective: personal development (active learning in class, practical applications of their learning, visuals, realistic expectations); relationships (faculty support, peer interaction, group work); and institutional setting (physical structure, expectations and culture of environment, community, smaller class sizes).
 :::
 
 ---
@@ -417,8 +396,6 @@ Activity:
 ::: {.notes}
 **Presenter Notes**: In this next section, we will discuss different methods and tools you can use to create a positive learning environment. Note that for now, we will stay a little more general, but throughout the following slides I want you to also think about how these methods and tools could be implemented in an Open Research training event where you are teaching about an Open Science topic.
 :::
-
----
 
 <!-- ## Practical activity: Exploring attitudes towards your audience -->
 
@@ -441,8 +418,6 @@ Activity:
 <!-- **Instructor Notes**: Allow for approx. 5 minutes for this task. -->
 <!-- ::: -->
 
----
-
 ## Verbal strategies
 
 :::: {.columns}
@@ -452,9 +427,7 @@ Activity:
 ![](images/08-small-talk.png){width="70%" fig-alt="icon showing two people making small talk with each other" fig-align="center"}
 
 :::
-
 ::: {.column width="60%"}
-
 
 :::incremental
 - **Small-talk** (yes, it is important)
@@ -465,7 +438,6 @@ Activity:
 :::
 
 :::
-
 ::::
 
 ::: {.callout-note}
@@ -502,29 +474,27 @@ Low-context cultures: Most meaning is communicated explicitly through words. Peo
 
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
-"... **listening with attention and intention** to understand another person’s message, while **showing** that **understanding** through responses such as clarification, reflection, and feedback."
+"... **listening with attention and intention** to understand another person’s message, while **showing** understanding through responses such as clarification, and reflection."
 </div>
 
 :::: {.columns}
-
-::: {.column width="30%"}
+::: {.column width="20%"}
 
 ![](images/02-active-listening.jpg){width="100%" fig-alt="illustration showing an hand close to a listening ear representing active listening"}
 
 :::
 
-::: {.column width="70%"}
+::: {.column width="80%"}
 
 :::incremental
 - **Paraphrase** what audience members express (*"So you are saying that.."*)
 - **Make** explicit **connections** between statements (*"This connects to what we discussed before.."*)
 - **Refrain** from premature **judgment** (*"Ah the SAME happened to me!"*)
-- Ask for **clarification** (*"Do I understand correctly.."*)
+- Ask for **clarification** (*"Do I understand correctly..?"*)
 - **Listen fully** before responding
 :::
 
 :::
-
 ::::
 
 :::footer
@@ -544,7 +514,7 @@ When something is unclear, ask for clarification rather than making assumptions.
 
 Finally, listen fully before responding. Allowing learners to finish their thoughts demonstrates respect and leads to more thoughtful conversations.
 
-**Instructor Notes**: Highlight active listening as a transferrable skill.
+**Instructor Notes**: Highlight active listening as a transferable skill.
 :::
 
 ---
@@ -552,7 +522,6 @@ Finally, listen fully before responding. Allowing learners to finish their thoug
 ## Body language
 
 :::: {.columns}
-
 ::: {.column width="70%"}
 
 :::incremental
@@ -562,24 +531,20 @@ Finally, listen fully before responding. Allowing learners to finish their thoug
 :::
 
 :::
-
 ::: {.column width="30%"}
 
 ![](images/04-gesticulating.jpeg){width="100%" fig-alt="photo of Italian astronaut Samantha Cristoforetti at a press conference in Milan, using her hands to get across a point."}
 
 :::
-
 ::::
 
 ::: footer
 Astronaut Samantha Cristoforetti. Milan, Italy. Photo by Pier Marco Tacca/Getty Images.
 :::
 
-
 ::: {.callout-note}
 Consider **cultural differences in body language**, e.g., perception of eye contact and body gestures.
 :::
-
 
 ::: {.notes}
 **Presenter Notes**: Body language can reinforce verbal communication and help create a welcoming learning environment.
@@ -588,7 +553,7 @@ For example, use your hands to highlight a point.
 
 Maintaining appropriate eye contact can show that you are attentive and engaged. 
 
-Beware that the meaning and interpretation of eye contact, gestures, and personal space can vary, so being aware of these differences can help support respectful and inclusive communication. For example, in many Western cultures like Germany, Candada etc. direct eye contact is a sign of confidence and engagement, whereas in other cultures it could be considered confrontational in parts of Japan and South Korea.
+Beware that the meaning and interpretation of eye contact, gestures, and personal space can vary, so being aware of these differences can help support respectful and inclusive communication. For example, in many Western cultures like Germany, Canada etc. direct eye contact is a sign of confidence and engagement, whereas in other cultures it could be considered confrontational in parts of Japan and South Korea.
 :::
 
 ---
@@ -601,9 +566,7 @@ Beware that the meaning and interpretation of eye contact, gestures, and persona
 <br>
 
 *Form groups of three. Go to Section 1 of the Open Science Workshop workbook and navigate to exercise C2. Follow the instructions. Take 6 minutes for this exercise.*
-
 </div>
-
 
 ::: {.notes}
 **Presenter Notes**: Form groups of three, one is the learner, one the instructor practicing the active listening, one the observer. The learner picks one of the questions, then tells the instructor about their thoughts on the question for approx. 2 minutes. The observer focuses on body language and verbal communication. At the end of the two minutes, discuss as the group. The learner goes first, and describes their experience with the body language and verbal strategies of the instructor. The observer shares their insights, and the instructor shares how the exercise was for them. 
@@ -616,8 +579,7 @@ Beware that the meaning and interpretation of eye contact, gestures, and persona
 ## Attitudes towards your audience: methods
 
 :::: {.columns}
-
-::: {.column width="70%"}
+::: {.column width="80%"}
 
 :::incremental
 - Motivate audience to get involved as **early as possible**
@@ -627,15 +589,12 @@ Beware that the meaning and interpretation of eye contact, gestures, and persona
 :::
 
 :::
-
-::: {.column width="30%"}
+::: {.column width="20%"}
 
 ![](images/05-introduce-yourself.png){width="70%" fig-alt="meme of a white dog with the title Well hello there"}
 
 :::
-
 ::::
-
 
 ::: {.callout-note}
 Consider **neurodiversity** when **designing engagement activities and visualizations**: color choices, sensory processing, mental imagery...
@@ -663,12 +622,10 @@ Finally, adapting to your audience means being responsive to their needs, experi
 
 ## Bonus exercise: Collect introductory activities
 
-<br>
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
 **Collect introductory activities that you use in your teaching on Open Research or saw in other Open Research training you attended and describe what effect you *think* they had on you or the learners**.
 </div>
 
-<br>
 <br>
 
 *Work in pairs. Go to Section 1 of the Open Science Workshop workbook and navigate to exercise C3. Follow the instructions. Take 6 minutes for this exercise.*
@@ -684,17 +641,15 @@ Finally, adapting to your audience means being responsive to their needs, experi
 ## Fostering a growth mindset
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
-**Growth mindset** = "the ability to reframe perceived failures as opportunities to learn and grow" [@dweckMindsetNewPsychology2006]
+**Growth mindset** = *the ability to reframe perceived failures as opportunities to learn and grow* [@dweckMindsetNewPsychology2006]
 </div>
 
 :::: {.columns}
-
 ::: {.column width="15%"}
 
 ![](images/12_growth_mindset.png){width="80%" fig-alt="icon with a purple lightbulb and roots to represent a growth mindset" fig-align="center"}
 
 :::
-
 ::: {.column width="85%"}
 
 :::incremental
@@ -706,7 +661,6 @@ Finally, adapting to your audience means being responsive to their needs, experi
 :::
 
 :::
-
 ::::
 
 ::: footer
@@ -731,7 +685,6 @@ Finally, realistic expectations are important. A growth mindset does not mean as
 **Question: Which learning interactions will be common in your event/course?** (*e.g., large group discussions, work in pairs..*)
 
 :::: {.columns}
-
 ::: {.column width="80%"}
 
 :::incremental
@@ -746,13 +699,11 @@ Finally, realistic expectations are important. A growth mindset does not mean as
 :::
 
 :::
-
 ::: {.column width="20%"}
 
 ![](images/11_code-of-conduct.png){width="50%" fig-alt="icon of two shaking hands over an official document representing a code of conduct"}
 
 :::
-
 ::::
 
 ::: footer
@@ -776,7 +727,6 @@ Examples:
 ## Universal design for learning
 
 :::: {.columns}
-
 ::: {.column width="60%"}
 
 :::incremental
@@ -789,13 +739,11 @@ Examples:
 :::
   
 :::
-
 ::: {.column width="40%"}
 
 ![](images/07-udl-summary.png){width="100%" fig-alt="figure from the official website of universal design for learning showing the three key areas action and expression, representation and engagement"}
 
 :::
-
 ::::
 
 ::: footer
@@ -809,11 +757,11 @@ UDL encourages educators to provide flexible ways for learners to engage with co
 
 The framework is based on research about how people learn and focuses on three key areas.
 
-Engagement refers to the why of learning, how we motivate learners, support their interests, and encourage active participation.
+Engagement refers to the *why* of learning, how we motivate learners, support their interests, and encourage active participation.
 
-Representation refers to the what of learning, how information is presented and whether learners have different ways to access and understand content.
+Representation refers to the *what* of learning, how information is presented and whether learners have different ways to access and understand content.
 
-Action and Expression refers to the how of learning, how learners can demonstrate their knowledge and skills through different methods.
+Action and Expression refers to the *how* of learning, how learners can demonstrate their knowledge and skills through different methods.
 
 We will not go into more detail here, but know that this is a framework that can help you design your events and the content for a wider range of learners. 
 
@@ -825,7 +773,6 @@ We will not go into more detail here, but know that this is a framework that can
 ## Expression: Inclusive language
 
 :::: {.columns}
-
 ::: {.column width="80%"}
 
 <br>
@@ -835,7 +782,6 @@ We will not go into more detail here, but know that this is a framework that can
 </div>
 
 :::
-
 ::: {.column width="20%"}
 
 <br>
@@ -843,7 +789,6 @@ We will not go into more detail here, but know that this is a framework that can
 ![](images/10_multicultural_audience.png){width="80%" fig-alt="icon with multiple speakers representing a multilingual audience"}
 
 :::
-
 ::::
 
 ::: footer
@@ -856,7 +801,7 @@ We will not go into more detail here, but know that this is a framework that can
 
 It means avoiding stereotypes, discrimination, and assumptions about learners’ identities, backgrounds, abilities, experiences, or knowledge.
 
-In a positive learning environment, inclusive language helps create a sense of belonging and supports equal opportunities for everyone to participate and contribute. As instructors, we can choose the language we use during our teaching. 
+In a positive learning environment, inclusive language helps create opportunities for everyone to participate and contribute. As instructors, we are the ones choosing the language we use during our teaching. 
 :::
 
 ---
@@ -928,7 +873,7 @@ In a positive learning environment, inclusive language helps create a sense of b
 ::: {.notes}
 **Presenter Notes**: It is very important to keep in mind that Learners come to Open Research with different backgrounds and experiences:
 
-- *Perspectives*: People may have different views on Open Research For example, one researcher may see preprints as a way to share findings quickly, while another may have concerns about sharing work before peer review.
+- *Perspectives*: People may have different views on Open Research. For example, one researcher may see preprints as a way to share findings quickly, while another may have concerns about sharing work before peer review.
 - *Disciplines*: Open practices vary across fields. For example, open data sharing may be common in astronomy, while researchers in neuroimaging studies may need to consider participant privacy and consent.
 - *Institutions*: Researchers may have different levels of institutional support. For example, one university may offer Open Access funding and training, while another may not provide any funding.
 - *Resources*: Time, funding, and support can influence participation. For example, a large research center may have dedicated data managers, while an independent researcher may have to these tasks alone.
@@ -968,7 +913,7 @@ In a positive learning environment, inclusive language helps create a sense of b
 
 <!-- ::: -->
 
----
+<!-- --- -->
 
 <!-- ## Interactions in your Open Research event -->
 
@@ -1001,8 +946,6 @@ In a positive learning environment, inclusive language helps create a sense of b
 ---
 
 ## Your turn! Challenges to a positive learning environment
-
-<br>
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
 **What do you think are potential *challenges* to a positive learning environment during an Open Research training event? How would you solve them?** 
@@ -1185,11 +1128,6 @@ und digitales Lernen. Springer VS.
 - [https://executive.berkeley.edu/thought-leadership/blog/art-active-listening](https://executive.berkeley.edu/thought-leadership/blog/art-active-listening)
 
 - [https://www.cmu.edu/student-affairs/civility/resources/active-listening.html](https://www.cmu.edu/student-affairs/civility/resources/active-listening.html)
-
----
-
-# Thanks!
-
 
 ---
 

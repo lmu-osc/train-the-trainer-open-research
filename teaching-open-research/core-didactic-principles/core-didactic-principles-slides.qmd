@@ -95,11 +95,8 @@ Before completing this submodule, please carefully read about the prerequisites.
 ## Getting started!
 
 ::: columns
-
 ::: {.column width="10%"}
-
 :::
-
 ::: {.column width="80%"}
 
 <br>

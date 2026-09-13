@@ -66,9 +66,7 @@ This current work by Sarah von Grebmer zu Wolfsthurn, Sara Lil Middleton and Mal
 **Accessibility Tips**: Where applicable, this is a space to add any tips you may have to facilitate the accessibility of your slides and activities. 
 :::
 
----
-
-## Prerequisites - EDIT
+<!-- ## Prerequisites
 
 ::: {.callout-important}
 Before completing this submodule, please carefully read about the prerequisites.
@@ -102,9 +100,8 @@ What are your questions from the previous session?
 **Presenter Notes**: What are your questions from the previous session? 
 
 **Instructor Notes**: Instead of asking "Do you have any questions", work under the assumption that there are questions to show your learners that it is normal to ask questions and to still be unsure about specific elements of previous sessions. Instead, ask "What are your questions". 
-:::
-
----
+::: 
+-->
 
 ## Key terms and definitions
 
@@ -293,8 +290,6 @@ What do we see in the results?
 
 <!-- --- -->
 
----
-
 # General framework of an Open Research event
 
 ---
@@ -358,7 +353,6 @@ Things to consider **when organizing an event**:
 - ...
 :::
 </div>
-
 
 <!-- https://docs.google.com/document/d/1vh34ziAVGYErtco_8tNhfyOJo29x_BBk7g9UH08kzZU/edit?tab=t.0#heading=h.lw4i2wvq5ump -->
 
@@ -508,7 +502,7 @@ At the beginning of a session, explain the bigger picture. Help learners see how
 
 For example, instead of simply saying, "Today we'll learn about teaching methods," you could say: "Today's workshop helps you move from using open research practices yourself to learning how to teach these practices to the next generation of researchers using evidence-based methods."
 
-This gives learners a sense of purpose. It shows that the workshop is not just about learning a new skill, but about increasing their impact by helping others adopt good research practices.
+This gives learners a sense of purpose. It shows that the workshop is not just about learning a new skill, but about more than that.
 
 **Instructor Notes**: You can return to this vision at the end of the session. Briefly remind learners what they have achieved today and how it moves them one step closer to that larger goal. This helps connect individual activities to the overall learning journey and reinforces motivation.
 :::
@@ -530,7 +524,7 @@ This gives learners a sense of purpose. It shows that the workshop is not just a
 ::: {.notes}
 **Presenter Notes**: From the broader picture, define specific learning objectives for individual sessions, workshops, or activities. These should contribute to the broader objectives of the event and provide a clear sense of purpose for your learners.
 
-Clearly communicate these learning objectives. Explain what learners should be able to do by the end of the session or course. Knowing the destination helps learners understand why each activity is included.
+Clearly communicate these learning objectives. Explain what learners should be able to do by the end of the session or course and how they should be able to achieve them.
 
 In the first example, "Learners will compare traditional publishing models with open-access publishing models." The key action is compare. This tells us that learners are expected to analyze similarities and differences, not just remember definitions.
 
@@ -665,7 +659,7 @@ Start by exploring **what brought learners to this lesson** and **what motivates
 :::
 
 ::: {.notes}
-**Presenter Notes**: Learning works best when two things come together: first, when learners actually care about the topic, and second, when they feel that they can realistically learn it with the time and effort available. If either of these is missing, engagement drops quickly. At the beginning of a lesson, take time to understand what brought learners here. Ask yourself: Why did they join this session? What are they hoping to get out of it? What problems are they trying to solve, or what interests do they already have in the topic? When learners see that the topic relates to their goals or challenges, they are more likely to stay engaged and persist when things become difficult. Here, you also need to keep in mind that learners may not attend by choice, but because your lesson is part of a compulsory curriculum.
+**Presenter Notes**: Learning works best when two things come together: first, when learners actually care about the topic, and second, when they feel that they can realistically learn it with the time and effort available. If either of these is missing, engagement drops quickly. At the beginning of a lesson, take time to understand what brought learners here. Here, you also need to keep in mind that learners may not attend by choice, but because your lesson is part of a compulsory curriculum.
 
 A simple way to do this is to ask short questions, run a quick poll, or have a short pair discussion at the start of the session.
 :::
@@ -690,7 +684,9 @@ Begin the lesson with something that is **quick to learn** and **useful to your 
 ::: {.notes}
 **Presenter Notes**: When people start learning something new, confidence matters a lot. If the first task feels too difficult or too abstract, learners can quickly feel overwhelmed. But if they achieve something useful early on, it builds confidence and momentum. The idea here is to begin with something that is simple to understand, quick to complete, and clearly relevant to the learners’ own goals or work.
 
-One effective approach is to use real-life examples or scenarios that learners can relate to. For instance, you might use a small task based on a situation you have encountered in your own work, or something that learners are likely to face in their context and that they can immediately succeed at. The key is that learners should quickly see: “I can do this,” or “this is useful for me.”
+For Open Research, in the context of file naming, an example for such an activity would be for you to show learners a folder with a less-than-optimal" folder structure and ask learners to rename and reorganize the files. It would only take about 2-3 minutes and would leave them feel more competent and motivation would be increased because of this early feeling of successfully solving this task. The key is also that learners should quickly see: “I can do this,” or “this is useful for me.”
+
+Another effective approach is to use real-life examples or scenarios that learners can relate to. In this example, you could show learners you own folder structure from your early work.
 :::
 
 ---
@@ -713,11 +709,7 @@ Introduce an **interactive activity** early on in the lesson, e.g., "*What bring
 :::
 
 ::: {.notes}
-**Presenter Notes**: Learning is not something that happens by just listening. People learn more effectively when they are actively engaged, when they share ideas, and connect the content to what they already know.
-
-As instructors, we can support this by creating an interactive environment early in the lesson. This means making it clear from the start that questions are welcome, discussion is encouraged, and learners’ own experiences are valuable.
-
-Involve learners early on. If a session starts with a long period of passive listening, it can be harder to get participation later. But if learners are engaged from the beginning, they are more likely to stay active throughout.
+**Presenter Notes**: Learning is not something that happens by just listening, as we know from the framework of constructivism. As instructors, we can involve learners early on and create an interactive environment. Like this, learners are also more likely to stay active throughout.
 
 A simple way to do this is to start with a short interactive activity. For example, you might ask: “What brings you here today?” Then give learners a moment to think, discuss with a neighbor, or share in the group.
 
@@ -744,7 +736,7 @@ Integrate activities **in pairs** to foster the exchange.
 :::
 
 ::: {.notes}
-**Presenter Notes**: Learning is often more effective when learners talk to each other, not just to the instructor. When they explain ideas in their own words, ask questions, or compare approaches, they deepen their understanding.
+**Presenter Notes**: Learning is often more effective when learners talk to each other, not just to the instructor. When they explain ideas in their own words to a peer, ask questions, or compare approaches, they deepen their understanding.
 
 Peer learning also helps manage differences in prior knowledge. In any group, some learners will already have experience with the topic, while others are completely new. When learners work together, they can support each other and help close these gaps in understanding.
 
@@ -768,8 +760,6 @@ e.g., "**I do not understand**"
 
 <br>
 
-
-
 ::: {.callout-tip}
 ## What to do: 
 Integrate **formative assessments** or quizzes to pinpoint misunderstandings. **Validate** the thinking process and ask for **collaboration** from other learners on resolving any confusion.
@@ -784,9 +774,9 @@ Integrate **formative assessments** or quizzes to pinpoint misunderstandings. **
 
 The first point is to make confusion an integral part of your teaching and to normalize it. Tell learners at the beginning that feeling confused is a natural part of learning something new, especially when discussing topics like Open Research, where practices and terminology may be unfamiliar or evolving.
 
-When someone expresses uncertainty or gives an incomplete answer, avoid immediately correcting them or moving on. Instead, become curious about their thinking. Ask questions like, "Can you tell us what led you to that conclusion?" or "What part feels unclear?" This helps uncover misconceptions while demonstrating that the learning process is valued just as much as the correct answer.
+When someone expresses uncertainty or gives an incomplete answer, avoid immediately correcting them or moving on, but be curious. Ask questions like, "Can you tell us what led you to that conclusion?" or "What part feels unclear?"
 
-It is equally important to reward learners for sharing vulnerable information. Admitting "I don't understand" or "I thought it worked differently" requires some form safe space. Thank learners for raising these questions, because chances are others are wondering the same thing. A simple response such as, "Good that you asked, that's an important question," reinforces that speaking up contributes to everyone's learning.
+It is equally important to reward learners for sharing vulnerable information. Admitting "I don't understand" or "I thought it worked differently" requires some form of safe space. Thank learners for raising these questions, because chances are others are wondering the same thing. A simple response such as, "Good that you asked, that's an important question," reinforces that speaking up contributes to everyone's learning.
 
 One practical strategy is to integrate formative assessments throughout the workshop. These can be quick polls, multiple-choice questions, short reflective prompts, or think–pair–share activities [@mundelseeThinkPairShare2021]. Their purpose is not to evaluate learners but to give both you and the learners insight into current understanding and identify misconceptions before they become entrenched.
 :::
@@ -857,14 +847,12 @@ When discussing an activity involving coding, use the opportunity when you make 
 :::
 
 ::: {.notes}
-**Presenter Notes**: Remember that instructors are learners too. By presenting yourself as someone who is still learning, you help create a more open learning environment. Let learners relate to you by being honest about your own learning experiences, challenges, or knowledge gaps. This shows that learning is a continuous process, even for experienced instructors.
+**Presenter Notes**: Remember that instructors are learners too. By presenting yourself as someone who is still learning, you help create a more open learning environment.
 
 Don't be afraid to make useful mistakes. For example, when live coding, a mistake can become a valuable teaching moment. Instead of apologizing or hiding it, show learners how you identify the problem, think through possible solutions, and correct it.
 
 This is an example of positive error framing. You show that errors are a normal and useful part of learning. This can help learners feel more confident to experiment, ask questions, and learn from their own mistakes.
 :::
-
----
 
 <!-- --- -->
 
@@ -899,7 +887,6 @@ This is an example of positive error framing. You show that errors are a normal 
 
 <!-- At the same time, teaching takes effort. Not every session will go as planned, and challenges are a normal part of teaching. Maintaining your own motivation during these moments can help you respond constructively and continue developing your teaching skills. Remember that you do not have to be a perfect instructor. Approaching teaching with curiosity, enthusiasm, and a willingness to keep learning benefits both you and your learners. -->
 <!-- ::: -->
-
 
 ## Your turn! Boosting motivation in your R workshop
 
@@ -1023,8 +1010,6 @@ Image generated with AI and adapted from [Felix Schönbrodt](https://nicebread.g
 **Instructor Notes**: This analogy will be familiar to learners who have completed previous sessions.
 :::
 
----
-
 <!-- ## Your turn! 5 minutes -->
 
 <!-- <br> -->
@@ -1039,7 +1024,6 @@ Image generated with AI and adapted from [Felix Schönbrodt](https://nicebread.g
 <!-- ::: {.notes} -->
 <!-- **Presenter Notes**: Your turn for analogies! Think of a different analogy connected to open research or an open research tool you are familiar with Explain your analogy to your neighbor. You have 5 minutes.  -->
 <!-- ::: -->
-
 
 ## ARIPE+ scheme
 
@@ -1197,7 +1181,7 @@ Activation methods are especially useful in this stage. They support learners in
 - Provide **targeted** feedback **early on** in the process so that learners can adapt
 - Be **constructive** in your feedback: What is a next step from here?
   - **Connect** it to the learning objectives
-  - **Balance** positive and negative feedback ("*feedback sandwich*")
+  - **Balance** positive and negative feedback ("*feedback sandwich*": *positive - constructive criticism - positive*)
   
 <!-- - Include **peer feedback** to increase engagement and shared learning -->
 :::
@@ -1223,7 +1207,6 @@ Activation methods are especially useful in this stage. They support learners in
 ---
 
 ### Constructive feedback considerations
-
 
 ::: columns
 
@@ -1256,8 +1239,6 @@ Giving and receiving feedback can be challenging, especially when it involves un
 
 Finally, consider the cultural context in which the other person is in can help preventing misunderstandings. We will talk about this more in the last session.
 :::
-
----
 
 <!-- ## Your turn! 10 minutes -->
 
@@ -1320,7 +1301,6 @@ Finally, consider the cultural context in which the other person is in can help 
 ---
 
 ## Don'ts during an Open Research event
-
 
 ::: columns
 
