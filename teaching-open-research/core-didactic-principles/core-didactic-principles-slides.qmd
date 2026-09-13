@@ -1204,7 +1204,8 @@ Learning objectives can be assigned to different taxonomy levels. Taxonomies ser
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 0.8em; text-align: center;">
 *You are tasked to design a course module on Open Research practices and would like to include a lesson on open access publishing. <br>
-**Design one assessment task** and **define one observable metric** of successfully achieving the learning objective for each **learning domain** below.* 
+**Design one assessment task** and **define one observable metric** of successfully achieving the learning objective for each **learning domain** below.
+
 - **Cognitive domain**: Learners will be able to compare different open access publishing models, e.g., Gold, Green and Diamond Open Access and critically assess their advantages and limitations.
 
 - **Affective domain**: Learners will critically reflect on the benefits and challenges of open access publishing and demonstrate openness toward differing perspectives on accessibility and publication costs.
