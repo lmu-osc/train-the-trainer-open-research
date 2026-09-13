@@ -47,7 +47,7 @@ At the end of this session, aspiring Open Research instructors will ...
 You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. Note that basic formatting will be applied for the PowerPoint (*in progress*).
 
 <!-- download as pdf -->
-<a href="../docs/teaching-open-tesearch/creating-learning-environment/creating-learning-environment-slides.pdf"
+<a href="teaching-open-tesearch/creating-learning-environment/creating-learning-environment-slides.pdf"
    download="creating-learning-environment-slides.pdf"
    class="btn btn-primary">
   Download slides as PDF
