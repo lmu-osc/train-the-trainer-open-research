@@ -302,10 +302,13 @@ to
 
 Some terms we will come across today...
 
+<div style="font-size: 0.8em;">
 - **Constructivism**: 
 - **Constructive alignment**: 
 - **Learning objectives**:
 - **Bloom's taxonomy**: 
+</div>
+
 
 ::: {.notes}
 **Presenter Notes**: Before we go further, I want to briefly show you the key concepts that will underpin today’s session. These concepts may not make sense to you at this point. Broadly speaking, these concepts are closely related and together provide a useful foundation for thinking about effective teaching and learning design.
@@ -319,10 +322,12 @@ Some terms we will come across today...
 
 Some terms we will come across today...
 
+<div style="font-size: 0.8em;">
 - **Constructivism**: The notion that learners actively build their own understanding of the world rather than absorbing information passively [@sjobergConstructivismLearning2010].
 - **Constructive alignment**: A teaching approach in which learning objectives, teaching activities, and assessment tasks are aligned so that learners actively construct knowledge and skills [@biggsEnhancingTeachingConstructive1996].
 - **Learning objectives**: Describe what learners should be able to do after instruction and should specify the intended performance, conditions, and criteria for success.
 - **Bloom's taxonomy**: A framework for classifying levels of learning and cognitive skills [@bloom1964taxonomy], organized from lower-order thinking skills (e.g., remembering and understanding to higher-order skills (analyzing, evaluating).
+</div>
 
 ::: {.notes}
 **Presenter Notes**: Today's goal is to get to know these concepts in depth, so that at the end of the session you will have come to learn what each one of them entails in more detail. 
@@ -1195,12 +1200,11 @@ Learning objectives can be assigned to different taxonomy levels. Taxonomies ser
 
 ---
 
-## Your turn! Designing assessment tasks
+## Bonus activity: Designing assessment tasks
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 0.8em; text-align: center;">
 *You are tasked to design a course module on Open Research practices and would like to include a lesson on open access publishing. <br>
 **Design one assessment task** and **define one observable metric** of successfully achieving the learning objective for each **learning domain** below.* 
-
 - **Cognitive domain**: Learners will be able to compare different open access publishing models, e.g., Gold, Green and Diamond Open Access and critically assess their advantages and limitations.
 
 - **Affective domain**: Learners will critically reflect on the benefits and challenges of open access publishing and demonstrate openness toward differing perspectives on accessibility and publication costs.
@@ -1213,7 +1217,7 @@ Learning objectives can be assigned to different taxonomy levels. Taxonomies ser
 *Go to Section 1 of the Open Science Workshop workbook and navigate to exercise A5. Work with your partner. Take 10 minutes for this exercise.*
 
 ::: {.notes}
-**Presenter Notes**: Time to practice! In pairs, design one assessment task for each learning objective (cognitive, affective, psychomotor). For each assessment, specify:
+**Presenter Notes**: This is a bonus activity. In pairs, design one assessment task for each learning objective (cognitive, affective, psychomotor). For each assessment, specify:
 
 - an appropriate assessment method (e.g., checklist, rubric)
 
@@ -1233,7 +1237,7 @@ Take 10 minutes for this task.
 
 ---
 
-## Bonus activity: Formulating learning objectives and assessment methods
+## Your turn! Formulating learning objectives and assessment methods
 
 1. **Navigate** to the following online tutorial: [https://lmu-osc.github.io/introduction-to-zotero/](https://lmu-osc.github.io/introduction-to-zotero/).
 
@@ -1246,7 +1250,7 @@ Go to Section 1 of the Open Science Workshop workbook and navigate to exercise A
 :::
 
 ::: {.notes}
-**Presenter Notes**: This is a bonus activity. Your task is the following: **Navigate** to the following online tutorial: [https://lmu-osc.github.io/introduction-to-zotero/](https://lmu-osc.github.io/introduction-to-zotero/). Then, **skim over** the different sections using the navigation menu or the arrows at the bottom of the page to get an idea of the content of the tutorial. Finally, using Bloom's taxonomy, **formulate** three learning objectives and assessment methods that match the content and the teaching activities of the tutorial.  Consider the following: Which level of Bloom's taxonomy are you at and which domain are you targeting?
+**Presenter Notes**: Your task is the following: **Navigate** to the following online tutorial: [https://lmu-osc.github.io/introduction-to-zotero/](https://lmu-osc.github.io/introduction-to-zotero/). Then, **skim over** the different sections using the navigation menu or the arrows at the bottom of the page to get an idea of the content of the tutorial. Finally, using Bloom's taxonomy, **formulate** three learning objectives and assessment methods that match the content and the teaching activities of the tutorial.  Consider the following: Which level of Bloom's taxonomy are you at and which domain are you targeting?
 
 This is individual work, take 10 minutes.
 
@@ -1264,6 +1268,7 @@ Domain: Cognitive (procedural knowledge). Assessment method: Create a Zotero col
 
 ## Take-home messages
 
+<div style="font-size: 0.8em;">
 :::incremental
 - Learning in an **active process**, integrated in a larger **context** and strongly shaped by **prior knowledge and beliefs** (**= constructivism**)
 
@@ -1273,6 +1278,9 @@ Domain: Cognitive (procedural knowledge). Assessment method: Create a Zotero col
 
 - Before teaching, we need to know *where we are going*, i.e., **formulate learning objectives** according to the fitting learning domain(s): **cognitive, affective**, possibly psychomotor (sometimes overlapping!)
 :::
+
+</div>
+
 
 ::: {.callout-tip}
 ## The formulation matters!
@@ -1447,3 +1455,8 @@ At the end of this session, you now...
 <!-- ::: -->
 
 <!-- --- -->
+
+<!-- ## TO DO POST SUMMER SCHOOL -->
+
+<!-- - [ ] Uncomment all exercises -->
+<!-- - [ ] Uncomment prerequisites and previous questions -->
