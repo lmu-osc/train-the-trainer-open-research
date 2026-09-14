@@ -813,6 +813,19 @@ In a positive learning environment, inclusive language helps create opportunitie
 
 ---
 
+## Look for support from others!
+
+- Depending on the topic, multiple instructors might make the event run more smoothly (e.g., when teaching computational reproducibility)
+
+- Select a **diverse team** of instructors/facilitators (if you can)
+  - Your audience will be able to **relate** more to some
+
+::: {.notes}
+**Presenter Notes**: You do not have to teach alone! Especially for Open Research practices or computational reproducibility, teaching with two or three or more can make all the difference and signficantly decrease the pressure on you. When you are choosing facilitators or co-instructors, aim for a diverse skills set and a diverse background. Your audience will get a lot out of the variety in skills present in the room and, depending on their own background, will always find someone they can relate to the most.
+:::
+
+---
+
 ## Language in your Open Research event
 
 :::incremental
