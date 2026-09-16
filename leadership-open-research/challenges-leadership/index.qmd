@@ -36,7 +36,7 @@ title: "Challenges in leadership"
 You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. Note that basic formatting will be applied for the PowerPoint (*in progress*).
 
 <!-- download as pdf -->
-<a href="20260915_LeadershipOpenScience-Challenges-Strategies-SaraMiddleton.pdf".pdf"
+<a href="20260915_LeadershipOpenScience-Challenges-Strategies-SaraMiddleton.pdf"
    download="leadership-values.pdf"
    class="btn btn-primary">
   Download slides as PDF

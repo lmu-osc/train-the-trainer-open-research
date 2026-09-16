@@ -36,7 +36,7 @@ title: "Leadership in Open Research: Skills, values and culture"
 You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. Note that basic formatting will be applied for the PowerPoint (*in progress*).
 
 <!-- download as pdf -->
-<a href="20260915_LeadershipOpenScience-Skills-Values-Culture-SaraMiddleton.pdf".pdf"
+<a href="20260915_LeadershipOpenScience-Skills-Values-Culture-SaraMiddleton.pdf"
    download="leadership-values.pdf"
    class="btn btn-primary">
   Download slides as PDF
