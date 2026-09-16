@@ -1,0 +1,66 @@
+---
+title: "Strategies in leadership"
+---
+
+> Work in progress.
+
+<!-- [Click here to see the materials in full screen](core-didactic-principles-slides.qmd) -->
+
+```{=html}
+<iframe src="20260915_LeadershipOpenScience-Challenges-Strategies-SaraMiddleton.pdf" width="100%" height="600px">
+  <p>Your browser does not support PDFs. You can <a href="20260915_LeadershipOpenScience-Challenges-Strategies-SaraMiddleton.pdf"">download the PDF</a>.</p>
+</iframe>
+```
+
+## About these materials
+
+**Welcome!** This page is work in progress. 
+
+### Who are these materials for?
+
+
+### Prerequisites
+
+<div style="font-size: 0.8em;">
+| Prerequisite   |  Description  | Where to find this  |
+|------------|------------|------------|
+| Basic familiarity with Open Science practices | Examples: R, Quarto, Git, GitHub, preregistration, Open Access etc.| [Click here to get familiar with Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
+</div>
+
+
+### Learning objectives
+
+
+### Export slides
+
+You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. Note that basic formatting will be applied for the PowerPoint (*in progress*).
+
+<!-- download as pdf -->
+<a href="20260915_LeadershipOpenScience-Challenges-Strategies-SaraMiddleton.pdf".pdf"
+   download="leadership-values.pdf"
+   class="btn btn-primary">
+  Download slides as PDF
+</a>
+
+ <!-- https://quarto.org/docs/presentations/powerpoint.html#powerpoint-templates -->
+ 
+## Contributors and licence details
+
+**Creator**: Middleton, Sara (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
+
+**Reviewer**: Von Grebmer zu Wolfsthurn, Sarah (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
+[0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))
+
+**Consultant**: Ihle, Malika (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981))
+
+<br>
+
+<p style="text-align:center;">
+  <img src="images/cc-by-sa.png" 
+  alt="Creative Commons Attribution ShareAlike 4.0"
+  style="width:160px;" />
+</p>
+
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
+This current work by Sara Lil Middleton, Sarah von Grebmer zu Wolfsthurn and Malika Ihle is licensed under a CC-BY-SA 4.0 [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+</div>
