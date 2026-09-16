@@ -32,8 +32,7 @@ The target audience for these materials are twofold:
 | Prerequisite | Description | Where to find this |
 |------------------------|------------------------|------------------------|
 | Basic familiarity with Open Science practices | Examples: R, Quarto, Git, GitHub, preregistration, Open Access etc. | [Click here to get familiar with Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
-| Foundational understanding of leadership roles and key skills  | Leadership in Open Science: Skills, values and culture | [Click here to get familiar with leadership in Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-pedagogy/leadership-open-research/leadership-skills-culture/) |
-
+| Foundational understanding of leadership roles and key skills | Leadership in Open Science: Skills, values and culture | [Click here to get familiar with leadership in Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-pedagogy/leadership-open-research/leadership-skills-culture/) |
 :::
 
 ### Learning objectives

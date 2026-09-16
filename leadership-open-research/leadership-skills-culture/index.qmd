@@ -25,6 +25,10 @@ contexts. These materials examine the key leadership skills and explore
 how values shape styles of leadership, influence research and learning
 culture and ways of working.
 
+These materials link to a case study of Open Science leadership at the
+Framework for Open and Reproducible Research Training (FORRT) [Click
+here to access materials](https://osf.io/ay8qk/files/cmeuy).
+
 ### Who are these materials for?
 
 The target audience for these materials are twofold:
@@ -60,7 +64,7 @@ The target audience for these materials are twofold:
 
 ::: {style="font-size: 0.8em;"}
 | Prerequisite | Description | Where to find this |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | Basic familiarity with Open Science practices | Examples: R, Quarto, Git, GitHub, preregistration, Open Access etc. | [Click here to get familiar with Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
 :::
 
@@ -91,6 +95,11 @@ below. Note that basic formatting will be applied for the PowerPoint
    class="btn btn-primary"> Download slides as PDF </a>
 
 <!-- https://quarto.org/docs/presentations/powerpoint.html#powerpoint-templates -->
+
+### Additional materials
+
+Leadership in Open Science summary figure:
+<https://zenodo.org/records/22655511>
 
 ## Contributors and licence details
 
