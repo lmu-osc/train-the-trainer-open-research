@@ -29,32 +29,30 @@ culture and ways of working.
 
 The target audience for these materials are twofold:
 
-- **Aspiring Open Research Instructors** or **self-learners**
-  with familiarity about key Open Research issues and challenges (e.g.,
+- **Aspiring Open Research Instructors** or **self-learners** with
+  familiarity about key Open Research issues and challenges (e.g.,
   reproducibility and replicability), Open Research tools (e.g.,
   computational reproducibility, preregistration, study planning), basic
   didactic and lesson conceptualization skills who are interested in
   building didactic skills to effectively teach Open Research through a
   combination of theoretical input and practical exercises to become
-  **Open Research Instructors**.
-  You can follow these materials by chronologically going through the
-  slides and following along with the practical exercises. You go at
-  your
-  own pace and within your own timeframe. *Presenter notes* will help
-  you to understand and reflect on the content of the materials. Note:
-  Group exercises are *not* possible in this asynchronous setting.
+  **Open Research Instructors**. You can follow these materials by
+  chronologically going through the slides and following along with the
+  practical exercises. You go at your own pace and within your own
+  timeframe. *Presenter notes* will help you to understand and reflect
+  on the content of the materials. Note: Group exercises are *not*
+  possible in this asynchronous setting.
 
-- **Future or current Open Research instructors** in
-  higher education (e.g., universities, colleges) who are interested or
-  already engaging in bringing Open Research topics closer to your
-  learners and want to sharpen their own didactic skills for effective
-  teaching; or instructors aiming to *train others* in delivering
-  high-quality Open Research Education. The slides can be directly
-  presented in full screen below, with presenter and instructor notes
-  providing detailed information about the content of the materials and
-  valuable pedagogical tips how to convey the materials to your
-  learners.
-  You can also download the PowerPoint or pdf file corresponding to the
+- **Future or current Open Research instructors** in higher education
+  (e.g., universities, colleges) who are interested or already engaging
+  in bringing Open Research topics closer to your learners and want to
+  sharpen their own didactic skills for effective teaching; or
+  instructors aiming to *train others* in delivering high-quality Open
+  Research Education. The slides can be directly presented in full
+  screen below, with presenter and instructor notes providing detailed
+  information about the content of the materials and valuable
+  pedagogical tips how to convey the materials to your learners. You can
+  also download the PowerPoint or pdf file corresponding to the
   materials below and adapt the materials to your learners. Make sure to
   give appropriate credit to the original authors.
 
@@ -62,7 +60,7 @@ The target audience for these materials are twofold:
 
 ::: {style="font-size: 0.8em;"}
 | Prerequisite | Description | Where to find this |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Basic familiarity with Open Science practices | Examples: R, Quarto, Git, GitHub, preregistration, Open Access etc. | [Click here to get familiar with Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
 :::
 
@@ -96,16 +94,21 @@ below. Note that basic formatting will be applied for the PowerPoint
 
 ## Contributors and licence details
 
-**Creator**: Middleton, Sara
-(![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
+**Creator**: Middleton, Sara Lil
+(![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
+[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029)), Azevedo,
+Flavio (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
+[0000-0001-9000-8513](https://orcid.org/0000-0001-9000-8513))
 
-**Reviewer**: Von Grebmer zu Wolfsthurn, Sarah
+**Reviewer**: Verheyen, Steven
+(![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
+[0000-0002-6778-6744](https://orcid.org/0000-0002-6778-6744)), Von
+Grebmer zu Wolfsthurn, Sarah
 (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
 [0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))
 
-**Consultant**: Ihle, Malika
-(![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
-[0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981))
+**Acknowledgements**: Elisabeth Bik, Fotis Mystakopoulos, Beth
+Montague-Hellen
 
 <br>
 
@@ -116,9 +119,9 @@ below. Note that basic formatting will be applied for the PowerPoint
 </p>
 
 ::: {style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;"}
-This current work by Sara Lil Middleton, Sarah von Grebmer zu Wolfsthurn
-and Malika Ihle is licensed under a CC-BY-SA 4.0 [Creative Commons
-Attribution 4.0 International SA
+This current work by Sara Lil Middleton, Flavio Azevedo, Steven Verheyen
+and Sarah von Grebmer zu Wolfsthurn is licensed under a CC-BY-SA 4.0
+[Creative Commons Attribution 4.0 International SA
 License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It
 permits unrestricted re-use, distribution, and reproduction in any
 medium, provided the original work is properly cited. If you remix,
