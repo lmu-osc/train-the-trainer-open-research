@@ -28,82 +28,6 @@ editor:
     wrap: 72
 ---
 
-## Licence
-
-<br>
-
-<p style="text-align:center;">
-  <img src="images/cc-by-sa.png" 
-  alt="Creative Commons Attribution SA 4.0"
-  style="width:160px;" />
-</p>
-
-::: {style="background-color: #f0f0f0; padding: 0.2em; border-radius: 2px; font-size: 0.6em;"}
-This current work by Sara Lil Middleton, Sarah von Grebmer zu Wolfsthurn
-and Flavio Azevedo is licensed under a **CC-BY-SA 4.0** [Creative
-Commons Attribution 4.0 International SA
-License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It
-permits unrestricted re-use, distribution, and reproduction in any
-medium, provided the original work is properly cited. If you remix,
-transform, or build upon the material, you must distribute your
-contributions under the same license as the original.
-:::
-
-::: notes
-**Presenter Notes**: The Creative Commons Attribution–ShareAlike 4.0
-license, or CC BY-SA 4.0, allows others to copy, share, and adapt a work
-in any medium, including for commercial purposes. These permissions are
-broad and cannot be withdrawn as long as the license terms are followed.
-The main requirement is attribution: users must give appropriate credit
-to the original creator, provide a link to the license, and clearly
-indicate whether any changes were made, without implying endorsement by
-the original author. In addition, the ShareAlike condition means that if
-someone modifies or builds upon the work, the resulting material must be
-distributed under the same CC BY-SA 4.0 license, or a compatible one.
-Finally, users are not allowed to apply legal or technical restrictions,
-such as DRM, that would prevent others from exercising these same
-rights.
-:::
-
-------------------------------------------------------------------------
-
-## Contribution statement
-
-<br>
-
-**Creator**: Middleton, Sara Lil
-(![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
-
-**Reviewer**: Von Grebmer zu Wolfsthurn, Sarah
-(![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
-[0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))
-
-**Consultant**: Azevedo, Flavio
-(![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
-[0000-0001-9000-8513](https://orcid.org/0000-0001-9000-8513))
-
-::: notes
-**Presenter Notes**:
-
-These are the **speaker notes**. You will a script for the presenter for
-every slide. In presentation mode, your audience will not be able to see
-these speaker notes, they are only visible to the presenter.
-
-**Instructor Notes**:
-
-There are also **instructor notes**. For some slides, there will be
-pedagogical tips, suggestions for activities and troubleshooting tips
-for issues your audience might run into. You can find these notes
-underneath the speaker notes.
-
-**Accessibility Tips**:
-
-Where applicable, this is a space to add any tips you may have to
-facilitate the accessibility of your slides and activities.
-:::
-
-------------------------------------------------------------------------
-
 ## Prerequisites
 
 ::: callout-important
@@ -118,13 +42,11 @@ necessary prerequisites.
     assessment](https://jlsumner.shinyapps.io/syllabustool/)).
 
 ::: notes
-**Presenter Notes**:
+**Presenter Notes**: 
+These are the **presenter notes**. You will a script for the presenter for every slide. In presentation mode, your audience will not be able to see these speaker notes, they are only visible to the presenter.
+Before we start, a reminder towards the end of the session, we will be doing an activity where we assess the bibliography in our own work.
 
-Before we start, a reminder towards the end of the session, we will be
-doing an activity where we assess the bibliography in our own work.
-
-**Instructor Notes:**
-
+**Instructor Notes**: There are also **instructor notes**. For some slides, there will be pedagogical tips, suggestions for activities and troubleshooting tips for issues your audience might run into. You can find these notes underneath the presenter notes.
 For submodule delivery in person:
 
 -   You will need an account set up with
@@ -143,6 +65,11 @@ For submodule delivery in person:
 
 -   Their work can be from anywhere (previous schooling, organisation,
     personal writing project).
+
+**Accessibility Tips**:
+
+Where applicable, this is a space to add any tips you may have to
+facilitate the accessibility of your slides and activities.
 :::
 
 ------------------------------------------------------------------------
@@ -2532,20 +2459,6 @@ our training materials and are open to suggestions.
 
 ------------------------------------------------------------------------
 
-## Contribution Statement
-
-<br>
-
-::: {style="background-color: #f0f0f0; padding: 0.7em; border-radius: 5px; font-size: 0.8em; text-align: justify;"}
-**Sara Lil Middleton:** Conceptualization, Methodology, Investigation,
-Writing - Original Draft, Writing - Review & Editing, Visualization,
-Validation, Project Administration. **Sarah von Grebmer zu Wolfsthurn:**
-Software, Writing - Review & Editing, Validation, Project
-Administration. **Flavio Azevedo:** Resources.
-:::
-
-------------------------------------------------------------------------
-
 ## References {.smaller}
 
 ::: {#refs}
@@ -2558,11 +2471,47 @@ Administration. **Flavio Azevedo:** Resources.
 learners in bold.
 :::
 
+---
+
+## Contribution statement
+
+<br>
+
+**Creator**: Middleton, Sara Lil
+(![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
+
+**Reviewer**: Von Grebmer zu Wolfsthurn, Sarah
+(![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
+[0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))
+
+**Consultant**: Azevedo, Flavio
+(![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
+[0000-0001-9000-8513](https://orcid.org/0000-0001-9000-8513))
+
 ------------------------------------------------------------------------
 
-# Thanks! <br>
+## License and citation statement
 
-See you next class :)
+<br>
+
+<p style="text-align:center;">
+  <img src="images/cc-by-sa.png" 
+  alt="Creative Commons Attribution 4.0 SA"
+  style="width:160px;" />
+</p>
+
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
+This current work by Sara Lil Middleton, Sarah von Grebmer zu Wolfsthurn, and Flavio Azevedo is licensed under a [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en) (CC-BY-SA 4.0). 
+
+Please cite as: Middleton, S., Von Grebmer zu Wolfsthurn, S., & Azevedo, F. (2026). *Citation politics* [Quarto slides]. LMU Open Science Center. [https://lmu-osc.github.io/train-the-trainer-open-research/leadership-open-research/citation-politics/](https://lmu-osc.github.io/train-the-trainer-open-research/leadership-open-research/citation-politics/)
+</div>
+
+::: {.notes}
+**Presenter Notes**: The [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en), or CC BY-SA 4.0, allows others to copy, share, and adapt a work in any medium, including for commercial purposes. These permissions are broad and cannot be withdrawn as long as the license terms are followed. The main requirement is attribution: users must give appropriate credit to the original creator, provide a link to the license, and clearly indicate whether any changes were made, without implying endorsement by the original author. In addition, the ShareAlike condition means that if someone modifies or builds upon the work, the resulting material must be distributed under the same CC BY-SA 4.0 license, or a compatible one. Finally, users are not allowed to apply legal or technical restrictions, such as DRM, that would prevent others from exercising these same rights.
+
+Code snippets are dedicated to the public domain and licensed under a CC0 1.0 [Creative Commons Universal License](https://creativecommons.org/publicdomain/zero/1.0/). You may use, modify, distribute, and sell the code snippets for any purpose, without permission or attribution. The code snippets are provided “as is”, without warranty of any kind.
+:::
+
 
 ------------------------------------------------------------------------
 
@@ -2577,5 +2526,3 @@ References from instructor notes:
 -   Active Learning Activities \| Centre for Teaching Excellence.
     (n.d.). Uwaterloo.ca.
     <https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/active-learning-activities>
-
-------------------------------------------------------------------------

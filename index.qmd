@@ -18,7 +18,7 @@ On this website you will find **ready-to-use materials, hands-on activities and 
 
 ### Who are these materials for?
 
-Aspiring **open research instructors**, future **open research train-the-trainers** in higher education (e.g., universities, colleges) and **self-learners**, with basic familiarity about open research issues and practices, aiming to:
+Aspiring **open research instructors**, future **open research train-the-trainers** and **educators** in higher education (e.g., universities, colleges) and **self-learners**, with basic familiarity about open research issues and practices, aiming to:
 
 - **Expand** their teaching and leadership skills in open research
 - **Convey** foundational open research knowledge and skills to  audiences across different settings

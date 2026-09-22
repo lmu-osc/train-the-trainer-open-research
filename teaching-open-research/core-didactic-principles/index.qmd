@@ -22,7 +22,7 @@ Please cite these materials as: Von Grebmer zu Wolfsthurn, S., Middleton, S., Ih
 ### Who are these materials for?
 
 - **Aspiring open research instructors**
-- **Future open research train-the-trainers** in higher education (e.g., universities, colleges) and
+- **Future open research train-the-trainers** and **educators** in higher education (e.g., universities, colleges) and
 - **Self-learners** 
 
 with familiarity about open research challenges, issues and tools.

@@ -3,7 +3,7 @@ title: "Citation politics"
 #bibliography: references.bib
 ---
 
-> Something fun here.
+> Who gets cited, who gets overlooked, and what we can do about it.
 
 
 [Click here to see the materials in full screen](citation-politics-slides.qmd)
@@ -14,15 +14,20 @@ title: "Citation politics"
 
 ## About these materials
 
+::: {.callout-warning collapse="true"}
+## Citation statement
+Please cite these materials as: Middleton, S., Von Grebmer zu Wolfsthurn, S., & Azevedo, F. (2026). *Citation politics* [Quarto slides]. [LMU Open Science Center](https://www.osc.lmu.de/). [https://lmu-osc.github.io/train-the-trainer-open-research/leadership-open-research/citation-politics/](https://lmu-osc.github.io/train-the-trainer-open-research/leadership-open-research/citation-politics/)
+:::
+
 **Welcome!** This workshop aims to examine the concept of citational politics, its links to knowledge production and dissemination and learn to use some tools and practices for more conscientious citations. Across different sections, we will think about the *what* and the *why* of citations and **when** to use them, examine the *mechanisms* and *consequences* of citational inequities and learn how to **conduct a citational self-audit**, before wrapping up with a summary exercise. This workshop draws inspiration from Sauvé et al.'s (2025) [paper](#0) on citational politics.
 
 ### Who are these materials for?
 
-The target audience of this workshop is twofold:
+- **Aspiring open research instructors**
+- **Future open research train-the-trainers** and **educators** in higher education (e.g., universities, colleges) and
+- **Self-learners** 
 
--   **Educators** in **higher education** (e.g., universities, research institutes) or other teaching contexts aiming to **develop their pedagogical skills and leadership skills** in the context of Open Research by exploring critical issues connected to both Open Research and teaching Open Research practices to various audiences. You can follow the materials by chronologically going through the slides and following along the practical exercises. You **go at your own pace** and within your own time frame. *Presenter notes* will help you to understand and reflect on the content of the materials. Note: Group exercises are *not* possible in this asynchronous setting.
-
--   **Educators** in **higher education** (e.g., universities, research institutes) or other teaching contexts aiming to **convey this topic to their learners** in a synchronous (in-person, virtual or hybrid) class-room setting. The slides can be directly presented in full screen below, with presenter and instructor notes providing guidance about the narrative of the materials and valuable pedagogical tips how to convey the materials to your learners. You can also download the PowerPoint slides corresponding to the materials below and adapt the materials to your learners. Make sure to give appropriate credit to the original authors.
+with familiarity about open research challenges, issues and tools.
 
 ### Prerequisites
 
@@ -42,7 +47,7 @@ You will need access to a piece of your **own work** (a report, essay, journal a
 
 ### Export slides
 
-You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. Note that basic formatting will be applied for the PowerPoint (*in progress*).
+You can export these slides as MS PowerPoint (.pptx - *in progress*) or pdf by clicking below. Note that basic formatting will be applied to the PowerPoint file.
 
 <!-- download as pdf -->
 <a href="citation-politics-slides.pdf"
@@ -68,6 +73,6 @@ You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. N
 </p>
 
 <div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
-This current work by Sara Middleton, Sarah von Grebmer zu Wolfsthurn and Flavio Azevedo is licensed under a **CC-BY-SA 4.0** [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+This current work by Sara Lil Middleton, Sarah von Grebmer zu Wolfsthurn,  and Flavio Azevedo is licensed under a [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en) (CC-BY-SA 4.0).
 </div>
 
