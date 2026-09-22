@@ -37,7 +37,7 @@ Before completing this session, please carefully read about the prerequisites.
 <div style="font-size: 0.8em;">
 | Prerequisite   |  Description  | Where to find this  |
 |------------|------------|------------|
-| Basic familiarity with Open Research concepts and practices | Examples: Replication crisis, open access, R, version control, preregistration, etc.| [Click here to get familiar with Open Research first](https://lmu-osc.github.io/training/self-learning.html) |
+| Familiarity with Open Research concepts and practices | Examples: Replication crisis, open access, R, version control, preregistration, etc.| [Click here to get familiar with Open Research first](https://lmu-osc.github.io/training/self-learning.html) |
 </div>
 
 

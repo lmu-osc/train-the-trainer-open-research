@@ -25,48 +25,7 @@ execute:
   engine: knitr
 ---
 
-## Licence
-
-<br>
-
-<p style="text-align:center;">
-  <img src="images/cc-by-sa.png" 
-  alt="Creative Commons Attribution 4.0 SA"
-  style="width:160px;" />
-</p>
-
-<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
-This current work by Sarah von Grebmer zu Wolfsthurn, Sara Lil Middleton and Malika Ihle is licensed under a CC-BY-SA 4.0 [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
-</div>
-
-::: {.notes}
-**Presenter Notes**: The Creative Commons Attribution–ShareAlike 4.0 license, or CC BY-SA 4.0, allows others to copy, share, and adapt a work in any medium, including for commercial purposes. These permissions are broad and cannot be withdrawn as long as the license terms are followed. The main requirement is attribution: users must give appropriate credit to the original creator, provide a link to the license, and clearly indicate whether any changes were made, without implying endorsement by the original author. In addition, the ShareAlike condition means that if someone modifies or builds upon the work, the resulting material must be distributed under the same CC BY-SA 4.0 license, or a compatible one. Finally, users are not allowed to apply legal or technical restrictions, such as DRM, that would prevent others from exercising these same rights.
-:::
-
----
-
-## Contribution statement
-
-<br>
-
-**Creator**: Von Grebmer zu Wolfsthurn, Sarah (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
-[0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))
-
-**Reviewer**: Middleton, Sara (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
-
-**Consultant**: Ihle, Malika (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981))
-
-
-::: {.notes}
-**Presenter Notes**: These are the **presenter notes**. You will a script for the presenter for every slide. In presentation mode, your audience will not be able to see these presenter notes, they are only visible to the presenter. 
-
-**Instructor Notes**: There are also **instructor notes**. For some slides, there will be pedagogical tips, suggestions for activites and troubleshooting tips for issues your audience might run into. You can find these notes underneath the presenter notes.
-
-**Accessibility Tips**: Where applicable, this is a space to add any tips you may have to facilitate the accessibility of your slides and activities. 
-:::
-
-<!-- ## Prerequisites
+## Prerequisites
 
 ::: {.callout-important}
 Before completing this submodule, please carefully read about the prerequisites.
@@ -75,14 +34,18 @@ Before completing this submodule, please carefully read about the prerequisites.
 <div style="font-size: 0.8em;">
 | Prerequisite   |  Description  | Link/Where to find it   |
 |------------|------------|------------|
-| Basic familiarity with Open Science concepts and practices | Examples: Replication crisis, open access, R, version control, preregistration, etc.| [OSC Website](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
-| Core didactic principles | A firm grasp on didactic tools | [OSC Website](https://lmu-osc.github.io/train-the-trainer-student-track-pedagogy/teaching-open-research/core-didactic-principles/) |
+| Familiarity with Open Science concepts and practices | Examples: Replication crisis, open access, R, version control, preregistration, etc.| [Click here to get familiar with Open Research first](https://lmu-osc.github.io/training/self-learning.html) |
+| Didactic principles | A firm grasp on didactic tools for teaching | [Click here to get familiar with didactic principles](https://lmu-osc.github.io/train-the-trainer-open-research/teaching-open-research/core-didactic-principles/) |
 </div>
 
 ::: {.notes}
-**Presenter Notes**: For this session, it is important that you have previously thought about didactics and incorporating pedagogical elements in your teaching. You should be familiar with the basics of what learning means, the framework of constructivism, constructive alignment and how to set and formulate learning objectives. If you are not yet familiar with these concepts, please see the previous session on "Core didactic principles" when teaching about Open Research. 
+**Presenter Notes**: These are the **presenter notes**. You will find a script for the presenter for every slide. In presentation mode, your audience will not be able to see these presenter notes, they are only visible to the presente
 
-**Instructor Notes**: Before you get started on this submodule with your audience, you need to ensure that the audience fulfills these criteria.
+For **this session**, it is important that you have previously thought about didactics and incorporating pedagogical elements in your teaching. You should be familiar with the basics of what learning means, the framework of constructivism, constructive alignment and how to set and formulate learning objectives. If you are not yet familiar with these concepts, please see the previous session on "Core didactic principles" when teaching about Open Research.
+
+**Instructor Notes**: There are also **instructor notes**. For some slides, there will be pedagogical tips, suggestions for activities and troubleshooting tips for issues your audience might run into. You can find these notes underneath the presenter notes.
+
+Before you get started on this session with your audience, you need to ensure that the audience fulfills these criteria.
 :::
 
 ---
@@ -184,20 +147,6 @@ At the end of this session, you will be able to:
 
 ## Before we start: Survey time!
 
-![](images/QR-code-concept-planning-OSSS26.png){width=80% fig-align="center" fig-alt="QR code"}
-
-Scan the QR code and select the item **Intro-Survey** from the list.
-
-::: {.notes}
-**Presenter Notes**: Please scan this QR code. It will take you to a survey with a few questions intended to gauge your current familiarity with important concepts in this session.
-
-Link to survey: [https://partici.fi/04963182](https://partici.fi/04963182)
-:::
-
----
-
-## Before we start: Survey time!
-
 ::: {.panel-tabset}
 
 ### Question 1
@@ -210,7 +159,7 @@ b. I have organised 1-2 Open Research events
 
 c. I have organized 3-10 Open Research events
 
-d. I regularly organize Open Research events
+d. I organize > 10 Open Research events per year
 
 e. Organizing Open Research events is all I do because it is my (literal) job 
 
@@ -268,27 +217,33 @@ What do we see in the results?
 **Accessibility Tip**: Have people work in pairs if someone did not bring their phone/does not have a phone. This survey also cannot be completed in an asynchronous setting. 
 :::
 
-<!-- ## Your turn! 5 minutes -->
+---
 
-<!-- <br> -->
-<!-- <br> -->
+## Your turn! Why do you teach?
 
-<!-- <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;"> -->
-<!-- **Activity**: -->
-<!-- <br> -->
-<!-- **Why do you teach? What motivates you to teach?** -->
-<!-- <br> -->
-<!-- <br> -->
-<!-- *Write a few bulletpoints on what motivates you to teach. Save this as part of your developing teaching philosophy for future reference.* -->
-<!-- </div> -->
+<br>
+<br>
 
-<!-- ::: {.notes} -->
-<!-- **Presenter Notes**: Time for an activity! Why do you teach? What motivates you to teach? Write a few bulletpoints on what motivates you to teach. Save this as part of your developing teaching philosophy for future reference. Keep this in mind as we go along. -->
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
+**Activity**:
+<br>
+**Why do you teach? What motivates you to teach?**
+<br>
+<br>
+*Write a few bulletpoints on what motivates you to teach.*
+</div>
 
-<!-- **Instructor Notes**: Plan about 2 minutes for this activity. -->
-<!-- ::: -->
+:::footer
+Write down your thoughts. Take 3 minutes for this activity.
+:::
 
-<!-- --- -->
+::: {.notes}
+**Presenter Notes**: Time for an activity! Why do you teach? What motivates you to teach? Write a few bulletpoints on what motivates you to teach. Keep this in mind as we go along.
+
+**Instructor Notes**: Plan about 3 minutes for this activity, plus 2 minutes discussion.
+:::
+
+---
 
 # General framework of an Open Research event
 
@@ -302,8 +257,9 @@ What do you think are some initial **points to consider** when you **plan** an *
 *(event = workshop, course, lecture, seminar, talk etc.)*
 </div>
 
-<br>
-*Go to Section 1 of the Open Science Workshop workbook and navigate to exercise B1. Write down your thoughts. Take 3 minutes for this exercise.*
+:::footer
+Write down your thoughts. Take 3 minutes for this activity.
+:::
 
 ::: {.notes}
 **Presenter Notes**: Next question when planning an event on Open Research: what do you think are some initial **points to consider** when you **plan** an **event on Open Research**? An event could be a workshop, course, lecture, seminar, talk etc. Take three minutes to collect your thoughts.
@@ -353,8 +309,6 @@ Things to consider **when organizing an event**:
 - ...
 :::
 </div>
-
-<!-- https://docs.google.com/document/d/1vh34ziAVGYErtco_8tNhfyOJo29x_BBk7g9UH08kzZU/edit?tab=t.0#heading=h.lw4i2wvq5ump -->
 
 ::: {.notes}
 **Presenter Notes**: Before focusing on the learning design itself, it is important to consider the practical aspects of organizing an Open Research event. Good planning helps create an environment in which learners can fully engage with the learning activities.
@@ -543,8 +497,11 @@ In the second example, "Learners will create a reproducible research document us
 
 - **Milestones to achieve during the workshop**:
 - **Expectations**: 
+- **Materials**: 
 
-*Go to Section 1 of the Open Science Workshop workbook and navigate to exercise B2. Work in pairs. Take 5 minutes for this exercise.*
+:::footer
+In pairs, discuss and write down your thoughts. Take 10 minutes for this activity.
+:::
 
 ::: {.notes}
 **Presenter Notes**: Now it's your turn to put all of this into practice. Imagine that you are teaching a half-day workshop on R to a group of ten learners. Your task isn't to plan the technical content yet. Instead, focus only on the Arrive and Adjust phase.
@@ -594,15 +551,9 @@ The good news is that instructors can influence motivation. You can't control ev
 **What do *you* find motivating or demotivating?** 
 
 <br>
-Think back to **open research courses**, workshops or seminars you attended in the past. Consider things that a **teacher or trainer** has **said or done** that you found either **motivating** or **demotivating**. 
+Think back to **open research courses**, workshops or seminars you attended in the past. Consider things that a **teacher or trainer** has **said or done** that you found either **motivating** or **demotivating**. <br>
+*In pairs, write down your thoughts. Take 5 minutes for this activity*.
 </div>
-
-<br>
-*Go to Section 1 of the Open Science Workshop workbook and navigate to exercise B3. Write down your thoughts. Take 3 minutes for this exercise.*
-
-
-<br>
-<br>
 
 :::footer
 [https://zenodo.org/records/18905547](https://zenodo.org/records/18905547)
@@ -898,7 +849,9 @@ Let us get back to our planned **R workshop** for a group of learners.
 2. What could be two R-specific **factors** be that could **demotivate** your learners at the workshop? 
 </div>
 
-*Go to Section 1 of the Open Science Workshop workbook and navigate to exercise B4. Work in pairs. Take 5 minutes for this exercise.*
+:::footer
+Work in pairs. Take 5 minutes for this activity.
+:::
 
 ::: {.notes}
 **Presenter Notes**: Thinking about the R workshop that we started planning earlier: What are **concrete activities** where you could **actively boost motivation** in your learners?  What could some Git-specific **factors** be that could **demotivate** your learners at the workshop?
@@ -1182,8 +1135,11 @@ Activation methods are especially useful in this stage. They support learners in
 - Be **constructive** in your feedback: What is a next step from here?
   - **Connect** it to the learning objectives
   - **Balance** positive and negative feedback ("*feedback sandwich*": *positive - constructive criticism - positive*)
+- Your **words matter**!
+  - Giving and receiving feedback can be **hard**
+  - Lead the feedback conversation with **empathy**
+  - Consider the **cultural context**
   
-<!-- - Include **peer feedback** to increase engagement and shared learning -->
 :::
 
 :::
@@ -1191,7 +1147,7 @@ Activation methods are especially useful in this stage. They support learners in
 
 :::footer
 @obrienProvidingPositiveConstructive2022, @prochazkaSandwichFeedbackEmpirical2020, @wuPassiveActiveConstructive2023; 
-[https://zenodo.org/records/18905547](https://zenodo.org/records/18905547)
+[https://zenodo.org/records/18905547](https://zenodo.org/records/18905547). See also this [article](https://erinmeyer.com/wp-content/uploads/2023/10/When-Diversity-Meets-Feedback.pdf) by Erin Meyer (*The Culture Map*).
 :::
 
 ::: {.notes}
@@ -1201,43 +1157,17 @@ Activation methods are especially useful in this stage. They support learners in
 - Make feedback **constructive** by focusing on **clear next steps**
   - **Link** feedback explicitly to the learning objectives
   - **Balance** positive and corrective feedback to support learning and motivation (*"feedback sandwich"*: *positive - constructive criticism - positive*)
-
-:::
-
----
-
-### Constructive feedback considerations
-
-::: columns
-
-::: {.column width="40%"}
-
-![](images/empathy.png){fig-align="center" fig-alt="icon representing feedback bubbles" width=40%}
-
-:::
-
-::: {.column width="60%"}
-
-:::incremental
 - Your **words matter**!
-- Giving and receiving feedback can be **hard**
+  - Giving and receiving feedback can be **hard**
   - Lead the feedback conversation with **empathy**
-- Consider the **cultural context**
-:::
+  - Consider the **cultural context**
 
-:::
-::::
-
-:::footer
-[https://zenodo.org/records/18905547](https://zenodo.org/records/18905547). See also this [article](https://erinmeyer.com/wp-content/uploads/2023/10/When-Diversity-Meets-Feedback.pdf) by Erin Meyer, author of *The Culture Map*.
-:::
-
-::: {.notes}
-**Presenter Notes**: The main take-home from providing feedback is that your words matter, so it is important to choose them wisely.
+The main take-home from providing feedback is that your words matter, so it is important to choose them wisely.
 
 Giving and receiving feedback can be challenging, especially when it involves uncertainty or differing perspectives, as is often the case for Open Research. Here, it can help to lead feedback conversations with empathy, and to pay attention to how messages may be received and creating space for dialogue.
 
 Finally, consider the cultural context in which the other person is in can help preventing misunderstandings. We will talk about this more in the last session.
+
 :::
 
 <!-- ## Your turn! 10 minutes -->
@@ -1386,20 +1316,6 @@ At the end of this session, you are now able to:
 
 ## To conclude: Survey time!
 
-![](images/QR-code-concept-planning-OSSS26.png){width=80% fig-align="center" fig-alt="QR code"}
-
-Scan the QR code and select the item **End-Survey** from the list.
-
-::: {.notes}
-**Presenter Notes**: Please scan this QR code. It will take you to a survey with a few questions intended to gauge your current familiarity with important concepts in this session.
-
-Link to survey: [https://partici.fi/04963182](https://partici.fi/04963182)
-:::
-
----
-
-## To conclude: Survey time!
-
 ::: {.panel-tabset}
 
 ### Question 1
@@ -1503,8 +1419,6 @@ Check out [PROFiL](https://www.lmu.de/profil/de/) and their courses on slide des
 **Presenter Notes**: If you want to know more, please visit the website of Profil if you are an LMU member or contact your local didactics expert!
 :::
 
----
-
 <!-- # For instructors -->
 
 <!-- --- -->
@@ -1564,3 +1478,41 @@ Check out [PROFiL](https://www.lmu.de/profil/de/) and their courses on slide des
 <!-- ::: -->
 
 <!-- --- -->
+
+## Contribution statement
+
+<br>
+
+**Creator**: Von Grebmer zu Wolfsthurn, Sarah (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
+[0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))
+
+**Reviewer**: Middleton, Sara (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
+
+**Reviewer**: Schönbrodt, Felix (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-8282-3910](https://orcid.org/0000-0002-8282-3910))
+
+**Consultant**: Ihle, Malika (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981))
+
+---
+
+## License and citation statement
+
+<br>
+
+<p style="text-align:center;">
+  <img src="images/cc-by-sa.png" 
+  alt="Creative Commons Attribution 4.0 SA"
+  style="width:160px;" />
+</p>
+
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
+This current work by Sarah von Grebmer zu Wolfsthurn, Sara Lil Middleton, Malika Ihle and Felix Schönbrodt is licensed under a [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en) (CC-BY-SA 4.0). 
+
+Please cite as: Von Grebmer zu Wolfsthurn, S., Middleton, S., Ihle, M., & Schönbrodt, F. (2026). *Concept planning for Open Research events* [Quarto slides]. LMU Open Science Center. [https://lmu-osc.github.io/train-the-trainer-open-research/teaching-open-research/concept-planning/](https://lmu-osc.github.io/train-the-trainer-open-research/teaching-open-research/concept-planning/)
+</div>
+
+::: {.notes}
+**Presenter Notes**: The [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en), or CC BY-SA 4.0, allows others to copy, share, and adapt a work in any medium, including for commercial purposes. These permissions are broad and cannot be withdrawn as long as the license terms are followed. The main requirement is attribution: users must give appropriate credit to the original creator, provide a link to the license, and clearly indicate whether any changes were made, without implying endorsement by the original author. In addition, the ShareAlike condition means that if someone modifies or builds upon the work, the resulting material must be distributed under the same CC BY-SA 4.0 license, or a compatible one. Finally, users are not allowed to apply legal or technical restrictions, such as DRM, that would prevent others from exercising these same rights.
+
+Code snippets are dedicated to the public domain and licensed under a CC0 1.0 [Creative Commons Universal License](https://creativecommons.org/publicdomain/zero/1.0/). You may use, modify, distribute, and sell the code snippets for any purpose, without permission or attribution. The code snippets are provided “as is”, without warranty of any kind.
+:::
+
