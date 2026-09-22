@@ -1,13 +1,14 @@
 project:
   type: tutorial-template
 
-repo-url: https://github.com/lmu-osc/train-the-trainer-student-track-pedagogy
+repo-url: https://github.com/lmu-osc/train-the-trainer-open-research
+
 website:
-  title: "Train the Trainer: Teaching and leading in Open Science"
+  title: "Train the Trainer: Teaching and leading in Open Research"
   page-footer:
     border: false
     center: © 2026 Sarah von Grebmer zu Wolfsthurn, Sara Middleton, Malika Ihle, Felix Schönbrodt. Published by LMU Open Science Center. Licensed under CC BY-SA 4.0.
-  repo-url: https://github.com/lmu-osc/train-the-trainer-student-track-pedagogy
+  repo-url: https://github.com/lmu-osc/train-the-trainer-open-research
 
   navbar:
     right:
