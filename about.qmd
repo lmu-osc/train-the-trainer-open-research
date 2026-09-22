@@ -5,7 +5,7 @@ citation:
   type: "webpage"
   title: "Teaching and leading in Open Science"
   container-title: "LMU Open Science Center"
-  url: https://lmu-osc.github.io/train-the-trainer-student-track-pedagogy/
+  url: https://lmu-osc.github.io/train-the-trainer-open-research/
   version: 0.0.1
 author:
   - name: Sarah von Grebmer zu Wolfsthurn
@@ -44,7 +44,7 @@ author:
 
 ## Contributors
 
-This site was authored by Sarah von Grebmer zu Wolfsthurn, Sara Middleton, Malika Ihle, and Felix Schönbrodt. Additional contributions and reviews were provided by Sophie Renard and Flavio Azevedo.
+This site was authored by Sarah von Grebmer zu Wolfsthurn, Sara Middleton, Malika Ihle, and Felix Schönbrodt. Additional contributions and reviews were provided by Flavio Azevedo.
 
 ## Licenses
 

@@ -1,14 +1,14 @@
 ---
-title: "Teaching open research: Core didactic principles"
+title: "Core didactic principles for teaching Open Research"
 author: "Sarah von Grebmer zu Wolfsthurn"
 date: "today"
 date-format: "DD/MM/YYYY"
 format: 
   revealjs:
-    css: ../../assets/slides-custom.css # looks for css file in root
+    css: ../../assets/slides-custom.css
     footer: LMU Open Science Center
     slide-number: true
-    logo: /assets/logos/OSC_Logo.jpg  # Inserts logo in the bottom right corner (default)
+    logo: /assets/logos/OSC_Logo.jpg
   pdf:
     geometry: 
       - top=30mm
@@ -28,66 +28,28 @@ filters:
   - timer
 ---
 
-## License
-
-<br>
-
-<p style="text-align:center;">
-  <img src="images/cc-by-sa.png" 
-  alt="Creative Commons Attribution 4.0 SA"
-  style="width:160px;" />
-</p>
-
-<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
-This current work by Sarah von Grebmer zu Wolfsthurn, Sara Lil Middleton and Malika Ihle is licensed under a CC-BY-SA 4.0 [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
-Code snippets are dedicated to the public domain and licensed under a CC0 1.0 [Creative Commons Universal License](https://creativecommons.org/publicdomain/zero/1.0/). You may use, modify, distribute, and sell the code snippets for any purpose, without permission or attribution. The code snippets are provided “as is”, without warranty of any kind.
-
-</div>
-
-::: {.notes}
-**Presenter Notes**: The Creative Commons Attribution–ShareAlike 4.0 license, or CC BY-SA 4.0, allows others to copy, share, and adapt a work in any medium, including for commercial purposes. These permissions are broad and cannot be withdrawn as long as the license terms are followed. The main requirement is attribution: users must give appropriate credit to the original creator, provide a link to the license, and clearly indicate whether any changes were made, without implying endorsement by the original author. In addition, the ShareAlike condition means that if someone modifies or builds upon the work, the resulting material must be distributed under the same CC BY-SA 4.0 license, or a compatible one. Finally, users are not allowed to apply legal or technical restrictions, such as DRM, that would prevent others from exercising these same rights.
-:::
-
----
-
-## Contribution statement
-
-<br>
-
-**Creator**: Von Grebmer zu Wolfsthurn, Sarah (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
-[0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))
-
-**Reviewer**: Middleton, Sara (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
-
-**Consultant**: Ihle, Malika (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981))
-
-::: {.notes}
-**Presenter Notes**: These are the **presenter notes**. You will find a script for the presenter for every slide. In presentation mode, your audience will not be able to see these presenter notes, they are only visible to the presenter. 
-
-**Instructor Notes**: There are also **instructor notes**. For some slides, there will be pedagogical tips, suggestions for activities and troubleshooting tips for issues your audience might run into. You can find these notes underneath the presenter notes.
-
-**Accessibility Tips**: Where applicable, this is a space to add any tips you may have to facilitate the accessibility of your slides and activities. 
-:::
-
----
-
 ## Prerequisites
 
 ::: {.callout-important}
-Before completing this submodule, please carefully read about the prerequisites.
+Before completing this session, please carefully read about the prerequisites.
 :::
 
 <div style="font-size: 0.8em;">
 | Prerequisite   |  Description  | Where to find this  |
 |------------|------------|------------|
-| Basic familiarity with Open Science concepts and practices | Examples: Replication crisis, open access, R, version control, preregistration, etc.| [Click here to get familiar with Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
+| Basic familiarity with Open Research concepts and practices | Examples: Replication crisis, open access, R, version control, preregistration, etc.| [Click here to get familiar with Open Research first](https://lmu-osc.github.io/training/self-learning.html) |
 </div>
 
-::: {.notes}
-**Presenter Notes**: This session assumes a basic familiarity with common Open Science concepts and practices. You do not need to be experts, but they should have at least seen or used some of these concepts before. Examples include: replication crisis, R for data analysis and reproducible workflows;  Quarto for reproducible documents; Git and GitHub for version control and collaboration, preregistration to document hypotheses and analysis plans in advance, Open Access publishing and broader transparency practices. If some of these terms are new, you are encouraged to review the introductory Open Science materials linked on the slide before continuing. The goal is simply to ensure everyone shares a common baseline vocabulary so the workshop can focus on learning how to teach about Open Science rather than Open Science itself.
 
-**Instructor Notes**: Before you get started on this submodule with your audience, you need to ensure that the audience fulfills these criteria. Also outline any essential prerequisites (software, tools, other submodules etc.) here. 
+::: {.notes}
+**Presenter Notes**: These are the **presenter notes**. You will find a script for the presenter for every slide. In presentation mode, your audience will not be able to see these presenter notes, they are only visible to the presenter. 
+
+**This session** assumes a basic familiarity with common Open Science concepts and practices. You do not need to be an expert, but you should have at least seen or used some of these concepts before. Examples include: replication crisis, R for data analysis and reproducible workflows; Quarto for reproducible documents; Git and GitHub for version control and collaboration, preregistration to document hypotheses and analysis plans in advance, Open Access publishing and broader transparency practices. If some of these terms are new, you are encouraged to review the introductory Open Science materials linked on the slide before continuing. The goal is simply to ensure everyone shares a common base vocabulary so the workshop can focus on learning how to teach about Open Science rather than Open Science itself.
+
+**Instructor Notes**: There are also **instructor notes**. For some slides, there will be pedagogical tips, suggestions for activities and troubleshooting tips for issues your audience might run into. You can find these notes underneath the presenter notes.
+
+Before you get started on this session with your audience, you need to ensure that the audience fulfills these criteria. Also outline any essential prerequisites (software, tools, other submodules etc.) here. 
+**Accessibility Tips**: Where applicable, this is a space to add any tips you may have to facilitate the accessibility of your slides and activities. 
 :::
 
 ---
@@ -132,7 +94,7 @@ https://icons8.com/
 ![](images/experience-spectrum.png){width="100%" fig-align="center" fig-alt="image of a horizontal axis ranging from no teaching experience to a lot of teaching experience"}
 
 ::: {.notes}
-**Instructor Notes**: *For in-person learners*: Get people to stand along imaginary line across the room in terms of how much teaching experience they have. *For online learners*: Ask them to indicate experience on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their experiences. Involve your audience as early as possible, so that they pay attention in case they unexpectedly get called upon. 
+**Instructor Notes**: *For in-person learners*: Get people to stand along an imaginary line across the room based on how much teaching experience they have. *For online learners*: Ask them to indicate experience on the screen. Pick out several people on either end of the spectrum and have them explain their teaching experience. Next, pick some people around the middle and have them explain and compare their experiences. Involve your audience as early as possible, so that they pay attention in case they unexpectedly get called upon. 
 :::
 
 ---
@@ -149,37 +111,26 @@ https://icons8.com/
 ::: {.notes}
 **Presenter Notes**: Next, let us think a little more about "didactics" or "pedagogy". If and when you teach, how often do you think about didactics? What do you connect with that term?
 
-**Instructor Notes**: For *in-person learners*: Get people to stand along imaginary line across the room in terms of how much they think about didactics. For *online learners*: Ask them to indicate experience on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their didactic thinking processes.
+**Instructor Notes**: *For in-person learners*: Get people to stand along an imaginary line across the room based on how much they think about didactics. *For online learners*: Ask them to indicate their experience on the screen. Pick out several people on either end of the spectrum and have them explain their connection with didactics. Next, pick some people around the middle and have them explain and compare their connection with didactics. Involve your audience as early as possible, so that they pay attention in case they unexpectedly get called upon. 
 :::
 
 ---
 
-<!-- ### How big are your teaching/training audiences? -->
+### How big are your teaching/training audiences?
 
-<!-- - i.e., what is the average group size you teach in open research? (< 5 people = very small, > 100 people = very large) -->
+- i.e., what is the average group size you teach in open research? (< 5 people = very small, > 100 people = very large)
 
-<!-- <br> -->
-<!-- <br> -->
+<br>
+<br>
 
-<!-- ![](images/audience.png){width="100%" fig-align="center"} -->
-
-<!-- ::: {.notes} -->
-<!-- **Presenter Notes**: Finally, how big are your training audiences? How many people are in the room with you, virtually or in person? What kind of group would this be? -->
-
-<!-- **Instructor Notes**:  For *in-person learners*: Get people to stand along imaginary line across the room in terms of how large their teaching audiences are. For *online learners*: Ask them to indicate group size on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their respective teaching audiences. -->
-<!-- ::: -->
-
-## Survey time!
-
-![](images/QR-code-core-didactic-principles-OSSS26.png){width="80%" fig-align="center" fig-alt="QR code for survey"}
-
-Scan the QR code and select the item **Intro-Survey** from the list.
+![](images/audience.png){width="100%" fig-align="center"}
 
 ::: {.notes}
-**Presenter Notes**: Please scan this QR code. It will take you to a survey with a few questions intended to gauge your current familiarity with important concepts in this session.
+**Presenter Notes**: Finally, how big are your training audiences? How many people are in the room with you, virtually or in person? What kind of group would this be?
 
-Link to survey: [https://partici.fi/30470958](https://partici.fi/30470958)
+**Instructor Notes**: *For in-person learners*: Get people to stand along an imaginary line across the room based on how large their teaching audiences are. *For online learners*: Ask them to indicate their audience size on the screen. Pick out several people on either end of the spectrum and have them explain their audience. Next, pick some people around the middle and have them explain and compare their audiences in terms of size. Involve your audience as early as possible, so that they pay attention in case they unexpectedly get called upon.
 :::
+
 ---
 
 ## Survey time!
@@ -271,33 +222,6 @@ to
 
 ---
 
-<!-- ## Where are we at? -->
-
-<!-- **Previously**: -->
-
-<!-- - Getting to know the group -->
-
-<!-- <div style="background-color: #f0f0f0;"> -->
-<!-- **Up next**: -->
-
-<!-- - What is learning? -->
-<!-- - Constructivism -->
-<!-- - Constructive alignment -->
-<!-- - Learning domains -->
-<!-- - Levels of knowledge: Bloom's taxonomy -->
-<!-- - Formulating learning objectives -->
-<!-- </div> -->
-
-<!-- ::: {.notes} -->
-<!-- **Presenter Notes**: -->
-
-<!-- **Instructor Notes**: -->
-<!-- - **Aim**: Place the topic of the current submodule within a broader context. -->
-<!-- - Remind learners what you are working towards and what the bigger picture is. -->
-<!-- ::: -->
-
-<!-- --- -->
-
 ## Key terms and definitions
 
 Some terms we will come across today...
@@ -308,7 +232,6 @@ Some terms we will come across today...
 - **Learning objectives**:
 - **Bloom's taxonomy**: 
 </div>
-
 
 ::: {.notes}
 **Presenter Notes**: Before we go further, I want to briefly show you the key concepts that will underpin today’s session. These concepts may not make sense to you at this point. Broadly speaking, these concepts are closely related and together provide a useful foundation for thinking about effective teaching and learning design.
@@ -337,6 +260,20 @@ Some terms we will come across today...
 
 ---
 
+## Covered in this session
+
+- What *is* learning?
+- **Constructivism**
+- **Constructive alignment**
+- Learning domains and levels of knowledge: **Bloom's taxonomy**
+- Formulating **learning objectives**
+
+::: {.notes}
+**Presenter Notes**: This session focuses on key didactic concepts. We will begin with defining what learning is, before discussing concepts and theoretical frameworks such as constructivism, constructive alignment, learning domains, including Bloom's taxonomy and how to formulate clear and concise learning objectives.
+:::
+
+---
+
 ## Learning objectives
 
 At the end of this session, you will...
@@ -345,7 +282,7 @@ At the end of this session, you will...
 - **Remember** basic didactic concepts as the foundation for learning success
 - **Explain** and **compare** how knowledge can be organized depending on the level of expertise
 - **Evaluate** the alignment between learning objectives, assessment types and teaching activities
-- **Formulate** concrete learning objectives according to specific learning domains for real-world content - *time-dependent*
+- **Formulate** concrete learning objectives according to specific learning domains for real-world content
 :::
 
 ::: {.notes}
@@ -424,9 +361,9 @@ Today, this definition has expanded a little, as we will see next.
 :::
 
 ::: {.notes}
-**Presenter Notes**: I particularly like the definition of didactics by Stockholm University, who have a strong focus on didactics and conduct research around the topic. Didactics is the art and science of teaching and learning. It is a field within education that seeks to answer three central questions: What should be taught, how should it be taught, and why should it be taught? Didactics encompasses questions about how learning takes place in different contexts. It can be seen as the planning, implementation, and analysis of teaching, with a particular focus on why certain goals, content, and methods are chosen.
+**Presenter Notes**: This definition of didactics by Stockholm University also captures this concept well. Didactics is the art and science of teaching and learning. It is a field within education that seeks to answer three central questions: What should be taught, how should it be taught, and why should it be taught? Didactics encompasses questions about how learning takes place in different contexts. It can be seen as the planning, implementation, and analysis of teaching, with a particular focus on why certain goals, content, and methods are chosen.
 
-Here we have an important key point: the instructors choice of content and methods, and what learners learn. You can view didactics as a framework in which knowledge and skills are not passively presented, but understood, retained and applied across in a carefully designed context.
+Here we have an important key point: the instructors choice of content and methods, and what learners learn. You can view didactics as a framework in which knowledge and skills are not passively presented, but understood and retained in a carefully designed context.
 :::
 
 ---
@@ -435,16 +372,10 @@ Here we have an important key point: the instructors choice of content and metho
 
 What do you **connect** with this concept? First thoughts? Assumptions? Expectations?
 
-![](images/QR-code-core-didactic-principles-OSSS26.png){width="80%" fig-align="center" fig-alt="QR code for particify wordcloud"}
-
-*Scan the QR code and select the item **What is learning?** from the list. Take 2 minutes to brainstorm your thoughts.*
-
 ::: {.notes}
-**Presenter Notes**: A natural follow-up question from didactics: What is learning to you? How would you define it? What expectations or assumptions come with it? Scan the QR code on the slide and take a few minutes to brainstorm what you connect with this term.
+**Presenter Notes**: A natural follow-up question from didactics: What is learning to you? How would you define it? What expectations or assumptions come with it?
 
-**Instructor Notes**: Use an interactive tool such as wordcloud for this to engage your learners. 
-
-Keep in mind that your learners may have very different educational, cultural, or professional backgrounds, which will shape how they define learning. Moreover, because the question is personal and open-ended, learners need to feel comfortable sharing ideas without fear of being judged or “wrong.” Emphasize that there is no right or wrong and they could take a guess if they felt comfortable. Importantly, use this as an opportunity to understand what learners prior conceptualization of this process is. 
+**Instructor Notes**: Use an interactive tool such as a wordcloud generator for this to engage your learners. Keep in mind that your learners may have very different educational, cultural, or professional backgrounds, which will shape how they define learning. Moreover, because the question is personal and open-ended, learners need to feel comfortable sharing ideas without fear of being judged or “wrong.” Importantly, use this as an opportunity to understand what learners prior conceptualization of this process is. 
 :::
 
 ---
@@ -460,13 +391,13 @@ Keep in mind that your learners may have very different educational, cultural, o
 
 
 :::footer
-See @lovettHowLearningWorks2023. Slide adapted from Laura Carter: "Evidence-based Training" [https://zenodo.org/records/18905547](https://zenodo.org/records/18905547). Slide originally licensed under CC BY 4.0: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)  
+See @lovettHowLearningWorks2023 and @efgiviaAnalysisConstructivismLearning2021. Slide adapted from Laura Carter: "Evidence-based Training" [https://zenodo.org/records/18905547](https://zenodo.org/records/18905547). Slide originally licensed under CC BY 4.0: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)  
 :::
 
 ::: {.notes}
 **Presenter Notes**: Pulling together our discussion from before, this definition from @lovettHowLearningWorks2023 and Ambrose et al. shifts the focus from learning as information being presented to learning as a process that leads to change.
 
-That change results from experience and may involve knowledge, skills, attitudes, or approaches to problems. Simply being exposed to information is not enough; learners need to actively engage with it.
+Simply being exposed to information is not enough; learners need to actively engage with it.
 
 Importantly, learning also increases the potential for improved performance and future learning, building capacity for continued growth.
 
@@ -510,7 +441,6 @@ The **learning context matters**!
   - Learners are **not** empty "vessels" to be filled
   
 :::
-
 
 :::footer
 @fosnotConstructivismTheoryPerspectives2013
@@ -610,14 +540,14 @@ How does your **experience** with a topic differ when you are an expert compared
 
 </div>
 
-<br>
-
-*Go to Section 1 of the Open Science Workshop workbook and navigate to exercise A1. Write down your thoughts. Take 3 minutes for this exercise.*
+:::footer
+Write down your thoughts. Take 3 minutes for this exercise.
+:::
 
 ::: {.notes}
 **Presenter Notes:** An important question to ask at this point is what "being an expert" actually means. Please take a few moments to think about these three questions for yourselves. We will then share your thoughts in the larger group. Take 3 minutes for this exercise.
 
-**Instructor Notes**: *For the discussion round*: In reviewing the answers to the third question above, you will find that the expert experience amounts to much more than just knowing more facts in your learners. What makes an expert? The answer is that experts have more connections among pieces of knowledge that help them think and problem-solve quickly; more “short-cuts”, if you will.
+**Instructor Notes**: *For the discussion round*: When reviewing the answers, you will find that the expert experience amounts to much more than just knowing more facts in your learners. What makes an expert? The answer is that experts have more connections among pieces of knowledge that help them think and problem-solve quickly; more “short-cuts”, if you will.
 
 *Idea for a group activity*: Replace the individual work with work in pairs. Use the think-pair-share method [@mundelseeThinkPairShare2021]: Think for two minutes for yourself, collect your thoughts with a partner for two minutes, then we discuss in the large group for two minutes.
 :::
@@ -692,8 +622,8 @@ An expert has a densely populated and connected mental model that is especially 
 </tr>
 <tr>
 <td><strong>Competent practitioners</strong></td>
-<td>Publish papers Open Access and apply open licenses (e.g., Creative Commons)</td>
-<td>Explain in-depth differences between Gold, Green, and Diamond OA or navigate complex copyright and licensing issues</td>
+<td>Knows which "default licenses" are a good choice for most typical cases</td>
+<td>Explain specific details of licences or handle "untypical" licensing cases</td>
 </tr>
 <tr>
 <td><strong>Experts</strong></td>
@@ -708,7 +638,7 @@ An expert has a densely populated and connected mental model that is especially 
 
 - A **novice** learner in a Open Access workshop might never have heard of the Green Open Access model, and therefore may have no understanding of how it affects both the authors of academic papers as well as the readers of papers. 
 
-- A **competent practitioner** in the context of an Open Access workshop might be able to check funder's requirements, publish papers Open Access and uses open licenses like Creative Commons licenses. What they maybe do not know are the in-depth differences between Gold, Green and Diamond OA and the legal subtleties of copyright and all the different licenses. 
+- A **competent practitioner** in the context of an Open Access workshop might be able to check funder's requirements, knows that different licences exist and can make a choice between "default" licenses, but might not know specific details about each licence and cannot make a suitable licensing choice for egde cases. 
 
 - An **expert** publishes perhaps strategically across gold, green and diamond open access routes. Selects and applies different Creative Commons licenses based on reuse goals. Trains others in Open Access practices and institutional policy. Consults on unusual situations, e.g., checks embargo policies and copyright, recommends alternative journals, meaning that they adapt and apply the knowledge and skills flexibly depending on the situation. 
 :::
@@ -725,14 +655,14 @@ An expert has a densely populated and connected mental model that is especially 
 3. **Provide at least two concrete examples** of how the organization of knowledge differs among these types of learners. 
 </div>
 
-<br> 
-
-*Go to Section 1 of the Open Science Workshop workbook and navigate to exercise A2. Work with your neighbor. Take 7 minutes for this exercise.*
+:::footer
+Write down your thoughts. Take 8 minutes for this exercise.
+:::
 
 ::: {.notes}
-**Presenter Notes**: Let us compare these mental models across the different types of learners with a concrete example. With your neighbor, think of an open science topic of your choice, not open access since we already had a few examples related to this. Sketch out the mental model of a novice in comparison to a competent practitioner and an expert and provide at least two concrete examples of how the organization of knowledge differs among these  types of learners. Write down your thoughts over the next 7 minutes. 
+**Presenter Notes**: Let us compare these mental models across the different types of learners with a concrete example. With your neighbor, think of an open science topic of your choice, not open access since we already had a few examples related to this. Sketch out the mental model of a novice in comparison to a competent practitioner and an expert and provide at least two concrete examples of how the organization of knowledge differs among these  types of learners. Write down your thoughts over the next 8 minutes. 
 
-**Instructor Notes**: Give learners 7-10 minutes for this exercise. Collect at least one example and discuss in the bog group. 
+**Instructor Notes**: Give learners 8-10 minutes for this exercise. Collect at least one example and discuss in the big groupfor another 2-3 minutes. 
 :::
 
 ---
@@ -772,49 +702,45 @@ Can you identify things that would help you with
 
 ::: {.column width="33%"}
 
-### Think (2 min)
+### Think (3 min)
 - For yourself: Collect some thoughts for yourself.
 
-:::{.timer #think1 seconds=120 starton=interaction size=40% sound=true}
+:::{.timer #think1 seconds=180 starton=interaction size=40% sound=true}
 ::: 
 
 :::
 
 ::: {.column width="33%"}
 
-### Pair (2 min)
+### Pair (4 min)
 - Discuss your <br> thoughts with your neighbor.
 
-:::{.timer #pair1 seconds=120 starton=interaction size=40% sound=true}
+:::{.timer #pair1 seconds=240 starton=interaction size=40% sound=true}
 :::
 
 :::
 
 ::: {.column width="33%"}
 
-### Share (2 min)
+### Share (4 min)
 - Share your thoughts with the larger <br> group.
 
-:::{.timer #share1 seconds=120 starton=interaction size=40% sound=true}
+:::{.timer #share1 seconds=240 starton=interaction size=40% sound=true}
 :::
 
 :::
 
 ::::
 
-:::footer
-Go to exercise A3 in the workbook and note down your thoughts.
-:::
-
 ::: {.notes}
-**Presenter Notes**: Now that we have talked about mental models, next we want to talk about things that could help us move from novice learners to experts. Think about something that you are currently learning or learned how to do. What helps you with organizing your knowledge, beliefs, prior skills, etc. in your mental model, for example in the context of a workshop or course? Think back about things that you encountered in workshops or courses, or even things you have seen during this session. Write down thoughts for yourself (2 mins). Then discuss with your neighbor (2 mins). We will then discuss in the larger group.
+**Presenter Notes**: Now that we have talked about mental models, next we want to talk about things that could help us move from novice learners to experts. Think about something that you are currently learning or learned how to do. What helps you with organizing your knowledge, beliefs, prior skills, etc. in your mental model, for example in the context of a workshop or course? Think back about things that you encountered in workshops or courses, or even things you have seen during this session. Write down thoughts for yourself (3 mins). Then discuss with your neighbor (4 mins). We will then discuss in the larger group (4 mins).
 
-**Instructor Notes**: Ask for interaction from the audience or make it an individual activity. Allow for approx. 6 minutes. 
+**Instructor Notes**: Ask for interaction from the audience or make it an individual activity. If there are no volunteers, pick a group yourself and ask for additional contributions Allow for approx. 12 minutes for this exercise.
 :::
 
 ---
 
-### Enhancing the organization of knowledge
+### Enhancing the organization of knowledge as an instructor
 
 Some strategies ...
 
@@ -921,7 +847,7 @@ When preparing a teaching unit, it is important to gain an overview of the locat
 
 > Focus on **learning objectives**: what do we want our learners to **achieve**?
 
-![](images/constructional-alignment.png){width="100%" fig-align="center" fig-alt="figure depicting the pyramid of constructive alignment, with assessment tasks and teaching activities as separate elements on the bottom layer, and learning objectives as the top layer, all connected through arrows"}
+![](images/constructive-alignment.png){width="100%" fig-align="center" fig-alt="figure depicting the pyramid of constructive alignment, with assessment tasks and teaching activities as separate elements on the bottom layer, and learning objectives as the top layer, all connected through arrows"}
 
 :::footer
 @biggsEnhancingTeachingConstructive1996
@@ -933,8 +859,23 @@ When preparing a teaching unit, it is important to gain an overview of the locat
 In constructive alignment, we start with the outcomes we intend learners to learn, and align teaching and assessment to those outcomes. The outcome statements contain a learning activity and typically a verb says what the relevant learning activities are that the learners need to undertake in order to obtain the intended learning outcome. 
 
 Learning is constructed by what activities the learners carry out; learning is about what your learners do, not about what  instructors do. Likewise, assessment is about how well learners achieve the intended outcomes, not about how well learners report back to us what we have told them or what they have read’ (Biggs n.d.).
+:::
 
-For example: Say that at the end of the session, you want your learners to independently prepare metadata for a paper they wrote in a previous session for it to be published as a preprint.  For this, it would be unhelpful if you only had a learning activity during you session where learners need to describe what a preprint is. What would be a more aligned teaching activity would be to have them practice to compile metadata from a sample manuscript and extract information such as title, authors, abstract, keywords, subject categories etc.
+---
+
+## Constructive alignment
+
+> Example in an **Open Research** context
+
+![](images/constructive-alignment-preprint-example.png){width="100%" fig-align="center" fig-alt="figure depicting the pyramid of constructive alignment, with assessment tasks and teaching activities as separate elements on the bottom layer, and learning objectives as the top layer, all connected through arrows illustrated via the example of compiling metadata for a preprint as learning objective"}
+
+
+:::footer
+@biggsEnhancingTeachingConstructive1996
+:::
+
+::: {.notes}
+**Presenter Notes**: For example, in an open research context, say that at the end of the session, you want your learners to independently prepare metadata for a paper they wrote in a previous session for it to be published as a preprint.  For this, it would be unhelpful if you only had a learning activity during you session where learners need to describe what a preprint is. What would be a more aligned teaching activity would be to have them practice to compile metadata from a sample manuscript and extract information such as title, authors, abstract, keywords, subject categories etc.
 
 **Instructor Notes**: *Ideas for interactive elements*: Ask if someone in your audience has already heard about this concept. Ask to provide examples.
 :::
@@ -947,18 +888,19 @@ For example: Say that at the end of the session, you want your learners to indep
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
 
-Match each **learning objective** with an **assessment type** and reflect the following:
+On the following slide, match each **learning objective** with an **assessment task** and reflect the following:
 
-- Why does the assessment type fit the specific learning objective?
-- *Optional:* What teaching activities can you think of that would align with the learning objective and the corresponding assessment type?
+- **Why** does the assessment task **fit** the specific learning objective?
+- Which **teaching activities** can you think of that would align with the learning objective and the corresponding assessment task?
 
 </div>
 
-<br>
-*Go to Section 1 of the Open Science Workshop workbook and navigate to exercise A4. Work with your partner. Take 8 minutes for this exercise.*
+:::footer
+Work in pairs. Take 8 minutes for this activity.
+:::
 
 ::: {.notes}
-**Presenter Notes**: For this next exercise, I would like for you to match the assessment type with a given learning objective. We will learn more about learning objectives and how to formulate them later. For now, focus on the alignment aspect: does the learning objective match with the assessment type? Take 8 minutes for this task.
+**Presenter Notes**: For this next exercise, I would like for you to match the assessment task with a given learning objective. We will learn more about learning objectives and how to formulate them later. For now, focus on the alignment aspect: does the learning objective match with the assessment task? Work in pairs. Take 8 minutes for this activity.
 :::
 
 ---
@@ -966,13 +908,17 @@ Match each **learning objective** with an **assessment type** and reflect the fo
 ## Practical activity
 
 <div style="font-size: 0.8em;">
-| Learning objective | Assessment type |
+| Learning objective | Assessment task |
 |---------------|--------------------|
 | A: *Create* a reproducible research pipeline | 1: Hand in a brief  essay on Green open access along with two ethical benefits and two challenges  |
 | B: *Apply* FAIR data principles to a dataset| 2: Generate a GitHub project and add project documentation (README) |
 | C: *Analyze* reproducibility issues in published studies | 3: Create a metadata record that is machine-readable  |
 | D:  *Understand* ethical implications of open access | 4: Write a critical review of the methods section of an open access paper |
 </div>
+
+:::footer
+Work in pairs. Take 8 minutes for this activity.
+:::
 
 ::: {.notes}
 **Instructor Notes**: Discussion of solutions in the plenum and potential discussions. The solutions are:
@@ -998,7 +944,7 @@ Luckily, there is a framework that can help us with this even more.
 
 ## Three domains of learning
 
-| Domain | Focus |
+| Learning domain | Learning focus |
 |:-----|:-------------|
 | **Cognitive** | Knowledge or thinking skills |
 | **Affective** | Growth in feelings or emotional areas (attitude or self), values |
@@ -1011,7 +957,7 @@ Luckily, there is a framework that can help us with this even more.
 ::: {.notes}
 **Presenter Notes**: Now, let's say we want to define our learning objectives, and we know where in the hierarchy we want to begin. 
 
-We need to be more specific in *what* we want our learners to learn. A useful framework is to divide learning objectives into three domains. The first domain is the cognitive domain, which focuses on knowledge and thinking. The second domain is the affective domain, which focuses on feelings, attitudes, values, and personal growth. The third domain is the psychomotor domain, which focuses on physical or technical skills and behavioral change. All three are important in the context of Open Science, but for time reasons we will focus on the cognitive and affective learning domain in this session. 
+We need to be more specific in *what* we want our learners to learn. A useful framework is to divide learning objectives into three domains. The first domain is the cognitive domain, which focuses on knowledge and thinking. The second domain is the affective domain, which focuses on feelings, attitudes, values, and personal growth. The third domain is the psychomotor domain, which focuses on physical or technical skills and behavioral change. All three are important in the context of Open Research.
 :::
 
 ---
@@ -1019,7 +965,7 @@ We need to be more specific in *what* we want our learners to learn. A useful fr
 ### Cognitive domain
 
 :::incremental
-- Learning focused on expanding or building up **knowledge and thinking skills** as a learning outcome
+- **Learning** is focused on expanding or building up **knowledge and thinking skills** as a learning outcome
 
 - Widely implemented in education and typically connected to **Bloom's taxonomy**
 
@@ -1068,11 +1014,11 @@ At the **Create** level, learners produce new work by combining knowledge in ori
 ### Affective domain
 
 :::incremental
-- Learning focused on identifying and developing **attitudes and values** of learners as learning outcome
+- **Learning** is focused on identifying and developing **attitudes and values** of learners as learning outcome
 - Difficult to measure directly, but can be assessed through *observable behaviors* (e.g., appreciation, showing commitment, awareness of nuances)
 
 - *Example*:
-  - **Learning objective**: Learners will actively engage  with differing views on the pros and cons of preregistration by asking clarifying questions and incorporating at least one alternative viewpoint into their own arguments
+  - **Learning objective**: Learners will actively engage with differing views on the pros and cons of preregistration by asking clarifying questions and incorporating at least one alternative viewpoint into their own arguments
   - **Teaching activity**: Learners participate in a panel discussion in which they argue either the benefits or the limitations of preregistration in scientific research.
   - **Assessment task**: Learners write a reflection essay in which they summarize the arguments presented during the discussion and reflect on how considering both the advantages and disadvantages of preregistration influenced their own perspective on open science practices.
 
@@ -1114,66 +1060,63 @@ Finally, the assessment task is a reflection essay. Here, learners summarize the
 
 ---
 
-<!-- ### Psychomotor domain -->
-<!-- ```{r} -->
+### Psychomotor domain
+```{r}
 
-<!-- ``` -->
+```
 
-<!-- :::incremental -->
-<!-- - Learning focused on implementing, expanding and building **physical skills and behaviors**, .e.g., through physical movement, coordination and motor skills as learning outcomes (e.g., measured in terms of speed, precision or technical execution) -->
+:::incremental
+- **Learning** is focused on implementing, expanding and building **physical skills and behaviors**, .e.g., through physical movement, coordination and motor skills as learning outcomes (e.g., measured in terms of speed, precision or technical execution)
 
-<!-- - *Example*: -->
-<!--   - **Learning objective**: Learners will accurately upload, document, and share a research dataset in an open repository using appropriate metadata and licensing practices. -->
-<!--   - **Teaching activity**: Hands-on workshop where learners practice preparing metadata, selecting appropriate licenses and uploading to an open repository.  -->
-<!--   - **Assessment task**: Each learner independently uploads a dataset and accompanying documentation to a repository with a suitable license. -->
+- *Example*:
+  - **Learning objective**: Learners will accurately upload, document, and share a research dataset in an open repository using appropriate metadata and licensing practices.
+  - **Teaching activity**: Hands-on workshop where learners practice preparing metadata, selecting appropriate licenses and uploading to an open repository.
+  - **Assessment task**: Each learner independently uploads a dataset and accompanying documentation to a repository with a suitable license.
 
-<!-- ::: -->
+:::
 
-<!-- :::footer -->
-<!-- @harrow1972taxonomy -->
-<!-- ::: -->
+:::footer
+@harrow1972taxonomy
+:::
 
-<!-- ::: {.notes} -->
-<!-- **Presenter Notes**: The psychomotor domain focuses on building physical skills and behaviors as outcome. Bloom and his colleagues did not create subcategories for skills in the psychomotor domain, but other educators did, see @dave1970developing,  @harrow1972taxonomy and @simpson1985educational and other (Simpson 1966, 1972). The psychomotor domain includes physical movement, coordination, and motor skills. Development of these skills requires practice and is measured in terms of speed, precision, distance, procedures, or technical execution.  -->
+::: {.notes}
+**Presenter Notes**: The psychomotor domain focuses on building physical skills and behaviors as outcome. Bloom and his colleagues did not create subcategories for skills in the psychomotor domain, but other educators did, see @dave1970developing,  @harrow1972taxonomy and @simpson1985educational and other (Simpson 1966, 1972). The psychomotor domain includes physical movement, coordination, and motor skills. Development of these skills requires practice and is measured in terms of speed, precision, distance, procedures, or technical execution.
 
-<!-- A straightforward example could be the following: *The learning objective is for learners to accurately perform CPR using correct hand placement and rhythm. This emphasizes not only knowing the steps of CPR cognitively, but being able to physically carry them out correctly in a practical situation.* -->
+A straightforward example could be the following: *The learning objective is for learners to accurately perform CPR using correct hand placement and rhythm. This emphasizes not only knowing the steps of CPR cognitively, but being able to physically carry them out correctly in a practical situation.*
 
-<!-- The teaching activity involves learners practicing CPR on mannequins while receiving immediate feedback. This hands-on practice is essential in the psychomotor domain because physical skills improve through repeated performance, correction, and refinement of technique. -->
+The teaching activity involves learners practicing CPR on mannequins while receiving immediate feedback. This hands-on practice is essential in the psychomotor domain because physical skills improve through repeated performance, correction, and refinement of technique.
 
-<!-- The assessment task places learners in a simulated emergency scenario where they must independently perform CPR for one to two minutes. This allows instructors to evaluate whether learners can execute the skill accurately and consistently under realistic conditions. The focus of assessment is therefore on observable performance and technical competence rather than only theoretical knowledge. -->
+For Open Science, it is a little harder to find a good example. Let's take correctly uploading and documenting a dataset using appropriate metadata and licensing. The teaching activity provides guided, practical experience with preparing datasets and using an open repository. The assessment then evaluates learners’ ability to independently carry out these technical tasks accurately and correctly.
+:::
 
-<!-- For Open Science, it is a little harder to find a good example. Let's take correctly uploading and documenting a dataset using appropriate metadata and licensing.  -->
+---
 
-<!-- The teaching activity provides guided, practical experience with preparing datasets and using an open repository. The assessment then evaluates learners’ ability to independently carry out these technical tasks accurately and correctly. -->
-<!-- ::: -->
+### Psychomotor domain
 
-<!-- --- -->
+![](images/psychomotor-domain.png){width=100%, fig-align="center"}
 
-<!-- ### Psychomotor domain -->
+:::footer
+@simpson1985educational
+:::
 
-<!-- ![](images/psychomotor-domain.png){width=100%, fig-align="center"} -->
+::: {.notes}
+**Presenter Notes**:  The learning pyramid in the psychomotor domain according to Simpson’s version of the psychomotor domain has the following seven levels:
 
-<!-- :::footer -->
-<!-- @simpson1985educational -->
-<!-- ::: -->
+- Perception: Use sensory cues to guide actions or movements.
+- Set: Demonstrates a readiness (physically, mentally, emotionally, and spiritually) to take action to perform the task or objective. (NOTE: This level of the Psychomotor domain is closely related to the “Responding to phenomena” level of the Affective domain).
+- Guided response: Knows steps required to complete the task or objective and  learns through trial and error by practicing.
+- Mechanism: Performs task or objective in a somewhat confident, proficient, and habitual manner.
+- Complex overt response: Performs task or objective in a confident, proficient, and habitual manner. Expert level, high proficiency and performs with accuracy.
+- Adaptation: Performs task or objective and can modify actions to account for new or problematic situations.
+- Origination: Create new procedures and solutions to approach various situations.
+:::
 
-
-<!-- ::: {.notes} -->
-<!-- **Presenter Notes**:  The learning pyramid in the psychomotro domain according to Simpson’s version of the psychomotor domain has the following seven levels: -->
-
-<!-- - Perception: Use sensory cues to guide actions or movements. -->
-<!-- - Set: Demonstrates a readiness (physically, mentally, emotionally, and spiritually) to take action to perform the task or objective. (NOTE: This level of the Psychomotor domain is closely related to the “Responding to phenomena” level of the Affective domain). -->
-<!-- - Guided response: Knows steps required to complete the task or objective and  learns through trial and error by practicing. -->
-<!-- - Mechanism: Performs task or objective in a somewhat confident, proficient, and habitual manner. -->
-<!-- - Complex overt response: Performs task or objective in a confident, proficient, and habitual manner. Expert level, high proficiency and performs with accuracy. -->
-<!-- - Adaptation: Performs task or objective and can modify actions to account for new or problematic situations. -->
-<!-- - Origination: Create new procedures and solutions to approach various situations. -->
-<!-- ::: -->
+--
 
 ## Recap: Learning objectives within learning domains
 
 
-| cognitive  | affective      | (psychomotor)          |
+| cognitive  | affective      | psychomotor          |
 |:-------:|:-------:|:-------:|
 |            |                | origination            |
 | create     |                | adaptation             |
@@ -1195,45 +1138,42 @@ There are three learning domains:
 
 - Psychomotor: manual or physical skills
 
-Learning objectives can be assigned to different taxonomy levels. Taxonomies serve to organize learning objectives. The most-used taxonomy is the one for the cognitive learning domain. 
 :::
 
 ---
 
-## Bonus activity: Designing assessment tasks
+## Your turn! Designing assessment tasks
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 0.8em; text-align: center;">
-*You are tasked to design a course module on Open Research practices and would like to include a lesson on open access publishing. <br>
+You are tasked to design a course module on Open Research practices and would like to include a lesson on open access publishing. <br>
 **Design one assessment task** and **define one observable metric** of successfully achieving the learning objective for each **learning domain** below.
 
 - **Cognitive domain**: Learners will be able to compare different open access publishing models, e.g., Gold, Green and Diamond Open Access and critically assess their advantages and limitations.
 
 - **Affective domain**: Learners will critically reflect on the benefits and challenges of open access publishing and demonstrate openness toward differing perspectives on accessibility and publication costs.
 
-<!-- - **Psychomotor domain**: Learners will accurately upload a manuscript to an open access repository and correctly apply metadata and an appropriate license.  -->
+- **Psychomotor domain**: Learners will accurately upload a manuscript to an open access repository and correctly apply metadata and an appropriate license
 
 </div>
 
-<br>
-*Go to Section 1 of the Open Science Workshop workbook and navigate to exercise A5. Work with your partner. Take 10 minutes for this exercise.*
+:::footer
+Work in pairs. Take 10 minutes for this activity.
+:::
 
 ::: {.notes}
-**Presenter Notes**: This is a bonus activity. In pairs, design one assessment task for each learning objective (cognitive, affective, psychomotor). For each assessment, specify:
+**Presenter Notes**: In pairs, design one assessment task for each learning objective (cognitive, affective, psychomotor). For each assessment, specify:
 
 - an appropriate assessment method (e.g., checklist, rubric)
 
 - at least one observable criterion that demonstrates successful achievement of the learning objective.
 
-Take 10 minutes for this task.
+Take 10 minutes for this activity.
 
 *Write your ideas into the workbook* to keep track of your thoughts. 
 
-**Instructor Notes**:  Example answers:
+**Instructor Notes**:  Example answer for cognitive domain:
 
-- Cognitive: Students create a comparison brief analyzing at least two open access models (e.g., gold vs. green open access), including costs, accessibility, and author rights (assessment task). Use of examples and supporting arguments (metric). Scoring rubric with comparison depth, number or argument, quality (assessment tool)
-- Affective:
-- Psychomotor: 
-
+- Cognitive: Learners create a comparison brief analyzing at least two open access models (e.g., gold vs. green open access), including costs, accessibility, and author rights (assessment task). Use of examples and supporting arguments (metric). Scoring rubric with comparison depth, number or argument, quality (assessment tool)
 :::
 
 ---
@@ -1247,13 +1187,11 @@ Take 10 minutes for this task.
 3. Using Bloom's taxonomy, **formulate two learning objectives** and **assessment methods** that match the content and the teaching activities of the tutorial.  Consider the following: Which level of Bloom's taxonomy are you at and which domain are you targeting?
 
 :::footer
-Go to Section 1 of the Open Science Workshop workbook and navigate to exercise A6. Work in pairs, Take 10 minutes for this activity.
+Work in pairs, Take 10 minutes for this activity.
 :::
 
 ::: {.notes}
-**Presenter Notes**: Your task is the following: **Navigate** to the following online tutorial: [https://lmu-osc.github.io/introduction-to-zotero/](https://lmu-osc.github.io/introduction-to-zotero/). Then, **skim over** the different sections using the navigation menu or the arrows at the bottom of the page to get an idea of the content of the tutorial. Finally, using Bloom's taxonomy, **formulate** three learning objectives and assessment methods that match the content and the teaching activities of the tutorial.  Consider the following: Which level of Bloom's taxonomy are you at and which domain are you targeting?
-
-This is individual work, take 10 minutes.
+**Presenter Notes**: Your task is the following: **Navigate** to the following online tutorial: [https://lmu-osc.github.io/introduction-to-zotero/](https://lmu-osc.github.io/introduction-to-zotero/). Then, **skim over** the different sections using the navigation menu or the arrows at the bottom of the page to get an idea of the content of the tutorial. Finally, using Bloom's taxonomy, **formulate** three learning objectives and assessment methods that match the content and the teaching activities of the tutorial.  Consider the following: Which level of Bloom's taxonomy are you at and which domain are you targeting? Take 10 minutes for this activity-
 
 **Instructor Notes**: Possible solutions:
 
@@ -1297,20 +1235,6 @@ Place a particular **emphasis on the verbs** when formulating learning objective
 - Before teaching, we need to know where we are going. This means defining appropriate learning objectives across the relevant domains: cognitive, affective, and psychomotor.
 
 **Instructor Notes**: End lesson on clear take-home message that are interactively compiled by learners.
-:::
-
----
-
-## Survey time!
-
-![](images/QR-code-core-didactic-principles-OSSS26.png){width="80%" fig-align="center" fig-alt="QR code"}
-
-Scan the QR code and select the item **End-Survey** from the list.
-
-::: {.notes}
-**Presenter Notes**: Please scan this QR code. It will take you to a survey with a few questions intended to gauge your current familiarity with important concepts in this session.
-
-Link to survey: [https://partici.fi/30470958](https://partici.fi/30470958)
 :::
 
 ---
@@ -1395,7 +1319,7 @@ At the end of this session, you now...
 - **Remember** basic didactic concepts as the foundation for learning success✅
 - **Explain** and **compare** how knowledge can be organized depending on the level of expertise✅
 - **Evaluate** the alignment between learning objectives, assessment types and teaching activities✅
-- **Formulate** concrete learning objectives according to specific learning domains for real-world content - *time-dependent*
+- **Formulate** concrete learning objectives according to specific learning domains for real-world content
 
 ::: {.notes}
 **Presenter Notes**: Looking back at the learning objectives, this is what we achieved today. Great work! What are your questions?
@@ -1409,6 +1333,43 @@ At the end of this session, you now...
 :::
 
 ---
+
+## Contribution statement
+
+<br>
+
+**Creator**: Von Grebmer zu Wolfsthurn, Sarah (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
+[0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))
+
+**Reviewer**: Middleton, Sara (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
+
+**Reviewer**: Schönbrodt, Felix (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-8282-3910](https://orcid.org/0000-0002-8282-3910))
+
+**Consultant**: Ihle, Malika (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981))
+
+---
+
+## License and citation statement
+
+<br>
+
+<p style="text-align:center;">
+  <img src="images/cc-by-sa.png" 
+  alt="Creative Commons Attribution 4.0 SA"
+  style="width:160px;" />
+</p>
+
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
+This current work by Sarah von Grebmer zu Wolfsthurn, Sara Lil Middleton, Malika Ihle and Felix Schönbrodt is licensed under a [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en) (CC-BY-SA 4.0). 
+
+Please cite as: Von Grebmer zu Wolfsthurn, S., Middleton, S., Ihle, M., & Schönbrodt, F. (2026). *Teaching open research: Core didactic principles* [Quarto slides]. LMU Open Science Center. [https://lmu-osc.github.io/train-the-trainer-open-research/teaching-open-research/core-didactic-principles/](https://lmu-osc.github.io/train-the-trainer-open-research/teaching-open-research/core-didactic-principles/)
+</div>
+
+::: {.notes}
+**Presenter Notes**: The [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en), or CC BY-SA 4.0, allows others to copy, share, and adapt a work in any medium, including for commercial purposes. These permissions are broad and cannot be withdrawn as long as the license terms are followed. The main requirement is attribution: users must give appropriate credit to the original creator, provide a link to the license, and clearly indicate whether any changes were made, without implying endorsement by the original author. In addition, the ShareAlike condition means that if someone modifies or builds upon the work, the resulting material must be distributed under the same CC BY-SA 4.0 license, or a compatible one. Finally, users are not allowed to apply legal or technical restrictions, such as DRM, that would prevent others from exercising these same rights.
+
+Code snippets are dedicated to the public domain and licensed under a CC0 1.0 [Creative Commons Universal License](https://creativecommons.org/publicdomain/zero/1.0/). You may use, modify, distribute, and sell the code snippets for any purpose, without permission or attribution. The code snippets are provided “as is”, without warranty of any kind.
+:::
 
 <!-- # Additional content slides -->
 
@@ -1456,8 +1417,3 @@ At the end of this session, you now...
 <!-- ::: -->
 
 <!-- --- -->
-
-<!-- ## TO DO POST SUMMER SCHOOL -->
-
-<!-- - [ ] Uncomment all exercises -->
-<!-- - [ ] Uncomment prerequisites and previous questions -->
