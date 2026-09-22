@@ -1,5 +1,5 @@
 ---
-title: "Creating a positive learning environment"
+title: "Creating a positive learning environment for Open Research teaching events"
 author: "Sarah von Grebmer zu Wolfsthurn"
 date: "today"
 date-format: "DD/MM/YYYY"
@@ -25,83 +25,47 @@ execute:
   engine: knitr
 ---
 
-## Licence
-
-<br>
-
-<p style="text-align:center;">
-  <img src="images/cc-by-sa.png" 
-  alt="Creative Commons Attribution 4.0 SA"
-  style="width:160px;" />
-</p>
-
-<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
-This current work by Sarah von Grebmer zu Wolfsthurn, Sara Lil Middleton and Malika Ihle is licensed under a CC-BY-SA 4.0 [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-</div>
-
-::: {.notes}
-**Presenter Notes**: The Creative Commons Attribution–ShareAlike 4.0 license, or CC BY-SA 4.0, allows others to copy, share, and adapt a work in any medium, including for commercial purposes. These permissions are broad and cannot be withdrawn as long as the license terms are followed. The main requirement is attribution: users must give appropriate credit to the original creator, provide a link to the license, and clearly indicate whether any changes were made, without implying endorsement by the original author. In addition, the ShareAlike condition means that if someone modifies or builds upon the work, the resulting material must be distributed under the same CC BY-SA 4.0 license, or a compatible one. Finally, users are not allowed to apply legal or technical restrictions, such as DRM, that would prevent others from exercising these same rights.
-:::
-
----
-
-## Contribution statement
-
-<br>
-
-**Creator**: Von Grebmer zu Wolfsthurn, Sarah (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
-[0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))
-
-**Reviewer**: Middleton, Sara (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
-
-**Consultant**: Ihle, Malika (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981))
-
-
-::: {.notes}
-**Presenter Notes**: These are the **presenter notes**. You will a script for the presenter for every slide. In presentation mode, your audience will not be able to see these presenter notes, they are only visible to the presenter. 
-
-**Instructor Notes**: There are also **instructor notes**. For some slides, there will be pedagogical tips, suggestions for activites and troubleshooting tips for issues your audience might run into. You can find these notes underneath the presenter notes.
-
-**Accessibility Tips**: Where applicable, this is a space to add any tips you may have to facilitate the accessibility of your slides and activities. 
-:::
-
-<!-- ## Prerequisites
+## Prerequisites
 
 ::: {.callout-important}
 Before completing this submodule, please carefully read about the prerequisites.
 :::
 
 <div style="font-size: 0.8em;">
-| Prerequisite   |  Description  | Link/Where to find it   |
-|------------|------------|------------|
-| Basic familiarity with Open Science concepts and practices | Examples: Replication crisis, open access, R, version control, preregistration, etc.| [OSC Website](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
-| Core didactic principles | A firm grasp on didactic tools | [OSC Website](https://lmu-osc.github.io/train-the-trainer-student-track-pedagogy/teaching-open-research/core-didactic-principles/) |
-| Concept planning | Familiarity with techniques to plan and structure an Open Research event | [OSC Website](https://lmu-osc.github.io/train-the-trainer-student-track-pedagogy/teaching-open-research/core-didactic-principles/) |
+| Familiarity with Open Science concepts and practices | Examples: Replication crisis, open access, R, version control, preregistration, etc.| [Click here to get familiar with Open Research first](https://lmu-osc.github.io/training/self-learning.html) |
+| Didactic principles | A firm grasp on didactic tools for teaching | [Click here to get familiar with didactic principles](https://lmu-osc.github.io/train-the-trainer-open-research/teaching-open-research/core-didactic-principles/) |
+| Concept planning | Familiarity with techniques to plan, design and structure an Open Research event | [Click here to get familiar with planning and Open Reserch event principles](https://lmu-osc.github.io/train-the-trainer-open-research/teaching-open-research/concept-planning/) |
 </div>
 
 ::: {.notes}
-**Presenter Notes**: For this session, it is important that you have previously thought about didactics and incorporating pedagogical elements in your teaching. You should be familiar with the basics of what learning means, the framework of constructivism, constructive alignment and how to set and formulate learning objectives. You should also be familiar with evidence-based methods to plan and structure your open research event. If you are not yet familiar with these concepts, please see the previous session on "Core didactic principles" and "Concept planning" when teaching about Open Research or Open Science.  
+**Presenter Notes**: These are the **presenter notes**. You will a script for the presenter for every slide. In presentation mode, your audience will not be able to see these presenter notes, they are only visible to the presenter. 
 
-**Instructor Notes**: These are the prerequisites for this session. Before you get started on this session with your audience, you need to ensure that the audience fulfills these criteria.
+For **this session**, it is important that you have previously thought about didactics and incorporating pedagogical elements in your teaching. You should be familiar with the basics of what learning means, the framework of constructivism, constructive alignment and how to set and formulate learning objectives. You should also be familiar with evidence-based methods to plan and structure your open research event. If you are not yet familiar with these concepts, please see the previous session on "Core didactic principles" and "Concept planning" when teaching about Open Research or Open Science.
+
+**Instructor Notes**: There are also **instructor notes**. For some slides, there will be pedagogical tips, suggestions for activites and troubleshooting tips for issues your audience might run into. You can find these notes underneath the presenter notes.
+
+These are the prerequisites for this session. Before you get started on this session with your audience, you need to ensure that the audience fulfills these criteria.
+
+**Accessibility Tips**: Where applicable, this is a space to add any tips you may have to facilitate the accessibility of your slides and activities. 
 :::
 
--->
+---
 
-<!-- --- -->
+## Questions from the previous session
 
-<!-- ## Questions from the previous session -->
+<br>
+<br>
 
-<!-- <br> -->
-<!-- <br> -->
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1em;">
+What are your questions from the previous session?
+</div>
 
-<!-- <div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1em;"> -->
-<!-- What are your questions from the previous session? -->
-<!-- </div> -->
+::: {.notes}
+**Presenter Notes**: What were your questions from the previous session?
+**Instructor Notes**: Instead of asking "Do you have any questions", work under the assumption that there are questions to show your learners that it is normal to ask questions and to still be unsure about specific elements of previous sessions. Instead, ask "What are your questions".
+:::
 
-<!-- ::: {.notes} -->
-<!-- **Presenter Notes**: What were your questions from the previous session?  -->
-<!-- **Instructor Notes**: Instead of asking "Do you have any questions", work under the assumption that there are questions to show your learners that it is normal to ask questions and to still be unsure about specific elements of previous sessions. Instead, ask "What are your questions".  -->
-<!-- ::: -->
+---
 
 ## Key terms and definitions
 
@@ -183,20 +147,6 @@ By the end of the session, you will be able to identify key elements that contri
 
 ## Before we start: Survey time!
 
-![](images/QR-code-positive-learning-environment-OSSS26.png){width="80%" fig-align="center" fig-alt="QR code"}
-
-Scan the QR code and select the item **Intro-Survey** from the list.
-
-::: {.notes}
-**Presenter Notes**: Please scan this QR code. It will take you to a survey with a few questions intended to gauge your current familiarity with important concepts in this session.
-
-Link to survey: [https://partici.fi/47416756](https://partici.fi/47416756)
-:::
-
----
-
-## Before we start: Survey time!
-
 ::: {.panel-tabset}
 
 ### Question 1
@@ -261,6 +211,14 @@ What do we see in the results?
 
 **Accessibility Tip**: Have people work in pairs if someone did not bring their phone/does not have a phone. This survey also cannot be completed in an asynchronous setting. 
 :::
+
+---
+
+
+# Continue from here
+
+
+---
 
 <!-- ## The "learning environment" -->
 
@@ -1147,3 +1105,41 @@ und digitales Lernen. Springer VS.
 
 <!-- - [ ] Uncomment all exercises -->
 <!-- - [ ] Uncomment prerequisites and previous questions -->
+
+
+## Contribution statement
+
+<br>
+
+**Creator**: Von Grebmer zu Wolfsthurn, Sarah (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
+[0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))
+
+**Reviewer**: Middleton, Sara (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
+
+**Reviewer**: Schönbrodt, Felix (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-8282-3910](https://orcid.org/0000-0002-8282-3910))
+
+**Consultant**: Ihle, Malika (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981))
+
+---
+
+## Licence
+
+<br>
+
+<p style="text-align:center;">
+  <img src="images/cc-by-sa.png" 
+  alt="Creative Commons Attribution 4.0 SA"
+  style="width:160px;" />
+</p>
+
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
+This current work by Sarah von Grebmer zu Wolfsthurn, Sara Lil Middleton, Malika Ihle and Felix Schönbrodt is licensed under a [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en) (CC-BY-SA 4.0). 
+
+Please cite as: Von Grebmer zu Wolfsthurn, S., Middleton, S., Ihle, M., & Schönbrodt, F. (2026). *Creating a positive learning environment for Open Research teaching events* [Quarto slides]. LMU Open Science Center. [https://lmu-osc.github.io/train-the-trainer-open-research/teaching-open-research/creating-learning-environment/](https://lmu-osc.github.io/train-the-trainer-open-research/teaching-open-research/creating-learning-environment/)
+</div>
+
+::: {.notes}
+**Presenter Notes**: The [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en), or CC BY-SA 4.0, allows others to copy, share, and adapt a work in any medium, including for commercial purposes. These permissions are broad and cannot be withdrawn as long as the license terms are followed. The main requirement is attribution: users must give appropriate credit to the original creator, provide a link to the license, and clearly indicate whether any changes were made, without implying endorsement by the original author. In addition, the ShareAlike condition means that if someone modifies or builds upon the work, the resulting material must be distributed under the same CC BY-SA 4.0 license, or a compatible one. Finally, users are not allowed to apply legal or technical restrictions, such as DRM, that would prevent others from exercising these same rights.
+
+Code snippets are dedicated to the public domain and licensed under a CC0 1.0 [Creative Commons Universal License](https://creativecommons.org/publicdomain/zero/1.0/). You may use, modify, distribute, and sell the code snippets for any purpose, without permission or attribution. The code snippets are provided “as is”, without warranty of any kind.
+:::
