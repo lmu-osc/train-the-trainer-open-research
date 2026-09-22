@@ -2,7 +2,7 @@
 title: "Challenges in leadership"
 ---
 
-> Work in progress.
+> *Please note, this page is work in progress.*
 
 <!-- [Click here to see the materials in full screen](core-didactic-principles-slides.qmd) -->
 
@@ -14,53 +14,61 @@ title: "Challenges in leadership"
 
 ## About these materials
 
-**Welcome!** This page is work in progress. 
+**Welcome!**
+
+These materials are intended to provide emerging Open Science leaders with the awareness of the variety of challenges in adopting Open Science practices. Open science as a movement is growing. Awareness of open science principles and practices is uneven across teams, disciplines and institutions which can bring about challenges for leaders. These materials cover some of the reasons behind challenges and provide practical support for leaders to recognize where their sphere of influence lies through a challenge mapping exercise.
 
 ### Who are these materials for?
 
+The target audience for these materials are twofold:
+
+- **Aspiring Open Research Instructors** or **self-learners** with familiarity about key Open Research issues and challenges (e.g., reproducibility and replicability), Open Research tools (e.g., computational reproducibility, preregistration, study planning), basic didactic and lesson conceptualization skills who are interested in building didactic skills to effectively teach Open Research through a combination of theoretical input and practical exercises to become **Open Research Instructors**. You can follow these materials by chronologically going through the slides and following along with the practical exercises. You go at your own pace and within your own timeframe. *Presenter notes* will help you to understand and reflect on the content of the materials. Note: Group exercises are *not* possible in this asynchronous setting.
+
+- **Future or current Open Research instructors** in higher education (e.g., universities, colleges) who are interested or already engaging in bringing Open Research topics closer to your learners and want to sharpen their own didactic skills for effective teaching; or instructors aiming to *train others* in delivering high-quality Open Research Education. The slides can be directly presented in full screen below, with presenter and instructor notes providing detailed information about the content of the materials and valuable pedagogical tips how to convey the materials to your learners. You can also download the PowerPoint or pdf file corresponding to the materials below and adapt the materials to your learners. Make sure to give appropriate credit to the original authors.
 
 ### Prerequisites
 
-<div style="font-size: 0.8em;">
-| Prerequisite   |  Description  | Where to find this  |
-|------------|------------|------------|
-| Basic familiarity with Open Science practices | Examples: R, Quarto, Git, GitHub, preregistration, Open Access etc.| [Click here to get familiar with Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
-</div>
-
+::: {style="font-size: 0.8em;"}
+| Prerequisite | Description | Where to find this |
+|------------------------|------------------------|------------------------|
+| Basic familiarity with Open Science practices | Examples: R, Quarto, Git, GitHub, preregistration, Open Access etc. | [Click here to get familiar with Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
+| Foundational understanding of leadership roles and key skills | Leadership in Open Science: Skills, values and culture | [Click here to get familiar with leadership in Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-pedagogy/leadership-open-research/leadership-skills-culture/) |
+:::
 
 ### Learning objectives
 
+- To **identify** challenges in adopting Open Science practices and **examine** reasons behind them to raise awareness of possible barriers you and others may encounter.
+
+- To **distinguish** between challenges according to whether they occur at individual, interpersonal, institutional or systemic levels to practice a key problem-solving leadership skill.
 
 ### Export slides
 
 You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. Note that basic formatting will be applied for the PowerPoint (*in progress*).
 
 <!-- download as pdf -->
+
 <a href="20260915_LeadershipOpenScience-Challenges-Strategies-SaraMiddleton.pdf"
    download="leadership-values.pdf"
-   class="btn btn-primary">
-  Download slides as PDF
-</a>
+   class="btn btn-primary"> Download slides as PDF </a>
 
- <!-- https://quarto.org/docs/presentations/powerpoint.html#powerpoint-templates -->
- 
+<!-- https://quarto.org/docs/presentations/powerpoint.html#powerpoint-templates -->
+
 ## Contributors and licence details
 
-**Creator**: Middleton, Sara (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
+**Creator**: Middleton, Sara Lil (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
 
-**Reviewer**: Von Grebmer zu Wolfsthurn, Sarah (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
-[0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))
+**Reviewer**: Verheyen, Steven (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-6778-6744](https://orcid.org/0000-0002-6778-6744)), Von Grebmer zu Wolfsthurn, Sarah (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))
 
-**Consultant**: Ihle, Malika (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981))
+**Acknowledgements**: Richard Dushime Mudahera, Brian Nosek
 
 <br>
 
 <p style="text-align:center;">
-  <img src="images/cc-by-sa.png" 
-  alt="Creative Commons Attribution ShareAlike 4.0"
-  style="width:160px;" />
+
+<img src="images/cc-by-sa.png" alt="Creative Commons Attribution ShareAlike 4.0" style="width:160px;"/>
+
 </p>
 
-<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
-This current work by Sara Lil Middleton, Sarah von Grebmer zu Wolfsthurn and Malika Ihle is licensed under a CC-BY-SA 4.0 [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-</div>
+::: {style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;"}
+This current work by Sara Lil Middleton, Steven Verheyen and Sarah von Grebmer zu Wolfsthurn is licensed under a CC-BY-SA 4.0 [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+:::
