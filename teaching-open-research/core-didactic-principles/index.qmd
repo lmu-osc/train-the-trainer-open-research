@@ -37,7 +37,7 @@ with familiarity about open research challenges, issues and tools.
 
 ### Learning objectives
 
-At the end of this session, you will ...
+At the end of this session, you will be able to ...
 
 - **Remember** basic didactic concepts as the foundation for learning success
 - **Explain** and **compare** how knowledge can be organized depending on the level of expertise
