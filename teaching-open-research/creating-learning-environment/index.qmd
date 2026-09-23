@@ -47,7 +47,7 @@ At the end of this session, you will be able to ...
 
 ### Export slides
 
-You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. Note that basic formatting will be applied for the PowerPoint (*in progress*).
+You can export these slides as MS PowerPoint (.pptx - *in progress*) or pdf by clicking below. Note that basic formatting will be applied to the PowerPoint file.
 
 <!-- download as pdf -->
 <a href="creating-learning-environment-slides.pdf"

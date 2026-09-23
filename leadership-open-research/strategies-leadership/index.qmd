@@ -2,7 +2,7 @@
 title: "Strategies in leadership"
 ---
 
-> *This page is work in progress*
+> *Please note, this page is work in progress.*
 
 <!-- [Click here to see the materials in full screen](core-didactic-principles-slides.qmd) -->
 
@@ -14,11 +14,14 @@ title: "Strategies in leadership"
 
 ## About these materials
 
-**Welcome!**
+::: {.callout-warning collapse="true"}
+## Citation statement
+Please cite these materials as: Middleton, S., Verheyen, S., & Von Grebmer Zu Wolfsthurn, S., (2026). *Strategies in leadership* [Quarto slides]. LMU Open Science Center. [https://lmu-osc.github.io/train-the-trainer-open-research/leadership-open-research/strategies-leadership/](https://lmu-osc.github.io/train-the-trainer-open-research/leadership-open-research/strategies-leadership/)
+:::
 
-These materials focus on how to take action and address challenges within Open Science. Awareness of our own spheres of influence is an important step towards positive change. These materials, put into practice the skills learned about effective leadership using case studies that featuring challenges such as doing a preregistration and navigating large-scale collaborations. Equipped with a diverse set of strategies, Open Science leaders can then more confidently apply them to own research and teaching contexts.
+**Welcome!** These materials focus on **how to take action and address challenges** within Open Research. Awareness of our own spheres of influence is an important step towards positive change. These materials put into practice the **skills learned about effective leadership** using **case studies** that featuring challenges such as doing a preregistration and navigating large-scale collaborations. Equipped with a diverse set of strategies, Open Research leaders can then more confidently apply them to own research and teaching contexts.
 
-The case study series on leadership in Open Science is co-developed by the LMU Open Science Center and the Framework for Open and Reproducible Research Training ([FORRT](https://forrt.org/)).
+The case study series on leadership in Open Research is co-developed by the LMU Open Science Center and the Framework for Open and Reproducible Research Training ([FORRT](https://forrt.org/)).
 
 *Case studies:*
 
@@ -34,34 +37,37 @@ The case study series on leadership in Open Science is co-developed by the LMU O
 
 ### Who are these materials for?
 
-The target audience for these materials are twofold:
+- **Aspiring open research instructors**
+- **Future open research train-the-trainers** and **educators** in higher education (e.g., universities, colleges) and
+- **Self-learners** 
 
-- **Aspiring Open Research Instructors** or **self-learners** with familiarity about key Open Research issues and challenges (e.g., reproducibility and replicability), Open Research tools (e.g., computational reproducibility, preregistration, study planning), basic didactic and lesson conceptualization skills who are interested in building didactic skills to effectively teach Open Research through a combination of theoretical input and practical exercises to become **Open Research Instructors**. You can follow these materials by chronologically going through the slides and following along with the practical exercises. You go at your own pace and within your own timeframe. *Presenter notes* will help you to understand and reflect on the content of the materials. Note: Group exercises are *not* possible in this asynchronous setting.
-
-- **Future or current Open Research instructors** in higher education (e.g., universities, colleges) who are interested or already engaging in bringing Open Research topics closer to your learners and want to sharpen their own didactic skills for effective teaching; or instructors aiming to *train others* in delivering high-quality Open Research Education. The slides can be directly presented in full screen below, with presenter and instructor notes providing detailed information about the content of the materials and valuable pedagogical tips how to convey the materials to your learners. You can also download the PowerPoint or pdf file corresponding to the materials below and adapt the materials to your learners. Make sure to give appropriate credit to the original authors.
+with familiarity about open research challenges, issues and tools, as well as a strong familiarity with leadership roles and skills and CRediT roles.
 
 ### Prerequisites
 
-::: {style="font-size: 0.8em;"}
+<div style="font-size: 0.8em;">
 | Prerequisite | Description | Where to find this |
 |------------------------|------------------------|------------------------|
-| Basic familiarity with Open Science practices | Examples: R, preregistration, Open Access etc. | [Click here to get familiar with Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
+| Basic familiarity with Open Science practices | Examples: R, Quarto, Git, GitHub, preregistration, Open Access etc. | [Click here to get familiar with Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
+| Foundational understanding of leadership roles and key skills | Leadership in Open Science: Skills, values and culture | [Click here to get familiar with leadership in Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-pedagogy/leadership-open-research/leadership-skills-culture/) |
 | Knowledge of CRediT roles | CRediT - Contributor Roles Taxonomy | [Click here to get familiar with CRediT roles first](https://credit.niso.org/)) |
-:::
+</div>
 
 ### Learning objectives
+
+At the end of this session, you will be able to ...
 
 - **Examine** approaches to addressing challenges in Open Science from multiple perspectives to increase breadth of knowledge.
 - **Discuss** and **propose** actionable and equitable strategies to address challenges in Open Science as a way to relate to own leadership contexts and build up collective problem-solving skills.
 
 ### Export slides
 
-You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. Note that basic formatting will be applied for the PowerPoint (*in progress*).
+You can export these slides as MS PowerPoint (.pptx - *in progress*) or pdf by clicking below. Note that basic formatting will be applied to the PowerPoint file.
 
 <!-- download as pdf -->
 
 <a href="20260915_LeadershipOpenScience-Challenges-Strategies-SaraMiddleton.pdf"
-   download="leadership-values.pdf"
+   download="strategies-leadership.pdf"
    class="btn btn-primary"> Download slides as PDF </a>
 
 <!-- https://quarto.org/docs/presentations/powerpoint.html#powerpoint-templates -->
@@ -79,11 +85,11 @@ You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. N
 <br>
 
 <p style="text-align:center;">
-
-<img src="images/cc-by-sa.png" alt="Creative Commons Attribution ShareAlike 4.0" style="width:160px;"/>
-
+  <img src="images/cc-by-sa.png" 
+  alt="Creative Commons Attribution ShareAlike 4.0"
+  style="width:160px;" />
 </p>
 
-::: {style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;"}
-This current work by Sara Lil Middleton, Steven Verheyen and Sarah von Grebmer zu Wolfsthurn is licensed under a CC-BY-SA 4.0 [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-:::
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
+This current work by Sara Lil Middleton, Steven Verheyen and Sarah von Grebmer zu Wolfsthurn is licensed under a [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en) (CC-BY-SA 4.0). 
+</div>
