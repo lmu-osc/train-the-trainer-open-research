@@ -2430,7 +2430,7 @@ This Citation Politics module relates to the following module: <br> <br>
 **Zotero**
 
 -   Introductory slide decks (aimed at novices):
-    <https://lmu-osc.github.io/train-the-trainer-student-track-OS/materials/OS-M3/OS-M3-S1-Zotero/OS-M3-S1-Zotero.html>
+    <https://lmu-osc.github.io/teaching-material-for-novices/materials/OS-M3/OS-M3-S1-Zotero/OS-M3-S1-Zotero.html>
 
 -   Self-paced tutorial:
     <https://lmu-osc.github.io/introduction-to-zotero/>

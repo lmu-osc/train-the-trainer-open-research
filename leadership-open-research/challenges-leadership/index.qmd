@@ -34,8 +34,8 @@ with familiarity about open research challenges, issues and tools, as well as a 
 <div style="font-size: 0.8em;">
 | Prerequisite | Description | Where to find this |
 |------------------------|------------------------|------------------------|
-| Basic familiarity with Open Science practices | Examples: R, Quarto, Git, GitHub, preregistration, Open Access etc. | [Click here to get familiar with Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
-| Foundational understanding of leadership roles and key skills | Leadership in Open Science: Skills, values and culture | [Click here to get familiar with leadership in Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-pedagogy/leadership-open-research/leadership-skills-culture/) |
+| Basic familiarity with Open Science practices | Examples: R, Quarto, Git, GitHub, preregistration, Open Access etc. | [Click here to get familiar with Open Science first](https://lmu-osc.github.io/teaching-material-for-novices/) |
+| Foundational understanding of leadership roles and key skills | Leadership in Open Science: Skills, values and culture | [Click here to get familiar with leadership in Open Science first](https://lmu-osc.github.io/train-the-trainer-open-research/leadership-open-research/leadership-skills-culture/) |
 </div>
 
 ### Learning objectives

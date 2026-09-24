@@ -37,7 +37,7 @@ with familiarity about open research challenges, issues and tools.
 <div style="font-size: 0.8em;">
 | Prerequisite | Description | Where to find this |
 |------------------------|------------------------|------------------------|
-| Basic familiarity with Open Science practices | Examples: R, Quarto, Git, GitHub, preregistration, Open Access etc. | [Click here to get familiar with Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
+| Basic familiarity with Open Science practices | Examples: R, Quarto, Git, GitHub, preregistration, Open Access etc. | [Click here to get familiar with Open Science first](https://lmu-osc.github.io/teaching-material-for-novices/) |
 </div>
 
 ### Learning objectives
