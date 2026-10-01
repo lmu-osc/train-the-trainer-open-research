@@ -20,9 +20,9 @@ website:
       - icon: github
         menu:
           - text: Source Code
-            href: https://github.com/lmu-osc/train-the-trainer-student-track-pedagogy
+            href: https://github.com/lmu-osc/train-the-trainer-open-research
           - text: Report a Bug
-            href: https://github.com/lmu-osc/train-the-trainer-student-track-pedagogy/issues
+            href: https://github.com/lmu-osc/train-the-trainer-open-research/issues
       - icon: house-heart
         url: https://www.osc.lmu.de/
 
