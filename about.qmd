@@ -3,7 +3,7 @@ title: "About"
 date: 2026-08-28
 citation:
   type: "webpage"
-  title: "Teaching and leading in Open Science"
+  title: "Teaching and leading in Open Research"
   container-title: "LMU Open Science Center"
   url: https://lmu-osc.github.io/train-the-trainer-open-research/
   version: 0.0.1

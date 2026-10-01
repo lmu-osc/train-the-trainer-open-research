@@ -4,16 +4,12 @@ title: "Help and troubleshooting"
 
 ## I am stuck - what do I do?
 
-If you get stuck, remember to read the pre-requisites section for each module and submodule. This may give you an important hint of content that may be critical to the current submodule. If you are encountering a bug, please report this to XXXX. 
-
+If you get stuck, remember to read the pre-requisites section for each module and submodule. This may give you an important hint of content that may be critical to the current submodule. If you are encountering a bug, please [open an issue on GitHub]({{< meta repo-url >}}/issues) describing which materials you were using and what went wrong.
 
 ## FAQ
 
-### FAQ 1
-
-### FAQ 2
+See the [Frequently asked questions](index.qmd#frequently-asked-questions) on the overview page for answers about prerequisites, prior open research familiarity, and using the materials outside LMU Munich.
 
 ## Contact
-For any other questions, ideas, feedback or suggestions, please contact XXX.
 
-
+For any other questions, ideas, feedback or suggestions, please contact the program coordinator, [Sarah von Grebmer](mailto:s.grebmer@lmu.de) (LMU Open Science Center).

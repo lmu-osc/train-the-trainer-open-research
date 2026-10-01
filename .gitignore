@@ -53,6 +53,9 @@ rsconnect/
 _site/
 _freeze/
 
+# Quarto-generated support folders (e.g. index_files/, *-slides_files/)
+**_files/
+
 # .DS_Store
 **/.DS_Store
 
