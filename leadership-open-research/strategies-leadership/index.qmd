@@ -37,9 +37,8 @@ The case study series on leadership in Open Research is co-developed by the LMU 
 
 ### Who are these materials for?
 
-- **Aspiring open research instructors**
-- **Future open research train-the-trainers** and **educators** in higher education (e.g., universities, colleges) and
-- **Self-learners** 
+- **Future open research train-the-trainers** teaching *other* open research instructors or educators in higher education (e.g., universities, colleges) and
+- **Aspiring open research instructors** and **self-learners** 
 
 with familiarity about open research challenges, issues and tools, as well as a strong familiarity with leadership roles and skills and CRediT roles.
 

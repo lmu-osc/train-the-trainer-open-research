@@ -18,9 +18,8 @@ Through real-life examples and hands-on exercises, we will explore how instructo
 
 ### Who are these materials for? - EDIT
 
-The target audience of this workshop is twofold
-
-- **Aspiring Open Research Instructors** or **self-learners** with familiarity about key Open Research issues and challenges (e.g., reproducibility and replicability), Open Research tools (e.g., computational reproducibility, preregistration, study planning), basic didactic and lesson conceptualization skills who are interested in building didactic skills to effectively teach Open Research through a combination of theoretical input and practical exercises to become **Open Research Instructors**. You can follow these materials by chronologically going through the slides and following along with the practical exercises. You go at your own pace and within your own timeframe. *Presenter notes* will help you to understand and reflect on the content of the materials. Note: Group exercises are *not* possible in this asynchronous setting. 
+- **Future open research train-the-trainers** teaching *other* open research instructors or educators in higher education (e.g., universities, colleges) and
+- **Aspiring open research instructors** and **self-learners**  
 
 - **Future or current Open Research instructors** in higher education (e.g., universities, colleges) who are interested or already engaging in bringing Open Research topics closer to your learners and want to sharpen their own didactic skills for effective teaching; or instructors aiming to *train others* in delivering high-quality Open Research Education. The slides can be directly presented in full screen below, with presenter and instructor notes providing detailed information about the content of the materials and valuable pedagogical tips how to convey the materials to your learners. You can also download the PowerPoint or pdf file corresponding to the materials below and adapt the materials to your learners. Make sure to give appropriate credit to the original authors. 
 

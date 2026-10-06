@@ -20,9 +20,8 @@ Please cite these materials as: Von Grebmer zu Wolfsthurn, S., Middleton, S., Ih
 **Welcome!** This workshop is intended to  **provide future open research instructors and train-the-trainers** with practical skills for **creating positive and inclusive learning environments** when teaching open research. Through real-life examples and hands-on exercises, we will explore how instructors’ **behaviors**, **attitudes**, **communication**, and **interaction with learners** can influence motivation, engagement, and learning success. We will then discover strategies for **fostering a growth mindset**, **active listening**, using **inclusive language**, and taking different **perspectives** of your learners into account.
 
 ### Who are these materials for?
-- **Aspiring open research instructors**
-- **Future open research train-the-trainers** and **educators** in higher education (e.g., universities, colleges) and
-- **Self-learners** 
+- **Future open research train-the-trainers** teaching *other* open research instructors or educators in higher education (e.g., universities, colleges) and
+- **Aspiring open research instructors** and **self-learners** 
 
 with familiarity about open research challenges, issues and tools, basic didactic skills and a firm grasp on conceptualizing and designing open research teaching events.
 
