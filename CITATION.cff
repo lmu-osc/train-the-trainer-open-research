@@ -9,8 +9,8 @@ authors:
     given-names: "Sara"
     orcid: "https://orcid.org/0000-0001-5307-8029"
     affiliation: "LMU Open Science Center, Ludwig-Maximilians-Universität München"
-title: "Pedagogical tools for teaching open research"
+title: "Teaching and leading in Open Research"
 version: 0.0.1
 date-released: 2026-08-28
-repository-code: "https://github.com/lmu-osc/train-the-trainer-student-track-pedagogy"
+repository-code: "https://github.com/lmu-osc/train-the-trainer-open-research"
 url: "https://lmu-osc.github.io/train-the-trainer-open-research/"
