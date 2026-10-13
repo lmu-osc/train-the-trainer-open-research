@@ -43,6 +43,9 @@ website:
           - href: leadership-open-research/challenges-leadership/index.qmd
           - href: leadership-open-research/strategies-leadership/index.qmd
           - href: leadership-open-research/citation-politics/index.qmd
+      - section: "Template folder for material creators"
+        contents:
+          - href: template-folder/example-topic/index.qmd
 
 format:
   tutorial-template-html+tutorial:
