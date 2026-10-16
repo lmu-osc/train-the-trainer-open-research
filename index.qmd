@@ -117,7 +117,9 @@ Note that code embedded in these materials is licenced under a **CC0 [Creative C
 
 - Felix Schönbrodt (![](assets//logos/orcid-icon.png){fig-alt="orcid icon"} [0000-0002-8282-3910](https://orcid.org/0000-0002-8282-3910)), LMU Open Science Center and Ludwig-Maximilians-Universität München, Faculty of Psychology and Pedagogy
 
-- Sophie Renard [LMU Profl](https://www.lmu.de/profil/de/profil-ueber-uns/personen-und-beratungsfachgebiete/kontaktseite/sophie-renard-3cedfec5.html)
+- Sophie Renard [LMU Profil](https://www.lmu.de/profil/de/profil-ueber-uns/personen-und-beratungsfachgebiete/kontaktseite/sophie-renard-3cedfec5.html)
+
+- Flavio Azevedo (![](assets//logos/orcid-icon.png){fig-alt="orcid icon"} [0000-0001-9000-8513](https://orcid.org/0000-0001-9000-8513)), [FORRT](https://forrt.org/) director
 
 
 ## Funding and partners
