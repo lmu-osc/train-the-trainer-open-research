@@ -43,6 +43,9 @@ website:
           - href: leadership-open-research/challenges-leadership/index.qmd
           - href: leadership-open-research/strategies-leadership/index.qmd
           - href: leadership-open-research/citation-politics/index.qmd
+      - section: "Planning and delivering your own open research teaching event!"
+        contents:
+          - href: workshop-design-workbook/index.qmd
       - section: "Template folder for material creators"
         contents:
           - href: template-folder/example-topic/index.qmd

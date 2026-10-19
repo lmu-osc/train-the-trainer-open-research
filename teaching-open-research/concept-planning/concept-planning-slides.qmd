@@ -129,7 +129,7 @@ Finally, we will go over some tips on how to make your Open Research even more s
 At the end of this session, you will be able to:
 
 - **Consider** practical and logistical challenges of organizing an Open Research event
-- **Structure** an Open Research event according to the five phases of the ARIPE+ scheme [@stadeli2013aviva] to facilitate the learning process
+- **Structure** an Open Research event according to the five phases of the ARIPE+ scheme [@stadeliAVIVAmodell2013] to facilitate the learning process
 - **Apply** techniques to **enhance** motivation in your learners
 - **Understand** key elements of constructive feedback
 
@@ -347,7 +347,7 @@ Finally, check your own working conditions: how much time do you have? What is e
 ![](images/05_ARIPE_scheme.png){fig-align="center" fig-alt="figure visualizing the five stages of the ARIPE+ scheme by Städeli et al. (2013), arrive and adjust, reactivate, inform, process and evaluate"}
 
 :::footer
-The "**+**" generally stands for elements connected to the **learning environment**, e.g., creating a supportive, accessible and safe environment, inclusivity, (body) language, see @stadeli2013aviva.
+The "**+**" generally stands for elements connected to the **learning environment**, e.g., creating a supportive, accessible and safe environment, inclusivity, (body) language, see @stadeliAVIVAmodell2013.
 :::
 
 ::: {.notes}
@@ -866,7 +866,7 @@ Work in pairs. Take 5 minutes for this exercise.
 ![](images/05_ARIPE_scheme.png){fig-align="center" fig-alt="figure visualizing the five stages of the ARIPE+ scheme by Städeli et al. (2013), arrive and adjust, reactivate, inform, process and evaluate"}
 
 :::footer
-@stadeli2013aviva
+@stadeliAVIVAmodell2013
 :::
 
 ::: {.notes}
@@ -983,7 +983,7 @@ Image generated with AI and adapted from [Felix Schönbrodt](https://nicebread.g
 ![](images/05_ARIPE_scheme.png){fig-align="center" fig-alt="figure visualizing the five stages of the ARIPE+ scheme by Städeli et al. (2013), arrive and adjust, reactivate, inform, process and evaluate"}
 
 :::footer
-@stadeli2013aviva
+@stadeliAVIVAmodell2013
 :::
 
 ::: {.notes}
@@ -1060,7 +1060,7 @@ Designing slides is a process. While it is beyond the scope of this session to g
 ![](images/05_ARIPE_scheme.png){fig-align="center" fig-alt="figure visualizing the five stages of the ARIPE+ scheme by Städeli et al. (2013), arrive and adjust, reactivate, inform, process and evaluate"}
 
 :::footer
-@stadeli2013aviva
+@stadeliAVIVAmodell2013
 :::
 
 ::: {.notes}
@@ -1093,7 +1093,7 @@ Activation methods are especially useful in this stage. They support learners in
 ![](images/05_ARIPE_scheme.png){fig-align="center" fig-alt="figure visualizing the five stages of the ARIPE+ scheme by Städeli et al. (2013), arrive and adjust, reactivate, inform, process and evaluate"}
 
 :::footer
-@stadeli2013aviva
+@stadeliAVIVAmodell2013
 :::
 
 ::: {.notes}
@@ -1308,7 +1308,7 @@ Finally, consider the cultural context in which the other person is in can help 
 At the end of this session, you are now able to:
 
 - **Consider** practical and logistical challenges of organizing an Open Research event ✅ 
-- **Structure** an Open Research event according to the five phases of the ARIPE+ scheme [@stadeli2013aviva] to facilitate the learning process ✅ 
+- **Structure** an Open Research event according to the five phases of the ARIPE+ scheme [@stadeliAVIVAmodell2013] to facilitate the learning process ✅ 
 - **Apply** techniques to **enhance** motivation in your learners ✅ 
 - **Understand** key elements of constructive feedback ✅ 
 

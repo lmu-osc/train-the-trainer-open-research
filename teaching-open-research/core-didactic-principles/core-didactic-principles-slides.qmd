@@ -249,7 +249,7 @@ Some terms we will come across today...
 - **Constructivism**: The notion that learners actively build their own understanding of the world rather than absorbing information passively [@sjobergConstructivismLearning2010].
 - **Constructive alignment**: A teaching approach in which learning objectives, teaching activities, and assessment tasks are aligned so that learners actively construct knowledge and skills [@biggsEnhancingTeachingConstructive1996].
 - **Learning objectives**: Describe what learners should be able to do after instruction and should specify the intended performance, conditions, and criteria for success.
-- **Bloom's taxonomy**: A framework for classifying levels of learning and cognitive skills [@bloom1964taxonomy], organized from lower-order thinking skills (e.g., remembering and understanding to higher-order skills (analyzing, evaluating).
+- **Bloom's taxonomy**: A framework for classifying levels of learning and cognitive skills [@bloomTaxonomyEducationalObjectives1964], organized from lower-order thinking skills (e.g., remembering and understanding to higher-order skills (analyzing, evaluating).
 </div>
 
 ::: {.notes}
@@ -336,7 +336,7 @@ Today, this definition has expanded a little, as we will see next.
 </div>
 
 :::footer
-@casasolariveraPapelDidacticaProcesos2020; @duitDidaktik2015; Dolch, 1967: @riskulovaTheRoleofDidactics2020
+@casasolariveraPapelDidacticaProcesos2020; @duitDidaktik2015; Dolch, 1967: @riskulovaRoleDidacticsTeaching2020
 :::
 
 ::: {.notes}
@@ -802,7 +802,7 @@ Clear objectives provide direction and intentionality, making them especially im
 </div>
 
 :::footer
-@mager1962preparing
+@magerPreparingInstructionalObjectives1962
 :::
 
 ::: {.notes}
@@ -951,7 +951,7 @@ Luckily, there is a framework that can help us with this even more.
 | **Psychomotor** | Manual or physical skills, change in behaviors |
 
 :::footer
-@stapleton2023bloom
+@stapleton-corcoranBloomsTaxonomyEducational2023
 :::
 
 ::: {.notes}
@@ -977,7 +977,7 @@ We need to be more specific in *what* we want our learners to learn. A useful fr
 :::
 
 ::: {.notes}
-**Presenter Notes**: In the cognitive domain, building knolledge and thinking skills is the primary objective. This framework was first conceptualized by Bloom (Bloom 1956) and is what we typically mean by Bloom's taxonomy [@bloom1964taxonomy]. It is an empirical model for describing and classifying the cognitive skills that learners should have mastered at the end of a course or session. 
+**Presenter Notes**: In the cognitive domain, building knolledge and thinking skills is the primary objective. This framework was first conceptualized by Bloom (Bloom 1956) and is what we typically mean by Bloom's taxonomy [@bloomTaxonomyEducationalObjectives1964]. It is an empirical model for describing and classifying the cognitive skills that learners should have mastered at the end of a course or session. 
 
 Example from Open Science: The learning objective focuses on analysis, requiring learners to critically examine how Open Science practices support transparency and reproducibility. This involves comparing, evaluating, and interpreting research processes.
 The teaching activity supports this by having learners compare real research workflows from papers, such as a traditional analysis pipeline with one using version control, preregistration, or shared data. They identify differences in transparency and reproducibility. The assessment is a group presentation in which learners explain the strengths and limitations of different practices and justify their evaluation using evidence, while developing collaborative reasoning.
@@ -1025,11 +1025,11 @@ At the **Create** level, learners produce new work by combining knowledge in ori
 :::
 
 :::footer
-@krathwohl1964taxonomy
+@krathwohlTaxonomyEducationalObjectives1964
 :::
 
 ::: {.notes}
-**Presenter Notes**: The affective domain was first published in 1964 by @krathwohl1964taxonomy. It focuses on attitudes and values as learning outcomes. Learners become increasingly self-reliant and internally motivated as they progress through its levels. Affective objectives can be difficult to articulate and assess, but they can be observed through behaviors such as appreciating alternative perspectives, engaging thoughtfully in discussion, asking questions, and recognizing complexity. These outcomes are often closely linked to deeper thinking and lifelong learning.
+**Presenter Notes**: The affective domain was first published in 1964 by @krathwohlTaxonomyEducationalObjectives1964 It focuses on attitudes and values as learning outcomes. Learners become increasingly self-reliant and internally motivated as they progress through its levels. Affective objectives can be difficult to articulate and assess, but they can be observed through behaviors such as appreciating alternative perspectives, engaging thoughtfully in discussion, asking questions, and recognizing complexity. These outcomes are often closely linked to deeper thinking and lifelong learning.
 
 In this example, the learning objective is not simply for learners to know what preregistration is, but for them to actively engage with differing viewpoints about its advantages and disadvantages. Learners are expected to ask clarifying questions and incorporate alternative perspectives into their own arguments, demonstrating openness and reflective thinking.
 
@@ -1045,7 +1045,7 @@ Finally, the assessment task is a reflection essay. Here, learners summarize the
 ![](images/affective-domain.png){width="100%" fig-align="center" fig-alt="pyramid of levels of affective learning domain"}
 
 :::footer
-@krathwohl1964taxonomy
+@krathwohlTaxonomyEducationalObjectives1964
 :::
 
 ::: {.notes}
@@ -1076,11 +1076,11 @@ Finally, the assessment task is a reflection essay. Here, learners summarize the
 :::
 
 :::footer
-@harrow1972taxonomy
+@harrowTaxonomyPsychomotorDomain1972
 :::
 
 ::: {.notes}
-**Presenter Notes**: The psychomotor domain focuses on building physical skills and behaviors as outcome. Bloom and his colleagues did not create subcategories for skills in the psychomotor domain, but other educators did, see @dave1970developing,  @harrow1972taxonomy and @simpson1985educational and other (Simpson 1966, 1972). The psychomotor domain includes physical movement, coordination, and motor skills. Development of these skills requires practice and is measured in terms of speed, precision, distance, procedures, or technical execution.
+**Presenter Notes**: The psychomotor domain focuses on building physical skills and behaviors as outcome. Bloom and his colleagues did not create subcategories for skills in the psychomotor domain, but other educators did, see @daveDevelopingWritingBehavioural1970, @harrowTaxonomyPsychomotorDomain1972 and @simpsonEducationalObjectivesPsychomotor1985 and other (Simpson 1966, 1972). The psychomotor domain includes physical movement, coordination, and motor skills. Development of these skills requires practice and is measured in terms of speed, precision, distance, procedures, or technical execution.
 
 A straightforward example could be the following: *The learning objective is for learners to accurately perform CPR using correct hand placement and rhythm. This emphasizes not only knowing the steps of CPR cognitively, but being able to physically carry them out correctly in a practical situation.*
 
@@ -1096,7 +1096,7 @@ For Open Science, it is a little harder to find a good example. Let's take corre
 ![](images/psychomotor-domain.png){width=100%, fig-align="center"}
 
 :::footer
-@simpson1985educational
+@simpsonEducationalObjectivesPsychomotor1985
 :::
 
 ::: {.notes}

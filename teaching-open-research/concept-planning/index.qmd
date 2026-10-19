@@ -40,7 +40,7 @@ with familiarity about open research challenges, issues and tools and basic dida
 At the end of this session, you will be able to ...
 
 - **Consider** practical and logistical challenges of organizing an Open Research event
-- **Structure** an Open Research event according to the five phases of the ARIPE+ scheme [@stadeli2013aviva] to facilitate the learning process
+- **Structure** an Open Research event according to the five phases of the ARIPE+ scheme [@stadeliAVIVAmodell2013] to facilitate the learning process
 - **Apply** techniques to **enhance** motivation in your learners
 - **Understand** key elements of constructive feedback
 

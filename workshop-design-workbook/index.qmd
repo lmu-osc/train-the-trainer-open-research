@@ -1,0 +1,103 @@
+---
+title: "Open Research Workshop Design Workbook"
+---
+
+> Plan and deliver your own Open Research workshop!
+
+## About this workbook
+
+::: {.callout-warning collapse="true"}
+## Citation statement
+Please cite these materials as: Middleton, S., & von Grebmer zu Wolfsthurn, S. (2026). *Open Research Workshop Design Workbook* [Google Document]. [LMU Open Science Center](https://www.osc.lmu.de/) and [FORRT](https://forrt.com). [DOI: 10.5281/zenodo.23236283](https://zenodo.org/records/23236283)
+:::
+
+**Welcome!** This workbook serves as a blueprint to planning your own **teaching event** on an **Open Research topic** of your choice, start-to-finish. This event could be a hands-on workshop, lecture, seminar, course, lecture series, etc. The workbook extends and complements the materials from [teaching and leading in open research](https://lmu-osc.github.io/train-the-trainer-open-research/), it therefore builds up on the skills that you acquired and developed in previous sessions. 
+
+**The workbook is designed to:**
+
+- **Accompany** previous sessions on teaching and leading in open research and help **consolidate the contents**
+- **Support** and **structure** your **event planning** by embedding the teaching and leadership skills acquired by completing previous sessions 
+- **Serve** as a **blueprint** to transfer your plans to the real world and deliver the event by **outlining logistical and practical considerations** for your Open Science event
+- **Provide additional resources** for you to explore before your teaching event
+
+::: {.callout-note collapse="false"}
+This workbook was originally developed to accompany the [LMU Open Science Summer School 2026](https://lmu-osc.github.io/Open-Science-Summer-School-2026/). You will therefore find occasional references to various parts of the summer school. The completion of the sections, however, remains unaffected.  
+:::
+
+### Who is this workbook for?
+
+**Aspiring open research instructors** and **self-learners** planning on teaching about Open Research topics with familiarity about open research challenges, issues and tools.
+
+### Prerequisites
+
+<div style="font-size: 0.8em;"> 
+| Prerequisite   |  Description  | Where to find it   |
+|------------|------------|------------|
+| Familiarity with Open Research concepts and practices | Examples: Replication crisis, open access, R, version control, preregistration, etc.| [Click here to get familiar with Open Research first](https://lmu-osc.github.io/training/self-learning.html) |
+| Didactic principles | A firm grasp on didactic tools for teaching | [Click here to get familiar with didactic principles](https://lmu-osc.github.io/train-the-trainer-open-research/teaching-open-research/core-didactic-principles/) |
+| Concept planning | Familiarity with techniques to plan, design and structure an Open Research event | [Click here to get familiar with planning and Open Reserch event principles](https://lmu-osc.github.io/train-the-trainer-open-research/teaching-open-research/concept-planning/) |
+| Creating positive learning environments | Familiarity with tools to create a supportive learning environment | [Click here to get familiar with how to create a positive learning environment](https://lmu-osc.github.io/train-the-trainer-open-research/teaching-open-research/creating-learning-environment/) |
+| Activation methods | Familiarity with tools to actively engage your learners | [Click here to get familiar with activation methods](https://lmu-osc.github.io/train-the-trainer-open-research/teaching-open-research/activation-methods/) |
+| Leadership skills | Familiarity with leadership values, challenges and strategies in leading in open research | [Click here to get familiar with leadership skills](https://lmu-osc.github.io/train-the-trainer-open-research/leadership-open-research/) |
+</div>
+
+## How to use this workbook
+
+### Downloading the workbook
+
+You can **access the template for the workbook** [here](https://docs.google.com/document/d/1FsF9KOEOgXnNDyQJgrfjollpKzdripsF/edit?usp=sharing&ouid=106086770706751839894&rtpof=true&sd=true). This is a **view-only** Google Document, with a **navigation menu** on the left side. **Download the workbook** as an **editable file** to your own machine or drive (*File > Download > Microsoft Word .docx > Save*). 
+
+<div style="text-align: center; margin: 1.5em 0;">
+  <a href="https://docs.google.com/document/d/1FsF9KOEOgXnNDyQJgrfjollpKzdripsF/edit?usp=sharing&ouid=106086770706751839894&rtpof=true&sd=true"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="
+       display: inline-block;
+       padding: 12px 24px;
+       background-color: #2C7FB8;
+       color: white;
+       text-decoration: none;
+       border-radius: 6px;
+       font-weight: bold;
+     ">
+    View Workbook Template
+  </a>
+</div>
+
+::: {.callout-important collapse="false"}
+This is a **template document**. **Do not make changes directly in the original document**, only in your downloaded copy.
+:::
+
+### Using the workbook
+
+After downloading the workbook, you can proceed as follows:
+
+- **Complete section by section**: Work in chronological order and collect your thoughts on different practical, didactic and leadership elements of designing the event. Each section provides guiding questions to help you formulate your ideas and provides you with prompts and text boxes to add your thoughts.
+- **Write down your concrete ideas** whenever you see this ✍️ sign and **fill in as much as you can**
+- **Going back and forth between section**: It is normal that there will be aspects of the event that, at this moment in time, you are unable to answer. This is totally fine, come back to it later when you have acquired new skills and a better idea for a specific element.
+- **Create your own Blueprint for your teaching event**: At the end, the idea is for you to generate a complete Blueprint (Section 9) for your open research event to use as a basis for the real-world delivery.
+
+### Support
+
+For any questions or improvement suggestions, please get in touch with the OSC coordinator, [Malika Ihle](https://www.osc.lmu.de/people/people/malika-ihle.html).
+
+## Contributors and licence details
+
+**Creators**: Middleton, Sara Lil
+(![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
+[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029)); Von Grebmer Zu Wolfsthurn, Sarah (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
+[0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))
+
+**Reviewer**: Ihle, Malika (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981))
+
+<br>
+
+<p style="text-align:center;">
+  <img src="images/cc-by-sa.png" 
+  alt="Creative Commons Attribution 4.0 SA"
+  style="width:160px;" />
+</p>
+
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.8em;">
+Open Research Workshop Design Workbook developed by Middleton, Sara Lil and von Grebmer zu Wolfsthurn, Sarah. This work is licensed under a [CC-BY-SA 4.0 Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+</div>
