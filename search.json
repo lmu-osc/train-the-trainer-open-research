@@ -946,49 +946,49 @@
   {
     "objectID": "template-folder/example-topic/index.html",
     "href": "template-folder/example-topic/index.html",
-    "title": "Introduction to Topic",
+    "title": "FOR CONTENT CREATORS ONLY: Introduction to Topic",
     "section": "",
     "text": "WarningCopy this template - do not edit directly\n\n\n\n\n\nThis is a template landing page with an example slide deck embedded within. Create your own folder and copy these materials (index file, slides qmd, images and assets folders) - do not edit the template directly. Get inspiration from other landing pages and completed slide decks. Delete this call-out box when the materials are final.\nClick here to see the materials in full screen",
     "crumbs": [
       "Home",
       "Template folder for material creators",
-      "Introduction to Topic"
+      "FOR CONTENT CREATORS ONLY: Introduction to Topic"
     ]
   },
   {
     "objectID": "template-folder/example-topic/index.html#about-these-materials",
     "href": "template-folder/example-topic/index.html#about-these-materials",
-    "title": "Introduction to Topic",
+    "title": "FOR CONTENT CREATORS ONLY: Introduction to Topic",
     "section": "About these materials",
     "text": "About these materials\n\n\n\n\n\n\nWarningCitation statement\n\n\n\n\n\nPlease cite these materials as: Name, E., Name, M., Name, F., & Name, S. (2026). Title of Slidedeck [Quarto slides]. LMU Open Science Center. https://lmu-osc.github.io/teaching-material-for-novices/open-research-tools/topic\n\n\n\n[Example text for Quarto] Welcome! This workshop is intended to introduce Quarto, an open-source publishing system that allows users to combine text, code, and other outputs to create reproducible reports, presentations, and websites. Learners will experience the basic workflow of creating and editing Quarto documents, rendering them into different formats, and using Quarto within an R-based research workflow. Learners will focus on practicing different Quarto elements to structure documents, include analysis results, and control the appearance of their outputs. In addition, the session demonstrates how to add citations and automatically generate a bibliography using Zotero. Through this guided, hands-on tutorial, learners will create their own Quarto document, render it into a finished output, and learn how to publish and share their work online using GitHub Pages.\n\nWho are these materials for?\n\nFuture open research train-the-trainers teaching other open research instructors or educators in higher education (e.g., universities, colleges) and\nAspiring open research instructors and self-learners\n\nwith familiarity about open research challenges, issues and tools.\n\n\nPrerequisites\n\n\n\n\nPrerequisite\nDescription\nWhere to find it\n\n\n\n\nR and RStudio installed\nLatest versions of both R and RStudio\nDownload RStudio\n\n\nBasic R skills\nIntroduction to R - Part I\nAccess here\n\n\nZotero\nReference Management Tool\nDownload Link\n\n\n\n\n\n\nLearning objectives\nAt the end of this session, you will be able to …\n\nCreate, edit, and render Quarto documents\nUse key Quarto features like code chunks, YAML headers, citations, and output formatting\nInsert citations and generate a bibliography with Zotero directly into the Quarto document\nPublish and share your work using GitHub Pages",
     "crumbs": [
       "Home",
       "Template folder for material creators",
-      "Introduction to Topic"
+      "FOR CONTENT CREATORS ONLY: Introduction to Topic"
     ]
   },
   {
     "objectID": "template-folder/example-topic/index.html#download-materials",
     "href": "template-folder/example-topic/index.html#download-materials",
-    "title": "Introduction to Topic",
+    "title": "FOR CONTENT CREATORS ONLY: Introduction to Topic",
     "section": "Download materials",
     "text": "Download materials\n\nExport slides\nYou can export these slides as MS PowerPoint (.pptx - in progress) or pdf by clicking below. Note that basic formatting will be applied to the PowerPoint file.\n\n Download slides as PDF \n\n\nSupplementary files\n\n Download the example cheatsheet",
     "crumbs": [
       "Home",
       "Template folder for material creators",
-      "Introduction to Topic"
+      "FOR CONTENT CREATORS ONLY: Introduction to Topic"
     ]
   },
   {
     "objectID": "template-folder/example-topic/index.html#contributors-and-licence-details",
     "href": "template-folder/example-topic/index.html#contributors-and-licence-details",
-    "title": "Introduction to Topic",
+    "title": "FOR CONTENT CREATORS ONLY: Introduction to Topic",
     "section": "Contributors and licence details",
     "text": "Contributors and licence details\nCreator: Von Grebmer Zu Wolfsthurn, Sarah ( 0000-0002-6413-3895)\nReviewer: Ihle, Malika ( 0000-0002-3242-5981)\nConsultant: Schönbrodt, Felix (0000-0002-8282-3910)\n\n\n\n\n\nThis work was originally created by FirstName Name under a CC-BY-SA 4.0 Creative Commons Attribution 4.0 SA International License. It was subsequently adapted by FirstName Name. This current work by FirstName Name and FirstName Name is licensed under a CC-BY-SA 4.0 Creative Commons Attribution 4.0 International SA License. Code snippets are dedicated to the public domain and are licensed under a Creative Commons Universal License (CC0 1.0).",
     "crumbs": [
       "Home",
       "Template folder for material creators",
-      "Introduction to Topic"
+      "FOR CONTENT CREATORS ONLY: Introduction to Topic"
     ]
   },
   {
@@ -2189,7 +2189,7 @@
     "href": "teaching-open-research/activation-methods/index.html",
     "title": "Activation methods",
     "section": "",
-    "text": "Something fun here\nClick here to see the materials in full screen",
+    "text": "Get your learners to be active!\nClick here to see the materials in full screen",
     "crumbs": [
       "Home",
       "Teaching Open Research",
