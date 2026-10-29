@@ -115,6 +115,8 @@ Note that code embedded in these materials is licenced under a **CC0 [Creative C
 
 - Malika Ihle (![](assets//logos/orcid-icon.png){fig-alt="orcid icon"} [0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981), LMU Open Science Center
 
+- Pat Callahan (![](assets//logos/orcid-icon.png){fig-alt="orcid icon"} [0000-0003-1769-7580](https://orcid.org/0000-0003-1769-7580), LMU Open Science Center
+
 - Felix Schönbrodt (![](assets//logos/orcid-icon.png){fig-alt="orcid icon"} [0000-0002-8282-3910](https://orcid.org/0000-0002-8282-3910)), LMU Open Science Center and Ludwig-Maximilians-Universität München, Faculty of Psychology and Pedagogy
 
 - Sophie Renard [LMU Profil](https://www.lmu.de/profil/de/profil-ueber-uns/personen-und-beratungsfachgebiete/kontaktseite/sophie-renard-3cedfec5.html)
