@@ -16,7 +16,7 @@ title: "Challenges in leadership"
 
 ::: {.callout-warning collapse="true"}
 ## Citation statement
-Please cite these materials as: Middleton, S., Verheyen, S., & Von Grebmer Zu Wolfsthurn, S., (2026). *Challenges in leadership* [Quarto slides]. LMU Open Science Center. [https://lmu-osc.github.io/train-the-trainer-open-research/leadership-open-research/challenges-leadership/](https://lmu-osc.github.io/train-the-trainer-open-research/leadership-open-research/challenges-leadership/)
+Please cite these materials as: Middleton, S., Verheyen, S., & Von Grebmer Zu Wolfsthurn, S. (2026). *Challenges in leadership* [Quarto slides]. LMU Open Science Center. [https://lmu-osc.github.io/train-the-trainer-open-research/leadership-open-research/challenges-leadership/](https://lmu-osc.github.io/train-the-trainer-open-research/leadership-open-research/challenges-leadership/)
 :::
 
 **Welcome!** These materials are intended to **provide future open research instructors and train-the-trainers** with the **awareness of the variety of challenges** in **adopting** Open Research practices. Open Research as a movement is growing. **Awareness of open research principles and practices** is **uneven** across teams, disciplines and institutions which can bring about challenges for leaders. These materials cover some of the reasons behind challenges and provide practical support for leaders to recognize where their sphere of influence lies through a challenge mapping exercise.

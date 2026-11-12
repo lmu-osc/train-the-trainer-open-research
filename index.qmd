@@ -76,7 +76,6 @@ Do you feel like there is **content missing** from the slides? Have you spotted 
 - **The quick and easy way**: Contact the program coordinator, [Sarah von Grebmer](mailto:s.grebmer@lmu.de) (LMU Open Science Center).
 
 - **The pro way** (involves GitHub): Navigate to the GitHub repository and open an issue, see [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue) for instructions on how to do this. Provide a descriptive title for your feedback, and describe your feedback in greater detail in the text box. Include which materials you want to provide feedback on, what the issue is and if it is low, medium or high priority. Tag Sarah von Grebmer (using her GitHub username [SvonGrebmer](https://github.com/SvonGrebmer)). 
-
 ## Frequently asked questions
 
 1. **What previous teaching experience do I need?**
@@ -85,7 +84,7 @@ No prior teaching experience is required! The materials will introduce you to th
   
 2. **Do I need to be familiar with open research to use these materials?**
 
-Yes! We do require a basic familiarity with open research principles. This is because the aim of the current materials is to develop your pedagogical skills to convey your open research knowledge and skills to different audiences. The pedagogy guidance and practical activities we provide draws upon open research practices (e.g., *navigating challenges to preregistration*). If you feel like you need to develop your open research skills first, please browse the available self-paced tutorials in our [self-learning catalogue](https://ree-gupta.github.io/lmu-osc.github.io/training/self_training.html).
+Yes! We do require a basic familiarity with open research principles. This is because the aim of the current materials is to develop your pedagogical skills to convey your open research knowledge and skills to different audiences. The pedagogy guidance and practical activities we provide draws upon open research practices (e.g., *navigating challenges to preregistration*). If you feel like you need to develop your open research skills first, please browse the available self-paced tutorials in our [self-learning catalogue](https://www.osc.lmu.de/training/self-learning.html).
 
 3. **I am not a member of the LMU Open Science Center, can I still use these materials to develop my skills?**
 
@@ -113,13 +112,13 @@ Note that code embedded in these materials is licenced under a **CC0 [Creative C
 
 - Sara Middleton (![](assets//logos/orcid-icon.png){fig-alt="orcid icon"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029)), LMU Open Science Center
 
-- Malika Ihle (![](assets//logos/orcid-icon.png){fig-alt="orcid icon"} [0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981), LMU Open Science Center
+- Malika Ihle (![](assets//logos/orcid-icon.png){fig-alt="orcid icon"} [0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981)), LMU Open Science Center
 
-- Pat Callahan (![](assets//logos/orcid-icon.png){fig-alt="orcid icon"} [0000-0003-1769-7580](https://orcid.org/0000-0003-1769-7580), LMU Open Science Center
+- Pat Callahan (![](assets//logos/orcid-icon.png){fig-alt="orcid icon"} [0000-0003-1769-7580](https://orcid.org/0000-0003-1769-7580)), LMU Open Science Center
 
 - Felix Schönbrodt (![](assets//logos/orcid-icon.png){fig-alt="orcid icon"} [0000-0002-8282-3910](https://orcid.org/0000-0002-8282-3910)), LMU Open Science Center and Ludwig-Maximilians-Universität München, Faculty of Psychology and Pedagogy
 
-- Sophie Renard [LMU Profil](https://www.lmu.de/profil/de/profil-ueber-uns/personen-und-beratungsfachgebiete/kontaktseite/sophie-renard-3cedfec5.html)
+- Sophie Renard [LMU PROFIL](https://www.lmu.de/profil/de/profil-ueber-uns/personen-und-beratungsfachgebiete/kontaktseite/sophie-renard-3cedfec5.html)
 
 - Flavio Azevedo (![](assets//logos/orcid-icon.png){fig-alt="orcid icon"} [0000-0001-9000-8513](https://orcid.org/0000-0001-9000-8513)), [FORRT](https://forrt.org/) director
 

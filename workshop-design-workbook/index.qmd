@@ -38,7 +38,7 @@ This workbook was originally developed to accompany the [LMU Open Science Summer
 | Concept planning | Familiarity with techniques to plan, design and structure an Open Research event | [Click here to get familiar with planning and Open Reserch event principles](https://lmu-osc.github.io/train-the-trainer-open-research/teaching-open-research/concept-planning/) |
 | Creating positive learning environments | Familiarity with tools to create a supportive learning environment | [Click here to get familiar with how to create a positive learning environment](https://lmu-osc.github.io/train-the-trainer-open-research/teaching-open-research/creating-learning-environment/) |
 | Activation methods | Familiarity with tools to actively engage your learners | [Click here to get familiar with activation methods](https://lmu-osc.github.io/train-the-trainer-open-research/teaching-open-research/activation-methods/) |
-| Leadership skills | Familiarity with leadership values, challenges and strategies in leading in open research | [Click here to get familiar with leadership skills](https://lmu-osc.github.io/train-the-trainer-open-research/leadership-open-research/) |
+| Leadership skills | Familiarity with leadership values, challenges and strategies in leading in open research | [Click here to get familiar with leadership skills](https://lmu-osc.github.io/train-the-trainer-open-research/leadership-open-research/leadership-skills-culture/) |
 </div>
 
 ## How to use this workbook
